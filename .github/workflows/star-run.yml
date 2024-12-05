@@ -34,7 +34,7 @@ jobs:
       # 4. 스크립트 실행
       - name: Run Starbucks Count Script
         run: |
-          python starbucks-count.py
+          python starbucks-count2.py
 
       # 5. 생성된 데이터 파일 커밋
       - name: Commit changes

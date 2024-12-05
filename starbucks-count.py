@@ -40,23 +40,23 @@ count_folder = os.path.join(base_folder, "count")
 os.makedirs(count_folder, exist_ok=True) 
 
 # 웹드라이버 설정
-options = ChromeOptions()
-options.add_argument("--headless")
-options.add_argument("--no-sandbox")
-options.add_argument("--disable-dev-shm-usage") 
-options.add_argument("--disable-gpu")
-options.add_argument("--disable-infobars")
-options.add_argument("--disable-notifications")  
-options.add_experimental_option("prefs", {
-    "profile.default_content_setting_values.geolocation": 2,  # 위치 권한 차단
-    "profile.default_content_setting_values.notifications": 2  # 알림 차단
-})
-browser = webdriver.Chrome(options=options)
-wait = WebDriverWait(browser, 10)
+# options = ChromeOptions()
+# options.add_argument("--headless")
+# options.add_argument("--no-sandbox")
+# options.add_argument("--disable-dev-shm-usage") 
+# options.add_argument("--disable-gpu")
+# options.add_argument("--disable-infobars")
+# options.add_argument("--disable-notifications")  
+# options.add_experimental_option("prefs", {
+#     "profile.default_content_setting_values.geolocation": 2,  # 위치 권한 차단
+#     "profile.default_content_setting_values.notifications": 2  # 알림 차단
+# })
+# browser = webdriver.Chrome(options=options)
+# wait = WebDriverWait(browser, 10)
 
 # 웹드라이버 설정(로컬)
-# browser = webdriver.Chrome()
-# wait = WebDriverWait(browser, 10)
+browser = webdriver.Chrome()
+wait = WebDriverWait(browser, 10)
 
 try:
     browser.get("https://www.starbucks.co.kr/store/store_map.do?disp=locale")
@@ -79,7 +79,7 @@ try:
     all_button = browser.find_element(By.CSS_SELECTOR, ".gugun_arae_box li:nth-child(1) a")
     browser.execute_script("arguments[0].click();", all_button)
     print("전체 버튼을 클릭했습니다.")
-    time.sleep(10)
+    time.sleep(20)
 
     # 페이지 소스를 BeautifulSoup을 사용하여 저장
     soup = BeautifulSoup(browser.page_source, 'html.parser')
