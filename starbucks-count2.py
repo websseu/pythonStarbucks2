@@ -80,14 +80,14 @@ try:
         button = browser.find_element(By.CSS_SELECTOR, button_selector)
         browser.execute_script("arguments[0].click();", button)
         print(f"{region_name_kor} 버튼을 클릭했습니다.")
-        time.sleep(15)
+        time.sleep(30)
 
         if region_name_kor != "세종":
             # 전체 버튼 클릭 (세종을 제외한 지역)
             all_button = browser.find_element(By.CSS_SELECTOR, ".gugun_arae_box li:nth-child(1) a")
             browser.execute_script("arguments[0].click();", all_button)
             print("전체 버튼을 클릭했습니다.")
-            time.sleep(30)
+            time.sleep(60)
 
         # 페이지 소스를 BeautifulSoup을 사용하여 저장
         soup = BeautifulSoup(browser.page_source, 'html.parser')
