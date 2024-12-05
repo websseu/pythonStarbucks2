@@ -15,15 +15,16 @@ current_date = datetime.now().strftime("%Y-%m-%d")
 
 # 웹드라이버 설정
 options = ChromeOptions()
-options.add_argument("--headless")  # UI를 띄우지 않음
-options.add_argument("--disable-gpu")
+options.add_argument("--headless")
 options.add_argument("--no-sandbox")
-options.add_argument("--disable-notifications")
+options.add_argument("--disable-dev-shm-usage") 
+options.add_argument("--disable-gpu")
 options.add_argument("--disable-infobars")
-options.add_experimental_option(
-    "prefs", {"profile.default_content_setting_values.geolocation": 2}
-)
-
+options.add_argument("--disable-notifications")
+options.add_experimental_option("prefs", {
+    "profile.default_content_setting_values.geolocation": 2,  # 위치 권한 차단
+    "profile.default_content_setting_values.notifications": 2  # 알림 차단
+})
 browser = webdriver.Chrome(options=options)
 wait = WebDriverWait(browser, 10)
 
@@ -74,7 +75,7 @@ try:
             )
             browser.execute_script("arguments[0].click();", region_button)
             print(f"{region} 버튼 클릭 완료.")
-            time.sleep(5)
+            time.sleep(10)
 
             # "전체" 버튼 클릭
             if region != "세종":  # 세종 지역은 전체 버튼이 없으므로 스킵
@@ -86,7 +87,7 @@ try:
                     )
                     browser.execute_script("arguments[0].click();", all_button)
                     print("전체 버튼 클릭 완료.")
-                    time.sleep(8)
+                    time.sleep(10)
                 except TimeoutException:
                     print(f"{region}: '전체' 버튼이 없어 다음으로 넘어갑니다.")
                     continue
