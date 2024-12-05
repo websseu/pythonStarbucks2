@@ -19,23 +19,23 @@ count_folder = os.path.join(base_folder, "count")
 os.makedirs(count_folder, exist_ok=True) 
 
 # 웹드라이버 설정
-# options = ChromeOptions()
-# options.add_argument("--headless")
-# options.add_argument("--no-sandbox")
-# options.add_argument("--disable-dev-shm-usage")  # 메모리 부족 문제 방지
-# options.add_argument("--disable-gpu")
-# options.add_argument("--disable-infobars")
-# options.add_argument("--disable-notifications")  # 알림 비활성화
-# options.add_experimental_option("prefs", {
-#     "profile.default_content_setting_values.geolocation": 2,  # 위치 권한 차단
-#     "profile.default_content_setting_values.notifications": 2  # 알림 차단
-# })
-# browser = webdriver.Chrome(options=options)
-# wait = WebDriverWait(browser, 10)
+options = ChromeOptions()
+options.add_argument("--headless")
+options.add_argument("--no-sandbox")
+options.add_argument("--disable-dev-shm-usage")  # 메모리 부족 문제 방지
+options.add_argument("--disable-gpu")
+options.add_argument("--disable-infobars")
+options.add_argument("--disable-notifications")  # 알림 비활성화
+options.add_experimental_option("prefs", {
+    "profile.default_content_setting_values.geolocation": 2,  # 위치 권한 차단
+    "profile.default_content_setting_values.notifications": 2  # 알림 차단
+})
+browser = webdriver.Chrome(options=options)
+wait = WebDriverWait(browser, 10)
 
 # 웹드라이버 설정(로컬)
-browser = webdriver.Chrome()
-wait = WebDriverWait(browser, 10)
+# browser = webdriver.Chrome()
+# wait = WebDriverWait(browser, 10)
 
 try:
     browser.get("https://www.starbucks.co.kr/store/store_map.do?disp=locale")
