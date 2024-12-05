@@ -19,34 +19,34 @@ count_folder = os.path.join(base_folder, "count")
 os.makedirs(count_folder, exist_ok=True) 
 
 # 웹드라이버 설정
-options = ChromeOptions()
-options.add_argument("--headless")
-options.add_argument("--no-sandbox")
-options.add_argument("--disable-dev-shm-usage")  # 메모리 부족 문제 방지
-options.add_argument("--disable-gpu")
-options.add_argument("--disable-infobars")
-options.add_argument("--disable-notifications")  # 알림 비활성화
-options.add_experimental_option("prefs", {
-    "profile.default_content_setting_values.geolocation": 2,  # 위치 권한 차단
-    "profile.default_content_setting_values.notifications": 2  # 알림 차단
-})
-browser = webdriver.Chrome(options=options)
-wait = WebDriverWait(browser, 10)
-
+# options = ChromeOptions()
+# options.add_argument("--headless")
+# options.add_argument("--no-sandbox")
+# options.add_argument("--disable-dev-shm-usage")  # 메모리 부족 문제 방지
+# options.add_argument("--disable-gpu")
+# options.add_argument("--disable-infobars")
+# options.add_argument("--disable-notifications")  # 알림 비활성화
+# options.add_experimental_option("prefs", {
+#     "profile.default_content_setting_values.geolocation": 2,  # 위치 권한 차단
+#     "profile.default_content_setting_values.notifications": 2  # 알림 차단
+# })
+# browser = webdriver.Chrome(options=options)
+# wait = WebDriverWait(browser, 10)
 
 # 웹드라이버 설정(로컬)
-# browser = webdriver.Chrome()
-# wait = WebDriverWait(browser, 10)
+browser = webdriver.Chrome()
+wait = WebDriverWait(browser, 10)
 
 try:
     browser.get("https://www.starbucks.co.kr/store/store_map.do?disp=locale")
+    time.sleep(10)
 
     # 페이지가 완전히 로드될 때까지 대기
     WebDriverWait(browser, 10).until(
         EC.presence_of_element_located((By.CLASS_NAME, "store_map_layer_cont"))
     )
     print("페이지가 완전히 로드되었습니다.")
-    time.sleep(5)
+    time.sleep(10)
 
     # 서울 버튼 클릭
     sido_button = browser.find_element(By.CSS_SELECTOR, ".sido_arae_box li:nth-child(1) a")
@@ -72,7 +72,7 @@ try:
     count_data = {
         "date": current_date,
         "total": total_count,
-        "seoul": total_count  # 현재 페이지에서 서울 매장만 조회했다고 가정
+        "seoul": total_count 
     }
     count_file_path = os.path.join(count_folder, f"starbucks-count_{current_date}.json")
     with open(count_file_path, "w", encoding="utf-8") as json_file:
