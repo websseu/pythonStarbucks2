@@ -41,23 +41,23 @@ count_folder = os.path.join(base_folder, "count")
 os.makedirs(count_folder, exist_ok=True) 
 
 # 웹드라이버 설정
-# options = ChromeOptions()
-# options.add_argument("--headless")
-# options.add_argument("--no-sandbox")
-# options.add_argument("--disable-dev-shm-usage") 
-# options.add_argument("--disable-gpu")
-# options.add_argument("--disable-infobars")
-# options.add_argument("--disable-notifications")  
-# options.add_experimental_option("prefs", {
-#     "profile.default_content_setting_values.geolocation": 2,  # 위치 권한 차단
-#     "profile.default_content_setting_values.notifications": 2  # 알림 차단
-# })
-# browser = webdriver.Chrome(options=options)
-# wait = WebDriverWait(browser, 10)
+options = ChromeOptions()
+options.add_argument("--headless")
+options.add_argument("--no-sandbox")
+options.add_argument("--disable-dev-shm-usage") 
+options.add_argument("--disable-gpu")
+options.add_argument("--disable-infobars")
+options.add_argument("--disable-notifications")  
+options.add_experimental_option("prefs", {
+    "profile.default_content_setting_values.geolocation": 2,  # 위치 권한 차단
+    "profile.default_content_setting_values.notifications": 2  # 알림 차단
+})
+browser = webdriver.Chrome(options=options)
+wait = WebDriverWait(browser, 10)
 
 # 웹드라이버 설정(로컬)
-browser = webdriver.Chrome()
-wait = WebDriverWait(browser, 10)
+# browser = webdriver.Chrome()
+# wait = WebDriverWait(browser, 10)
 
 # 지역별 매장 수를 저장할 딕셔너리
 region_counts = {}
