@@ -22,10 +22,10 @@ os.makedirs(count_folder, exist_ok=True)
 options = ChromeOptions()
 options.add_argument("--headless")
 options.add_argument("--no-sandbox")
-options.add_argument("--disable-dev-shm-usage")  # 메모리 부족 문제 방지
+options.add_argument("--disable-dev-shm-usage") 
 options.add_argument("--disable-gpu")
 options.add_argument("--disable-infobars")
-options.add_argument("--disable-notifications")  # 알림 비활성화
+options.add_argument("--disable-notifications")  
 options.add_experimental_option("prefs", {
     "profile.default_content_setting_values.geolocation": 2,  # 위치 권한 차단
     "profile.default_content_setting_values.notifications": 2  # 알림 차단
@@ -52,13 +52,13 @@ try:
     sido_button = browser.find_element(By.CSS_SELECTOR, ".sido_arae_box li:nth-child(1) a")
     browser.execute_script("arguments[0].click();", sido_button)
     print("서울 버튼을 클릭했습니다.")
-    time.sleep(3)
+    time.sleep(5)
 
     # 전체 버튼 클릭
     all_button = browser.find_element(By.CSS_SELECTOR, ".gugun_arae_box li:nth-child(1) a")
     browser.execute_script("arguments[0].click();", all_button)
     print("전체 버튼을 클릭했습니다.")
-    time.sleep(3)
+    time.sleep(10)
 
     # 페이지 소스를 BeautifulSoup을 사용하여 저장
     soup = BeautifulSoup(browser.page_source, 'html.parser')
