@@ -1,11 +1,11 @@
-# 파이썬을 이용한 스타벅스 데이터 수집하기
+# Starbucks Data Scraper
 
-파이썬을 이용하여 스타벅스 홈페이지에서 스타벅스 매장 정보를 수집하겠습니다.
+This project uses Python to collect Starbucks store location data from the official Starbucks website. The script automates the process using Selenium and BeautifulSoup
 
-## 지역
+Install dependencies:
 
-```
-
+```bash
+pip install selenium beautifulsoup4 pandas
 ```
 
 ## 폴더명
