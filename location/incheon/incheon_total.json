@@ -44,7 +44,7 @@
       "address": "인천광역시 계양구 장제로 808 (계산동)",
       "latitude": "37.53992910101706",
       "longitude": "126.73500883789144",
-      "parking": ["건물", "주차불가", "0", ""],
+      "parking": ["건물", "주차불가", "0", "0"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/06/[3069]_20220615085550_prcz5.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/06/[3069]_20220616074853_zupc1.jpg",
@@ -96,7 +96,7 @@
       "address": "인천광역시 계양구 서운산단로2길 6 (서운동) BMW 바바리안모터스",
       "latitude": "37.5322648",
       "longitude": "126.7564676",
-      "parking": ["건물", "주차불가", "0", ""],
+      "parking": ["건물", "주차불가", "0", "0"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/01/[4226]_20240104092710_uqouf.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/02/[4226]_20220224084925_buyxk.jpg",
@@ -165,7 +165,7 @@
       "address": "인천광역시 미추홀구 주안로 100 (주안동) 1층,2층",
       "latitude": "37.46386743799924",
       "longitude": "126.68075518314572",
-      "parking": ["건물", "주차불가", "0", ""],
+      "parking": ["건물", "주차불가", "0", "0"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/09/[9522]_20220918050612_66b6p.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/07/[9522]_20240717102050_eg2ih.jpg",
@@ -182,7 +182,7 @@
       "address": "인천광역시 미추홀구 인하로 59 (용현동)",
       "latitude": "37.451827",
       "longitude": "126.654969",
-      "parking": ["건물", "주차불가", "0", ""],
+      "parking": ["건물", "주차불가", "0", "0"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/04/[9622]_20240417033815_qrhhj.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/09/[9622]_20220923113629_jg81b.jpg",
@@ -380,7 +380,7 @@
       "address": "인천광역시 부평구 길주로 643 (삼산동)",
       "latitude": "37.50721456288332",
       "longitude": "126.734349785017",
-      "parking": ["건물", "주차불가", "0", ""],
+      "parking": ["건물", "주차불가", "0", "0"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2021/10/[3012]_20211028040340_6kkzl.jpg",
         "https://image.istarbucks.co.kr/upload/store/2021/10/[3012]_20211028040348_wjlsx.jpg",
@@ -397,7 +397,7 @@
       "address": "인천광역시 부평구 부평문화로 52, 1~2층 (부평동)",
       "latitude": "37.49381756287661",
       "longitude": "126.7220234677852",
-      "parking": ["건물", "주차불가", "0", ""],
+      "parking": ["건물", "주차불가", "0", "0"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/11/[9880]_20241104032445_3qnbw.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/11/[9880]_20241104032508_dba6c.jpg",
@@ -433,7 +433,7 @@
       "address": "인천광역시 부평구 경원대로 1397 (부평동)",
       "latitude": "37.491618187410445",
       "longitude": "126.7245136509578",
-      "parking": ["건물", "주차불가", "0", ""],
+      "parking": ["건물", "주차불가", "0", "0"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/09/[9224]_20220925054327_d00e5.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/09/[9224]_20220925054343_977bi.jpg",
@@ -451,7 +451,7 @@
       "address": "인천광역시 부평구 경원대로 1377, 1-4층 (부평동)",
       "latitude": "37.49151122434563",
       "longitude": "126.72212247632325",
-      "parking": ["건물", "주차불가", "0", ""],
+      "parking": ["건물", "주차불가", "0", "0"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/07/[9552]_20240730040834_0z333.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/07/[9552]_20240730041356_umshm.jpg",
@@ -487,7 +487,7 @@
       "address": "인천광역시 부평구 동수로 56 (부평동)",
       "latitude": "37.48528945224756",
       "longitude": "126.72583716283944",
-      "parking": ["건물", "주차불가", "0", ""],
+      "parking": ["건물", "주차불가", "0", "0"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/09/[4198]_20220918102139_nxwme.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/09/[4198]_20220921032215_ayaxf.jpg",
@@ -701,7 +701,7 @@
       "address": "인천광역시 연수구 송도바이오대로 300 (송도동)",
       "latitude": "37.3667885340256",
       "longitude": "126.65931166936401",
-      "parking": ["건물", "주차불가", "0", ""],
+      "parking": ["건물", "주차불가", "0", "0"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2023/07/[4443]_20230730103438_eqc7l.jpg",
         "https://image.istarbucks.co.kr/upload/store/2023/07/[4443]_20230731070702_fumxe.png",
@@ -927,7 +927,7 @@
       "address": "인천광역시 서구 서곶로 277 (심곡동)",
       "latitude": "37.5424157",
       "longitude": "126.67636",
-      "parking": ["건물", "주차불가", "0", ""],
+      "parking": ["건물", "주차불가", "0", "0"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2020/05/[9985]_20200510060826_8rngl.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/11/[9985]_20241101041931_twyk3.jpg",
@@ -1104,7 +1104,7 @@
       "address": "인천광역시 남동구 인하로 556 (구월동)",
       "latitude": "37.442715",
       "longitude": "126.708511",
-      "parking": ["건물", "주차불가", "0", ""],
+      "parking": ["건물", "주차불가", "0", "0"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/11/[3513]_20221102115833_iuuve.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/11/[3513]_20221102115840_1fs88.jpg",
@@ -1172,7 +1172,7 @@
       "address": "인천광역시 남동구 예술로 174 (구월동) 흥국생명",
       "latitude": "37.449472",
       "longitude": "126.701438",
-      "parking": ["건물", "주차불가", "0", ""],
+      "parking": ["건물", "주차불가", "0", "0"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2020/05/[9949]_20200501095915_cgxd2.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/11/[9949]_20221103090051_9d7ov.jpg",
@@ -1190,7 +1190,7 @@
       "address": "인천광역시 남동구 인하로 497-22, 2층 (구월동)",
       "latitude": "37.44420071",
       "longitude": "126.7021764",
-      "parking": ["건물", "주차불가", "0", ""],
+      "parking": ["건물", "주차불가", "0", "0"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/10/[9446]_20221030011353_r63jf.jpg",
         "https://image.istarbucks.co.kr/upload/store/2023/10/[9446]_20231022020304_uruim.jpg",
@@ -1255,7 +1255,7 @@
       "address": "인천광역시 남동구 용천로 70 (구월동)",
       "latitude": "37.45587",
       "longitude": "126.71496",
-      "parking": ["건물", "주차불가", "0", ""],
+      "parking": ["건물", "주차불가", "0", "0"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2023/04/[4300]_20230404022707_2s24u.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/10/[4300]_20221014055559_6ebmw.jpg",
@@ -1307,7 +1307,7 @@
       "address": "인천광역시 중구 신도시남로142번길 17 (운서동)",
       "latitude": "37.493991",
       "longitude": "126.492667",
-      "parking": ["건물", "주차불가", "0", ""],
+      "parking": ["건물", "주차불가", "0", "0"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2023/04/[3413]_20230429100130_l28e4.jpg",
         "https://image.istarbucks.co.kr/upload/store/2023/04/[3413]_20230429095359_h4hsh.jpg",
@@ -1325,7 +1325,7 @@
       "address": "인천광역시 중구 공항로 272 (운서동) 인천국제공항여객터미널 FB-P5-73",
       "latitude": "37.449611",
       "longitude": "126.450031",
-      "parking": ["건물", "주차불가", "0", ""],
+      "parking": ["건물", "주차불가", "0", "0"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/10/[3191]_20221012100334_b9rua.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/09/[3191]_20220921112918_su7es.jpg",
@@ -1356,7 +1356,7 @@
       "address": "인천광역시 중구 제2터미널대로 444 (운서동)인천공항2터미널 3층 Air side",
       "latitude": "37.46586128108467",
       "longitude": "126.43282206633417",
-      "parking": ["건물", "주차불가", "0", ""],
+      "parking": ["건물", "주차불가", "0", "0"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/05/[4541]_20240509072240_fe6bm.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/05/[4541]_20240509072315_1p88h.jpg",
@@ -1371,7 +1371,7 @@
       "address": "인천광역시 중구 제2터미널대로 444 (운서동)",
       "latitude": "37.46950023649197",
       "longitude": "126.43306587403337",
-      "parking": ["건물", "주차불가", "0", ""],
+      "parking": ["건물", "주차불가", "0", "0"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/08/[4569]_20240814072124_lwzrr.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/08/[4569]_20240824050951_w58dc.jpg",
@@ -1388,7 +1388,7 @@
       "address": "인천광역시 중구 공항로 272 (운서동)",
       "latitude": "37.4489769939554",
       "longitude": "126.4515342862197",
-      "parking": ["건물", "주차불가", "0", ""],
+      "parking": ["건물", "주차불가", "0", "0"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/12/[4563]_20241205041344_2u2yq.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/12/[4563]_20241205041350_4hvvx.jpg"
@@ -1400,7 +1400,7 @@
       "address": "인천광역시 중구 공항로 272 (운서동) 인천공항1터미널 에어4층",
       "latitude": "37.450192357956816",
       "longitude": "126.45083603193113",
-      "parking": ["건물", "주차불가", "0", ""],
+      "parking": ["건물", "주차불가", "0", "0"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/05/[4535]_20240518114750_stjcu.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/05/[4535]_20240518114710_8pbtd.jpg",
