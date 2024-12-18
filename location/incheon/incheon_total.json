@@ -9,7 +9,13 @@
       "address": "인천광역시 강화군 강화읍 강화대로 343",
       "latitude": "37.7426",
       "longitude": "126.4916",
-      "parking": ["DT점", "주차가능", "10대", "유료", "조건부 무료"],
+      "parking": [
+        "DT점",
+        "주차가능",
+        "10대",
+        "유료",
+        "스타벅스 영수증당 1시간 무료"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2023/01/[3716]_20230109123322_ube9u.jpg",
         "https://image.istarbucks.co.kr/upload/store/2023/01/[3716]_20230109123330_c6dd4.jpg",
