@@ -9,7 +9,7 @@
       "address": "인천광역시 강화군 강화읍 강화대로 343",
       "latitude": "37.7426",
       "longitude": "126.4916",
-      "parking": ["DT", "주차가능", "10", "유료"],
+      "parking": ["DT점", "주차가능", "10대", "유료", "조건부 무료"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2023/01/[3716]_20230109123322_ube9u.jpg",
         "https://image.istarbucks.co.kr/upload/store/2023/01/[3716]_20230109123330_c6dd4.jpg",
@@ -27,7 +27,7 @@
       "address": "인천광역시 계양구 계양대로 131 (작전동)",
       "latitude": "37.53554797027134",
       "longitude": "126.72225333064953",
-      "parking": ["DT", "주차가능", "2", "무료"],
+      "parking": ["DT점", "주차가능", "2대", "무료"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2019/10/[3658]_20191021032630_q3w0h.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/11/[3658]_20241101045131_bhmp9.jpg",
@@ -44,7 +44,7 @@
       "address": "인천광역시 계양구 장제로 808 (계산동)",
       "latitude": "37.53992910101706",
       "longitude": "126.73500883789144",
-      "parking": ["건물", "주차불가", "0", "0"],
+      "parking": ["건물", "주차불가"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/06/[3069]_20220615085550_prcz5.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/06/[3069]_20220616074853_zupc1.jpg",
@@ -61,7 +61,7 @@
       "address": "인천광역시 계양구 계양대로 37, 1층 (작전동)",
       "latitude": "37.527035308152364",
       "longitude": "126.72205015069161",
-      "parking": ["건물", "주차가능", "30", "유료"],
+      "parking": ["건물", "주차가능", "30대 이상", "유료", "1시간 무료 주차"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/10/[9799]_20241031100318_u2lvu.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/10/[9799]_20241015121542_f4tpg.jpg",
@@ -78,7 +78,13 @@
       "address": "인천광역시 계양구 경명대로 1105 (계산동)",
       "latitude": "37.543618257713824",
       "longitude": "126.72985005007184",
-      "parking": ["DT", "주차가능", "7", "유료"],
+      "parking": [
+        "DT점",
+        "주차가능",
+        "7대",
+        "유료",
+        "30분 무료, 1만원 이상 1시간 무료, 최대 4시간"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2021/08/[3825]_20210803115329_ne3hh.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/11/[3825]_20241102094312_yd7bs.jpg",
@@ -96,7 +102,7 @@
       "address": "인천광역시 계양구 서운산단로2길 6 (서운동) BMW 바바리안모터스",
       "latitude": "37.5322648",
       "longitude": "126.7564676",
-      "parking": ["건물", "주차불가", "0", "0"],
+      "parking": ["건물", "주차불가"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/01/[4226]_20240104092710_uqouf.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/02/[4226]_20220224084925_buyxk.jpg",
@@ -111,7 +117,13 @@
       "address": "인천광역시 계양구 오조산로 85 (용종동)",
       "latitude": "37.538786204963344",
       "longitude": "126.7386562436693",
-      "parking": ["건물", "주차가능", "10", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "10대 이상",
+        "유료",
+        "1시간 무료 주차, 이후 10분당 5백원 부과"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2023/03/[4408]_20230317040846_f2bme.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/11/[4408]_20241103110746_5w86f.jpg",
@@ -129,7 +141,7 @@
       "address": "인천광역시 미추홀구 매소홀로 368 (학익동)",
       "latitude": "37.44046613341327",
       "longitude": "126.66296680683121",
-      "parking": ["DT", "주차가능", "4", "무료"],
+      "parking": ["DT점", "주차가능", "4대", "무료"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/09/[3506]_20220921094411_5roq0.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/09/[3506]_20220921094555_tgrys.jpg",
@@ -147,7 +159,7 @@
       "address": "인천광역시 미추홀구 아암대로 107 (용현동)",
       "latitude": "37.4523373",
       "longitude": "126.6325809",
-      "parking": ["DT", "주차가능", "5", "무료"],
+      "parking": ["DT점", "주차가능", "5", "무료"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/01/[3211]_20240131062758_0oshs.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/11/[3211]_20241126100417_ykunv.jpg",
@@ -165,7 +177,7 @@
       "address": "인천광역시 미추홀구 주안로 100 (주안동) 1층,2층",
       "latitude": "37.46386743799924",
       "longitude": "126.68075518314572",
-      "parking": ["건물", "주차불가", "0", "0"],
+      "parking": ["건물", "주차불가"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/09/[9522]_20220918050612_66b6p.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/07/[9522]_20240717102050_eg2ih.jpg",
@@ -182,7 +194,7 @@
       "address": "인천광역시 미추홀구 인하로 59 (용현동)",
       "latitude": "37.451827",
       "longitude": "126.654969",
-      "parking": ["건물", "주차불가", "0", "0"],
+      "parking": ["건물", "주차불가"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/04/[9622]_20240417033815_qrhhj.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/09/[9622]_20220923113629_jg81b.jpg",
@@ -200,7 +212,13 @@
       "address": "인천광역시 미추홀구 경인로 372 (주안동, 포레나 미추홀)",
       "latitude": "37.45813976248927",
       "longitude": "126.68093494384136",
-      "parking": ["건물", "주차가능", "99", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "500대 이상",
+        "유료",
+        "결제시 2시간 무료"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2023/08/[4480]_20230829090435_pw6bz.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/01/[4480]_20240112085831_c95bf.jpg",
@@ -217,7 +235,13 @@
       "address": "인천광역시 미추홀구 경원대로 656 (관교동)",
       "latitude": "37.4418005811163",
       "longitude": "126.6930841977393",
-      "parking": ["DT", "주차가능", "6", "유료"],
+      "parking": [
+        "DT점",
+        "주차가능",
+        "6대",
+        "유료",
+        "1만원 이상 구매시 1시간, 일 최대 4시간 이용 가능"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2023/03/[4168]_20230307055652_6twfw.jpg",
         "https://image.istarbucks.co.kr/upload/store/2023/03/[4168]_20230308120909_1hw2c.jpg",
@@ -235,7 +259,13 @@
       "address": "인천광역시 미추홀구 경인로 103 (숭의동)",
       "latitude": "37.466522",
       "longitude": "126.654075",
-      "parking": ["DT", "주차가능", "9", "유료"],
+      "parking": [
+        "DT점",
+        "주차가능",
+        "9대",
+        "유료",
+        "1만원 이상 구매시 1시간, 일 최대 4시간 이용 가능"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2021/03/[3754]_20210314041038_f5onz.jpg",
         "https://image.istarbucks.co.kr/upload/store/2021/11/[3754]_20211110125522_ds825.jpg",
@@ -254,7 +284,7 @@
       "address": "인천광역시 미추홀구 인주대로 443 (주안동)",
       "latitude": "37.4513564",
       "longitude": "126.6858992",
-      "parking": ["DT", "주차가능", "7", "무료"],
+      "parking": ["DT점", "주차가능", "7대", "무료"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2021/10/[3873]_20211025084714_gjep2.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/09/[3873]_20220918031028_orcgb.jpg",
@@ -273,7 +303,13 @@
       "address": "인천광역시 미추홀구 장고개로 28 (도화동)",
       "latitude": "37.47054651819746",
       "longitude": "126.66701162526885",
-      "parking": ["DT", "주차가능", "9", "유료"],
+      "parking": [
+        "DT점",
+        "주차가능",
+        "9대",
+        "유료",
+        "1만원 이상 구매시 1시간, 일 최대 4시간 이용 가능"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/09/[3991]_20220916080525_augwn.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/09/[3991]_20220916080530_l24hb.jpg",
@@ -291,7 +327,7 @@
       "address": "인천광역시 미추홀구 독배로 309 (용현동)",
       "latitude": "37.44768876601584",
       "longitude": "126.64938447335034",
-      "parking": ["건물", "주차가능", "37", "유료"],
+      "parking": ["건물", "주차가능", "37대", "유료", "매장이용 시 2시간 무료"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/09/[3982]_20220923100447_pkj62.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/09/[3982]_20220915035936_c1q1z.jpg",
@@ -308,7 +344,13 @@
       "address": "인천광역시 미추홀구 매소홀로 618 (문학동)",
       "latitude": "37.436624",
       "longitude": "126.692362",
-      "parking": ["건물", "주차가능", "99", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "100대 이상",
+        "유료",
+        "입차시 무조건 2000원"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2021/06/[4123]_20210609045001_knzlm.jpg",
         "https://image.istarbucks.co.kr/upload/store/2021/06/[4123]_20210609045017_86eyq.jpg"
@@ -320,7 +362,13 @@
       "address": "인천광역시 미추홀구 매소홀로 618 (문학동)",
       "latitude": "37.43703514338438",
       "longitude": "126.69256976085872",
-      "parking": ["건물", "주차가능", "99", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "100대 이상",
+        "유료",
+        "입차시 무조건 2000원"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2021/08/[4187]_20210820084139_f3dnf.jpg"
       ]
@@ -331,7 +379,13 @@
       "address": "인천광역시 미추홀구 한나루로 525 (주안동)",
       "latitude": "37.4536849988819",
       "longitude": "126.668272868558",
-      "parking": ["DT", "주차가능", "17", "유료"],
+      "parking": [
+        "DT점",
+        "주차가능",
+        "17",
+        "유료",
+        "1만원 이상 구매시 1시간, 일 최대 4시간 이용 가능"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/09/[3907]_20220921011859_gjam6.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/09/[3907]_20220921071826_bm897.jpg",
@@ -349,7 +403,13 @@
       "address": "인천광역시 동구 봉수대로 82, 이마트 트레이더스송림점1층 (송림동)",
       "latitude": "37.48302527840734",
       "longitude": "126.65983607738293",
-      "parking": ["건물", "주차가능", "99", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "100대 이상",
+        "유료",
+        "이용고객 2시간 무료"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/09/[9830]_20220922084736_3f31q.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/09/[9830]_20220922084751_xxleg.jpg",
@@ -364,7 +424,13 @@
       "address": "인천광역시 부평구 장제로 371 (갈산동)",
       "latitude": "37.5189106",
       "longitude": "126.7321159",
-      "parking": ["DT", "주차가능", "3", "유료"],
+      "parking": [
+        "DT점",
+        "주차가능",
+        "3대",
+        "유료",
+        "1만원 이상 구매시 1시간, 일 최대 4시간 이용 가능"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2020/11/[3117]_20201116105436_96fxk.jpg",
         "https://image.istarbucks.co.kr/upload/store/2020/11/[3117]_20201116105443_m4jhg.jpg",
@@ -380,7 +446,7 @@
       "address": "인천광역시 부평구 길주로 643 (삼산동)",
       "latitude": "37.50721456288332",
       "longitude": "126.734349785017",
-      "parking": ["건물", "주차불가", "0", "0"],
+      "parking": ["건물", "주차불가"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2021/10/[3012]_20211028040340_6kkzl.jpg",
         "https://image.istarbucks.co.kr/upload/store/2021/10/[3012]_20211028040348_wjlsx.jpg",
@@ -397,7 +463,7 @@
       "address": "인천광역시 부평구 부평문화로 52, 1~2층 (부평동)",
       "latitude": "37.49381756287661",
       "longitude": "126.7220234677852",
-      "parking": ["건물", "주차불가", "0", "0"],
+      "parking": ["건물", "주차불가"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/11/[9880]_20241104032445_3qnbw.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/11/[9880]_20241104032508_dba6c.jpg",
@@ -416,7 +482,13 @@
       "address": "인천광역시 부평구 부평대로 60, 현대해상화재보험 1층 (부평동)",
       "latitude": "37.49702472352973",
       "longitude": "126.72280600095914",
-      "parking": ["건물", "주차가능", "99", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "100대 이상",
+        "유료",
+        "영수증당 최대 30분 무료"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/09/[9791]_20220921094057_y6qwf.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/09/[9791]_20220921094110_6sw7y.jpg",
@@ -433,7 +505,7 @@
       "address": "인천광역시 부평구 경원대로 1397 (부평동)",
       "latitude": "37.491618187410445",
       "longitude": "126.7245136509578",
-      "parking": ["건물", "주차불가", "0", "0"],
+      "parking": ["건물", "주차불가"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/09/[9224]_20220925054327_d00e5.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/09/[9224]_20220925054343_977bi.jpg",
@@ -451,7 +523,7 @@
       "address": "인천광역시 부평구 경원대로 1377, 1-4층 (부평동)",
       "latitude": "37.49151122434563",
       "longitude": "126.72212247632325",
-      "parking": ["건물", "주차불가", "0", "0"],
+      "parking": ["건물", "주차불가"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/07/[9552]_20240730040834_0z333.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/07/[9552]_20240730041356_umshm.jpg",
@@ -469,7 +541,13 @@
       "address": "인천광역시 부평구 주부토로 236 (갈산동)",
       "latitude": "37.51499031498426",
       "longitude": "126.72650053682771",
-      "parking": ["건물", "주차가능", "50", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "50대 이상",
+        "유료",
+        "이용고객 2시간 무료"
+      ],
       "images": [
         "https://image.istarbucks.co.kr//upload/store/2022/05/[4267]_20220510085344_puwq9.jpg",
         "https://image.istarbucks.co.kr//upload/store/2022/05/[4267]_20220510085352_6zqss.jpg",
@@ -487,7 +565,7 @@
       "address": "인천광역시 부평구 동수로 56 (부평동)",
       "latitude": "37.48528945224756",
       "longitude": "126.72583716283944",
-      "parking": ["건물", "주차불가", "0", "0"],
+      "parking": ["건물", "주차불가"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/09/[4198]_20220918102139_nxwme.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/09/[4198]_20220921032215_ayaxf.jpg",
@@ -504,7 +582,7 @@
       "address": "인천광역시 부평구 경원대로 1118 (십정동)",
       "latitude": "37.48016802812922",
       "longitude": "126.69842767662239",
-      "parking": ["DT", "주차가능", "17", "무료"],
+      "parking": ["DT점", "주차가능", "17대", "무료"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/09/[4349]_20240922061134_24t08.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/11/[4349]_20241103120644_i4hxr.jpg",
@@ -523,7 +601,13 @@
       "address": "인천광역시 연수구 청능대로 210 (동춘동)",
       "latitude": "37.40590327607463",
       "longitude": "126.68250913502574",
-      "parking": ["건물", "주차가능", "99", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "100대 이상",
+        "유료",
+        "영수증 3만원 미만 3시간 무료, 영수증 3만원 이상 5시간 무료"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2023/04/[3680]_20230403105703_09ymi.jpg",
         "https://image.istarbucks.co.kr/upload/store/2023/04/[3680]_20230403105710_dyi7r.jpg",
@@ -540,7 +624,7 @@
       "address": "인천광역시 연수구 앵고개로 171 (동춘동)",
       "latitude": "37.41243",
       "longitude": "126.664447",
-      "parking": ["DT", "주차가능", "10", "무료"],
+      "parking": ["DT점", "주차가능", "10대", "무료"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2021/07/[3607]_20210730025251_hfhxe.jpg",
         "https://image.istarbucks.co.kr/upload/store/2021/07/[3607]_20210730025353_gine2.jpg",
@@ -557,7 +641,7 @@
       "address": "인천광역시 연수구 컨벤시아대로 55 (송도동, 송도이안)",
       "latitude": "37.39658518373723",
       "longitude": "126.65155383174638",
-      "parking": ["건물", "주차가능", "30", "무료"],
+      "parking": ["건물", "주차가능", "30대", "무료"],
       "images": [
         "https://image.istarbucks.co.kr//upload/store/2023/08/[3734]_20230823123904_1nx6r.jpg",
         "https://image.istarbucks.co.kr//upload/store/2023/06/[3734]_20230623111831_00orq.jpg",
@@ -575,7 +659,7 @@
       "address": "인천광역시 연수구 송도과학로16번길 33-1 (송도동)",
       "latitude": "37.38058951045192",
       "longitude": "126.65916738736573",
-      "parking": ["건물", "주차가능", "50", "무료"],
+      "parking": ["건물", "주차가능", "50대 이상", "무료"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/10/[3482]_20221029114604_jef0d.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/10/[3482]_20221029114712_i888e.jpg",
@@ -594,7 +678,7 @@
       "address": "인천광역시 연수구 하모니로 136 (송도동)",
       "latitude": "37.384821",
       "longitude": "126.644284",
-      "parking": ["DT", "주차가능", "3", "무료"],
+      "parking": ["DT점", "주차가능", "3대", "무료"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2021/10/[3227]_20211016080107_9zc0v.jpg",
         "https://image.istarbucks.co.kr/upload/store/2021/10/[3227]_20211016080252_pibiy.jpg",
@@ -614,7 +698,13 @@
       "address": "인천광역시 연수구 용담로 115 (연수동) 105,106,203호",
       "latitude": "37.415072",
       "longitude": "126.677781",
-      "parking": ["건물", "주차가능", "10", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "10대 이상",
+        "유료",
+        "주차증 확인후 1시간 무료주차권 제공"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2017/08/[3300]_20170801055817_3srw4.jpg",
         "https://image.istarbucks.co.kr/upload/store/2021/07/[3300]_20210729035625_wvclb.jpg",
@@ -631,7 +721,13 @@
       "address": "인천광역시 연수구 송도과학로27번길 55 (송도동) 롯데캠퍼스타운",
       "latitude": "37.38742756192408",
       "longitude": "126.66364758106691",
-      "parking": ["건물", "주차가능", "50", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "50대 이상",
+        "유료",
+        "상가 주차장 이용시 4시간 무료"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/04/[3229]_20240403051442_1gsab.jpg",
         "https://image.istarbucks.co.kr/upload/store/2019/04/[3229]_20190422025448_e4i9s.jpg",
@@ -651,7 +747,13 @@
       "address": "인천광역시 연수구 아트센터대로 131 (송도동)",
       "latitude": "37.39890248614758",
       "longitude": "126.63640390431155",
-      "parking": ["건물", "주차가능", "50", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "50대 이상",
+        "유료",
+        "차량 등록시 3시간 무료 이후 첫 30분 1,500원, 이후 30분당 1,000원 부과"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2019/03/[9887]_20190329045900_81njh.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/10/[9887]_20221031111559_697lx.jpg",
@@ -668,7 +770,13 @@
       "address": "인천광역시 연수구 센트럴로 194 (송도동)",
       "latitude": "37.394656280123954",
       "longitude": "126.6415147616451",
-      "parking": ["건물", "주차가능", "50", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "50대 이상",
+        "유료",
+        "영수증 지참시 3시간 무료"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2021/06/[9833]_20210612050749_gct1w.JPG",
         "https://image.istarbucks.co.kr/upload/store/2021/07/[9833]_20210728024635_u37bt.jpg",
@@ -686,7 +794,13 @@
       "address": "인천광역시 연수구 경원대로 184 (동춘동)",
       "latitude": "37.404386",
       "longitude": "126.681528",
-      "parking": ["건물", "주차가능", "99", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "100대 이상",
+        "유료",
+        "이용고객 2시간 무료, 이마트 구매고객 금액대별 주차비용 정산"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2023/03/[9528]_20230330035021_752le.jpg",
         "https://image.istarbucks.co.kr/upload/store/2023/03/[9528]_20230330035027_1gg0u.jpg",
@@ -701,7 +815,7 @@
       "address": "인천광역시 연수구 송도바이오대로 300 (송도동)",
       "latitude": "37.3667885340256",
       "longitude": "126.65931166936401",
-      "parking": ["건물", "주차불가", "0", "0"],
+      "parking": ["건물", "주차불가"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2023/07/[4443]_20230730103438_eqc7l.jpg",
         "https://image.istarbucks.co.kr/upload/store/2023/07/[4443]_20230731070702_fumxe.png",
@@ -714,7 +828,13 @@
       "address": "인천광역시 연수구 컨벤시아대로 153 (송도동)",
       "latitude": "37.3902050159621",
       "longitude": "126.645501281493",
-      "parking": ["건물", "주차가능", "50", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "50대 이상",
+        "유료",
+        "매장에 등록요청 3시간 무료"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2023/08/[4459]_20230818022024_egt1v.png",
         "https://image.istarbucks.co.kr/upload/store/2023/08/[4459]_20230818022221_r2vc9.png",
@@ -734,7 +854,7 @@
       "address": "인천광역시 연수구 랜드마크로 20 (송도동)",
       "latitude": "37.41542651499194",
       "longitude": "126.62397167743491",
-      "parking": ["건물", "주차가능", "50", "유료"],
+      "parking": ["건물", "주차가능", "50대 이상", "유료", "주차 2시간 무료"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2023/07/[4421]_20230721123535_38w4c.jpg",
         "https://image.istarbucks.co.kr/upload/store/2023/06/[4421]_20230615111930_0rfhb.jpg",
@@ -751,7 +871,13 @@
       "address": "인천광역시 연수구 능허대로 137 (옥련동)",
       "latitude": "37.4213053772688",
       "longitude": "126.64516866057",
-      "parking": ["DT", "주차가능", "5", "유료"],
+      "parking": [
+        "DT점",
+        "주차가능",
+        "5대",
+        "유료",
+        "초기 30분 무료, 추가 10분당 500원"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/07/[4134]_20220725040546_xffiy.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/07/[4134]_20220725040834_0ki3c.jpg",
@@ -769,7 +895,13 @@
       "address": "인천광역시 연수구 인천타워대로132번길 9 (송도동)",
       "latitude": "37.38454814870652",
       "longitude": "126.64119873759479",
-      "parking": ["건물", "주차가능", "99", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "100대",
+        "유료",
+        "1시간 무료 이후 30분당 1,000원 부과"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2023/07/[4025]_20230728112629_864o3.jpg",
         "https://image.istarbucks.co.kr/upload/store/2023/07/[4025]_20230731032941_52bwx.jpg",
@@ -786,7 +918,7 @@
       "address": "인천광역시 연수구 첨단대로 40 (송도동)",
       "latitude": "37.37044770528137",
       "longitude": "126.65039905049978",
-      "parking": ["건물", "주차가능", "99", "무료"],
+      "parking": ["건물", "주차가능", "50대 이상", "무료"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/08/[4519]_20240826114740_ypjer.png",
         "https://image.istarbucks.co.kr/upload/store/2024/08/[4519]_20240826114801_v8m5q.png",
@@ -801,7 +933,13 @@
       "address": "인천광역시 연수구 송도국제대로 123 (송도동)",
       "latitude": "37.381314",
       "longitude": "126.657929",
-      "parking": ["건물", "주차가능", "99", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "50대 이상",
+        "유료",
+        "영수증 지참시 무료"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/10/[3934]_20221016061707_mthzb.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/10/[3934]_20221016061713_2sol3.jpg",
@@ -818,7 +956,13 @@
       "address": "인천광역시 연수구 벤처로 10 (송도동)",
       "latitude": "37.38290440551855",
       "longitude": "126.63697233435906",
-      "parking": ["DT", "주차가능", "99", "유료"],
+      "parking": [
+        "DT점",
+        "주차가능",
+        "100대",
+        "유료",
+        "회차 30분, 차량등록 시 1시간 무료 이후 30분당 1000원 부과"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2021/09/[3941]_20210912072619_cif8w.jpg",
         "https://image.istarbucks.co.kr/upload/store/2021/09/[3941]_20210912072732_um06t.jpg",
@@ -840,7 +984,13 @@
       "address": "인천광역시 서구 완정로 172 (마전동)",
       "latitude": "37.6025256",
       "longitude": "126.6574188",
-      "parking": ["건물", "주차가능", "50", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "50대 이상",
+        "유료",
+        "기본 1시간 무료, 구매금액 5000원 당 30분 추가 가능, 최대 3시간 추가 가능"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2018/11/[3663]_20181121092637_uisxk.jpg",
         "https://image.istarbucks.co.kr/upload/store/2021/11/[3663]_20211130093911_lyss8.jpg",
@@ -857,7 +1007,13 @@
       "address": "인천광역시 서구 청라커낼로 300 (청라동, 청라센트럴에일린의뜰)",
       "latitude": "37.5343559",
       "longitude": "126.6492859",
-      "parking": ["건물", "주차가능", "32", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "32대",
+        "유료",
+        "10000원 이상 구매 시 주차할인권 1장 지급(영수증당 1장만 가능)"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/09/[3726]_20220923023010_2lojo.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/09/[3726]_20220929084616_e4ih5.jpg",
@@ -873,7 +1029,13 @@
       "address": "인천광역시 서구 청라커낼로260번길 27 (청라동)",
       "latitude": "37.532094637",
       "longitude": "126.6470777067",
-      "parking": ["건물", "주차가능", "50", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "50대 이상",
+        "유료",
+        "이용고객 2시간 가능, 이후 10분당 300원 부과"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/09/[3827]_20220925031219_c55cj.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/09/[3827]_20220922092230_2wlwn.jpg",
@@ -890,7 +1052,13 @@
       "address": "인천광역시 서구 원당대로 668 (당하동)",
       "latitude": "37.593418",
       "longitude": "126.675556",
-      "parking": ["DT", "주차가능", "9", "유료"],
+      "parking": [
+        "DT점",
+        "주차가능",
+        "9대",
+        "유료",
+        "30분 최초무료, 1만원 이상 구매시 1시간, 일 최대 4시간 이용 가능"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/12/[3184]_20221201102359_ly4as.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/12/[3184]_20221201102405_n3b5k.jpg",
@@ -909,7 +1077,13 @@
       "address": "인천광역시 서구 중봉대로 612번길 10-17",
       "latitude": "37.53405866213065",
       "longitude": "126.65234362661088",
-      "parking": ["건물", "주차가능", "50", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "50대 이상",
+        "유료",
+        "당일 1만원 이상 결제시 1시간 무료, 이용 후 10분당 300원 부과"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/09/[3167]_20220920061525_t25hf.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/09/[3167]_20220920061542_udtnf.jpg",
@@ -927,7 +1101,7 @@
       "address": "인천광역시 서구 서곶로 277 (심곡동)",
       "latitude": "37.5424157",
       "longitude": "126.67636",
-      "parking": ["건물", "주차불가", "0", "0"],
+      "parking": ["건물", "주차불가"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2020/05/[9985]_20200510060826_8rngl.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/11/[9985]_20241101041931_twyk3.jpg",
@@ -943,7 +1117,13 @@
       "address": "인천광역시 서구 중봉대로586번길 19 (청라동)",
       "latitude": "37.531943351323925",
       "longitude": "126.65226859253639",
-      "parking": ["건물", "주차가능", "50", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "50대 이상",
+        "유료",
+        "1만원 이상 결제 시 1시간 무료, 이후 15분당 600원 부과"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/07/[9977]_20240705072153_6xobp.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/07/[9977]_20240705075517_rkdfz.jpg",
@@ -961,7 +1141,7 @@
       "address": "인천광역시 서구 검단로 812 (불로동)",
       "latitude": "37.61685",
       "longitude": "126.6887",
-      "parking": ["DT", "주차가능", "13", "무료"],
+      "parking": ["DT점", "주차가능", "13대", "무료"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/01/[4391]_20240119055744_l0x1v.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/01/[4391]_20240119060414_j55da.jpg",
@@ -981,7 +1161,7 @@
       "address": "인천광역시 서구 가정로 437 (가정동, 루원시티 SK Leaders VIEW)",
       "latitude": "37.522948162",
       "longitude": "126.669983101",
-      "parking": ["건물", "주차가능", "50", "유료"],
+      "parking": ["건물", "주차가능", "50대 이상", "무료", "한시적, 변경가능"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/09/[4320]_20220901083909_cwuf0.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/11/[4320]_20241104122917_aqgpu.jpg",
@@ -998,7 +1178,13 @@
       "address": "인천광역시 서구 경명대로694번길 2 (공촌동)",
       "latitude": "37.55169811908912",
       "longitude": "126.68535179599749",
-      "parking": ["DT", "주차가능", "15", "유료"],
+      "parking": [
+        "DT점",
+        "주차가능",
+        "15대",
+        "유료",
+        "최초 30분 무료, 1만원 당 1시간 무료(최대 4시간 지원)"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2021/12/[4015]_20211216051859_bels9.jpg",
         "https://image.istarbucks.co.kr/upload/store/2021/12/[4015]_20211217061006_6hft8.jpg",
@@ -1018,7 +1204,13 @@
       "address": "인천광역시 서구 서곶로 45 (가정동, 루원 린스트라우스 더 린시티)",
       "latitude": "37.52137201020812",
       "longitude": "126.67753806787075",
-      "parking": ["건물", "주차가능", "50", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "50대 이상",
+        "유료",
+        "이용고객 2시간 무료(회차:10분/10분당:500원)"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/03/[4511]_20240302085946_rhrz3.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/11/[4511]_20241101104646_oretf.jpg",
@@ -1036,7 +1228,13 @@
       "address": "인천광역시 서구 청라루비로 81 (청라동)",
       "latitude": "37.532505",
       "longitude": "126.640113",
-      "parking": ["건물", "주차가능", "43", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "43대",
+        "유료",
+        "최초 30분 무료, 초과 30분당 2천원, 스타벅스 1만원 이상 결제시 1시간 추가 무료(일 최대 2시간)"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/08/[4549]_20240828032113_gzkvb.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/09/[4549]_20240907054910_lgqmn.jpg",
@@ -1053,7 +1251,13 @@
       "address": "인천광역시 서구 국제대로 237 (청라동)",
       "latitude": "37.54141304924765",
       "longitude": "126.64703095906634",
-      "parking": ["DT", "주차가능", "99", "유료"],
+      "parking": [
+        "DT점",
+        "주차가능",
+        "약 100대",
+        "유료",
+        "매장 이용시 최대 2시간 무료 적용"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/09/[3930]_20220925110259_ix2yj.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/09/[3930]_20220924074407_l1zfw.jpg",
@@ -1071,7 +1275,13 @@
       "address": "인천광역시 서구 이음대로 392 (원당동)115,116,117,118,119호",
       "latitude": "37.592609989731144",
       "longitude": "126.712776416439",
-      "parking": ["건물", "주차가능", "40", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "40대 이상",
+        "유료",
+        "구매 영수증 지참 시 1시간 무료, 이후 1만원 이상 결제시 1시간 추가 무료"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2023/03/[4434]_20230328103250_3n8gp.jpg",
         "https://image.istarbucks.co.kr/upload/store/2023/04/[4434]_20230404095025_dat0x.jpg",
@@ -1088,7 +1298,7 @@
       "address": "인천광역시 남동구 경인로 750 (간석동)",
       "latitude": "37.4766272846985",
       "longitude": "126.71021365261957",
-      "parking": ["DT", "주차가능", "5", "무료"],
+      "parking": ["DT점", "주차가능", "5대", "무료"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/11/[3665]_20221121092940_k9mq7.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/11/[3665]_20221121092958_ubt0c.jpg",
@@ -1104,7 +1314,7 @@
       "address": "인천광역시 남동구 인하로 556 (구월동)",
       "latitude": "37.442715",
       "longitude": "126.708511",
-      "parking": ["건물", "주차불가", "0", "0"],
+      "parking": ["건물", "주차불가"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/11/[3513]_20221102115833_iuuve.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/11/[3513]_20221102115840_1fs88.jpg",
@@ -1121,7 +1331,13 @@
       "address": "인천광역시 남동구 예술로 126 (구월동)",
       "latitude": "37.445260",
       "longitude": "126.700865",
-      "parking": ["건물", "주차불가", "10", "유료"],
+      "parking": [
+        "건물",
+        "주차불가",
+        "10대 이상",
+        "유료",
+        "건물 자체 30분 무료지원, 매장 30분 무료지원"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/10/[3304]_20221028015213_hiwkd.gif",
         "https://image.istarbucks.co.kr/upload/store/2022/10/[3304]_20221028015222_dr8uy.jpg",
@@ -1138,7 +1354,13 @@
       "address": "인천광역시 남동구 서창남로 51 (서창동) 101,102,103호",
       "latitude": "37.424128",
       "longitude": "126.749997",
-      "parking": ["건물", "주차가능", "10", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "10대 이상",
+        "유료",
+        "상품 구매 시 1시간 무료주차권 제공, 1시간 초과시 10분당 500원 부과"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2023/10/[3301]_20231013070046_o169f.JPG",
         "https://image.istarbucks.co.kr/upload/store/2022/10/[3301]_20221020050009_0ojfc.jpg",
@@ -1154,7 +1376,7 @@
       "address": "인천광역시 남동구 경원대로 974 (간석동)",
       "latitude": "37.469719",
       "longitude": "126.690745",
-      "parking": ["DT", "주차가능", "7", "무료"],
+      "parking": ["DT점", "주차가능", "7대", "무료"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2023/06/[3228]_20230628062021_og97u.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/11/[3228]_20221101034401_38v1v.jpg",
@@ -1172,7 +1394,7 @@
       "address": "인천광역시 남동구 예술로 174 (구월동) 흥국생명",
       "latitude": "37.449472",
       "longitude": "126.701438",
-      "parking": ["건물", "주차불가", "0", "0"],
+      "parking": ["건물", "주차불가"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2020/05/[9949]_20200501095915_cgxd2.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/11/[9949]_20221103090051_9d7ov.jpg",
@@ -1190,7 +1412,7 @@
       "address": "인천광역시 남동구 인하로 497-22, 2층 (구월동)",
       "latitude": "37.44420071",
       "longitude": "126.7021764",
-      "parking": ["건물", "주차불가", "0", "0"],
+      "parking": ["건물", "주차불가"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/10/[9446]_20221030011353_r63jf.jpg",
         "https://image.istarbucks.co.kr/upload/store/2023/10/[9446]_20231022020304_uruim.jpg",
@@ -1208,7 +1430,7 @@
       "address": "인천광역시 남동구 남동대로 773 가천대길병원 인공지능병원(구월동)",
       "latitude": "37.45167435",
       "longitude": "126.7074902",
-      "parking": ["건물", "주차가능", "5", "유료"],
+      "parking": ["건물", "주차가능", "5대 이상", "유료", "1시간 무료 정산"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/11/[9483]_20221105095635_ztidh.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/11/[9483]_20221105095645_aefmx.jpg",
@@ -1224,7 +1446,13 @@
       "address": "인천광역시 남동구 예술로 138 (구월동) 101,102,111,201,209호 일부,210호 일부",
       "latitude": "37.4462001",
       "longitude": "126.70099720000007",
-      "parking": ["건물", "주차가능", "10", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "10대 이상",
+        "유료",
+        "1시간무료(구매한 영수증 확인 후 가능)"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2023/05/[9387]_20230524095230_lk3sz.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/10/[9387]_20221027034309_me8m2.jpg",
@@ -1239,7 +1467,13 @@
       "address": "인천광역시 남동구 논고개로 93, 111,112, 206, 207호 (논현동)",
       "latitude": "37.39952",
       "longitude": "126.72492",
-      "parking": ["건물", "주차가능", "200", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "200대",
+        "유료",
+        "제품 구매시 주차 1시간 무료, 이후 유료 주차 10분 당 1000원"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2023/05/[9733]_20230518121301_tvptg.jpg",
         "https://image.istarbucks.co.kr/upload/store/2023/05/[9733]_20230518123010_x4jal.jpg",
@@ -1255,7 +1489,7 @@
       "address": "인천광역시 남동구 용천로 70 (구월동)",
       "latitude": "37.45587",
       "longitude": "126.71496",
-      "parking": ["건물", "주차불가", "0", "0"],
+      "parking": ["건물", "주차불가"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2023/04/[4300]_20230404022707_2s24u.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/10/[4300]_20221014055559_6ebmw.jpg",
@@ -1271,7 +1505,7 @@
       "address": "인천광역시 남동구 경인로 563 (간석동)",
       "latitude": "37.463301",
       "longitude": "126.700723",
-      "parking": ["DT", "주차가능", "13", "유료"],
+      "parking": ["DT점", "주차가능", "13대", "유료", "1시간 무료"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/10/[3939]_20221020022811_9mgt0.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/10/[3939]_20221020022819_2ku2f.jpg",
@@ -1290,7 +1524,13 @@
       "address": "인천광역시 중구 하늘중앙로195번길 15 (중산동)",
       "latitude": "37.48964311698442",
       "longitude": "126.5614096679929",
-      "parking": ["건물", "주차가능", "14", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "14대",
+        "유료",
+        "영수증 지참시 1시간 30분 무료"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2023/04/[3739]_20230413080143_kv7e8.jpg",
         "https://image.istarbucks.co.kr/upload/store/2023/04/[3739]_20230413080232_dj4bs.jpg",
@@ -1307,7 +1547,7 @@
       "address": "인천광역시 중구 신도시남로142번길 17 (운서동)",
       "latitude": "37.493991",
       "longitude": "126.492667",
-      "parking": ["건물", "주차불가", "0", "0"],
+      "parking": ["건물", "주차불가"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2023/04/[3413]_20230429100130_l28e4.jpg",
         "https://image.istarbucks.co.kr/upload/store/2023/04/[3413]_20230429095359_h4hsh.jpg",
@@ -1325,7 +1565,7 @@
       "address": "인천광역시 중구 공항로 272 (운서동) 인천국제공항여객터미널 FB-P5-73",
       "latitude": "37.449611",
       "longitude": "126.450031",
-      "parking": ["건물", "주차불가", "0", "0"],
+      "parking": ["건물", "주차불가"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2022/10/[3191]_20221012100334_b9rua.jpg",
         "https://image.istarbucks.co.kr/upload/store/2022/09/[3191]_20220921112918_su7es.jpg",
@@ -1339,7 +1579,13 @@
       "address": "인천광역시 중구 공항문화로 127 (운서동)",
       "latitude": "37.46554466907955",
       "longitude": "126.38962204777957",
-      "parking": ["건물", "주차가능", "3400", "유료"],
+      "parking": [
+        "건물",
+        "주차가능",
+        "3400대",
+        "유료",
+        "3만원 이상 구매시 2시간 무료, 6만원 이상 구매시 4시간 무료, 9만원 이상 구매시 6시간 무료"
+      ],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/08/[4567]_20240816124758_pmalt.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/08/[4567]_20240816124805_79qaz.jpg",
@@ -1356,7 +1602,7 @@
       "address": "인천광역시 중구 제2터미널대로 444 (운서동)인천공항2터미널 3층 Air side",
       "latitude": "37.46586128108467",
       "longitude": "126.43282206633417",
-      "parking": ["건물", "주차불가", "0", "0"],
+      "parking": ["건물", "주차불가"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/05/[4541]_20240509072240_fe6bm.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/05/[4541]_20240509072315_1p88h.jpg",
@@ -1371,7 +1617,7 @@
       "address": "인천광역시 중구 제2터미널대로 444 (운서동)",
       "latitude": "37.46950023649197",
       "longitude": "126.43306587403337",
-      "parking": ["건물", "주차불가", "0", "0"],
+      "parking": ["건물", "주차불가"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/08/[4569]_20240814072124_lwzrr.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/08/[4569]_20240824050951_w58dc.jpg",
@@ -1388,7 +1634,7 @@
       "address": "인천광역시 중구 공항로 272 (운서동)",
       "latitude": "37.4489769939554",
       "longitude": "126.4515342862197",
-      "parking": ["건물", "주차불가", "0", "0"],
+      "parking": ["건물", "주차불가"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/12/[4563]_20241205041344_2u2yq.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/12/[4563]_20241205041350_4hvvx.jpg"
@@ -1400,7 +1646,7 @@
       "address": "인천광역시 중구 공항로 272 (운서동) 인천공항1터미널 에어4층",
       "latitude": "37.450192357956816",
       "longitude": "126.45083603193113",
-      "parking": ["건물", "주차불가", "0", "0"],
+      "parking": ["건물", "주차불가"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/05/[4535]_20240518114750_stjcu.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/05/[4535]_20240518114710_8pbtd.jpg",
