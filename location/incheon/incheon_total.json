@@ -1,7 +1,7 @@
 {
   "location": "인천",
   "count": 82,
-  "date": "2024-12-16",
+  "date": "2024-12-17",
   "item": [
     {
       "id": "incheon1",
@@ -165,7 +165,7 @@
       "address": "인천광역시 미추홀구 아암대로 107 (용현동)",
       "latitude": "37.4523373",
       "longitude": "126.6325809",
-      "parking": ["DT점", "주차가능", "5", "무료"],
+      "parking": ["DT점", "주차가능", "5대", "무료"],
       "images": [
         "https://image.istarbucks.co.kr/upload/store/2024/01/[3211]_20240131062758_0oshs.jpg",
         "https://image.istarbucks.co.kr/upload/store/2024/11/[3211]_20241126100417_ykunv.jpg",

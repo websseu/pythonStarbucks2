@@ -1,0 +1,679 @@
+{
+  "location": "제주",
+  "count": 33,
+  "date": "2024-12-17",
+  "item": [
+    {
+      "id": "jeju1",
+      "name": "제주신화월드R",
+      "address": "제주특별자치도 서귀포시 안덕면 신화역사로304번길 38 B1-29",
+      "latitude": "33.3057863",
+      "longitude": "126.3163825",
+      "parking": ["건물", "주차가능", "100대 이상", "무료"],
+      "since": "2017-12",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2017/12/[3532]_20171222122847_s2m86.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/12/[3532]_20171222122851_6ja6g.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/12/[3532]_20171222122855_7aadk.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/12/[3532]_20171222122859_lnnfr.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/12/[3532]_20171222122904_6af4n.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/12/[3532]_20171222122909_8n081.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/12/[3532]_20171222122914_6loqj.JPG"
+      ]
+    },
+    {
+      "id": "jeju2",
+      "name": "제주에듀시티",
+      "address": "제주특별자치도 서귀포시 대정읍 에듀시티로 36",
+      "latitude": "33.291788",
+      "longitude": "126.284407",
+      "parking": ["건물", "주차불가"],
+      "since": "2017-06",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2017/06/[3375]_20170601082752_73luy.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/06/[3375]_20170601082734_9sfcc.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/06/[3375]_20170601082745_rbc0l.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/06/[3375]_20170601082804_bw42s.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/06/[3375]_20170601082812_sdkiq.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/06/[3375]_20170601082820_274c4.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/06/[3375]_20170601082828_ve9hn.JPG"
+      ]
+    },
+    {
+      "id": "jeju3",
+      "name": "제주성산DT",
+      "address": "제주특별자치도 서귀포시 성산읍 일출로 80",
+      "latitude": "33.449718",
+      "longitude": "126.9207013",
+      "parking": ["DT점", "주차가능", "10대", "무료"],
+      "since": "2017-04",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2017/07/[3274]_20170715121359_f319t.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2017/04/[3274]_20170404091536_myt4u.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/04/[3274]_20170404091550_2gvmz.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/06/[3274]_20170602031845_jbb11.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/06/[3274]_20170602031857_23zua.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/06/[3274]_20170602031906_dqsfx.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/06/[3274]_20170602031919_28ypj.JPG"
+      ]
+    },
+    {
+      "id": "jeju4",
+      "name": "제주중문DT",
+      "address": "제주특별자치도 서귀포시 천제연로 95(색달동)",
+      "latitude": "33.2549983",
+      "longitude": "126.41590589999998",
+      "parking": ["DT점", "주차가능", "8대", "무료"],
+      "since": "2015-07",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2015/07/[3115]_20150730105303510.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2015/07/[3115]_20150730105309925.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2015/07/[3115]_20150730105310018.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2015/07/[3115]_20150730105310113.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2015/07/[3115]_20150730105310199.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2015/07/[3115]_20150730105310260.jpg"
+      ]
+    },
+    {
+      "id": "jeju5",
+      "name": "제주송악산",
+      "address": "제주특별자치도 서귀포시 대정읍 형제해안로 322",
+      "latitude": "33.206799",
+      "longitude": "126.290035",
+      "parking": [
+        "건물",
+        "주차가능",
+        "30대 이상",
+        "무료",
+        "매장앞 송악산 주차장"
+      ],
+      "since": "2015-07",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[9931]_20230120013227_t8twf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[9931]_20200420112327_bl7m6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[9931]_20200420112427_68un2.png",
+        "https://image.istarbucks.co.kr/upload/store/2015/07/[9931]_20150730105033310.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[9931]_20200420112424_ib3ks.png",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[9931]_20200420112725_zx4n4.png"
+      ]
+    },
+    {
+      "id": "jeju6",
+      "name": "서귀포DT",
+      "address": "제주특별자치도 서귀포시 일주서로 11 (강정동)",
+      "latitude": "33.2492775",
+      "longitude": "126.50652289999993",
+      "parking": ["DT점", "주차가능", "31대", "무료"],
+      "since": "2022-07",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2022/07/[3143]_20220727063823_gbr8g.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2022/07/[3143]_20220727063828_a8d09.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2022/07/[3143]_20220727063832_pgdqe.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2022/07/[3143]_20220727063837_lbw8g.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2022/07/[3143]_20220727063842_9k1l8.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2022/07/[3143]_20220727063847_vwr74.jpg"
+      ]
+    },
+    {
+      "id": "jeju7",
+      "name": "성산일출봉",
+      "address": "제주특별자치도 서귀포시 성산읍 일출로 284-5 1,2층",
+      "latitude": "33.462865",
+      "longitude": "126.935544",
+      "parking": [
+        "건물",
+        "주차가능",
+        "100 대이상",
+        "무료",
+        "공용주차장 이용가능"
+      ],
+      "since": "2020-04",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2020/04/[9735]_20200424125553_3ecgh.JPG",
+        "https://image.istarbucks.co.kr//upload/store/2020/04/[9735]_20200424125602_aibac.JPG",
+        "https://image.istarbucks.co.kr//upload/store/2020/04/[9735]_20200424125607_oo8ui.JPG",
+        "https://image.istarbucks.co.kr//upload/store/2020/04/[9735]_20200424125612_ipbv8.JPG",
+        "https://image.istarbucks.co.kr//upload/store/2020/04/[9735]_20200424125620_5nbb8.JPG"
+      ]
+    },
+    {
+      "id": "jeju8",
+      "name": "제주중문",
+      "address": "제주특별자치도 서귀포시 중문관광로110번길 32 (색달동)",
+      "latitude": "33.251128",
+      "longitude": "126.412752",
+      "parking": [
+        "건물",
+        "주차가능",
+        "10대 이상",
+        "유료",
+        "믿거나 말거나 박물관 옆 주차장, 1시간 무료, 초과 시 10분당 1000원"
+      ],
+      "since": "2022-07",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[9710]_20220726090146_7zhl0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[9710]_20220726090349_azvfs.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[9710]_20220726090426_b3ozj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[9710]_20220726090502_9e0p2.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[9710]_20220726090614_30qzb.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[9710]_20220726090618_tt6ju.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[9710]_20220726090622_496pl.jpg"
+      ]
+    },
+    {
+      "id": "jeju9",
+      "name": "서귀포올레",
+      "address": "제주특별자치도 서귀포시 중정로 69 (서귀동)",
+      "latitude": "33.2483024645772",
+      "longitude": "126.563777617613",
+      "parking": [
+        "건물",
+        "주차가능",
+        "30대",
+        "유료",
+        "영수증 당 차량 1대 1시간 무료(추가 시간 10분당 1천원 추가)"
+      ],
+      "since": "2022-03",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/03/[4149]_20220331041911_3h05z.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/03/[4149]_20220331041917_a1p6j.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/03/[4149]_20220331041920_m2yge.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/03/[4149]_20220331041929_tsgsk.jpg"
+      ]
+    },
+    {
+      "id": "jeju10",
+      "name": "제주모슬포DT",
+      "address": "제주특별자치도 서귀포시 대정읍 일주서로 2549",
+      "latitude": "33.2272873",
+      "longitude": "126.2578882",
+      "parking": ["DT점", "주차가능", "24대", "무료"],
+      "since": "2024-05",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/05/[4396]_20240528042519_j3soi.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/06/[4396]_20240604032932_nrqbt.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/06/[4396]_20240603055620_kyz3v.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/06/[4396]_20240603055910_u27gm.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/06/[4396]_20240603055940_aouf0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/06/[4396]_20240603060037_ev01l.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/06/[4396]_20240604032926_r19pa.jpg"
+      ]
+    },
+    {
+      "id": "jeju11",
+      "name": "제주서귀포남원DT",
+      "address": "제주특별자치도 서귀포시 남원읍 일주동로 7129",
+      "latitude": "33.2828825",
+      "longitude": "126.718877",
+      "parking": ["DT점", "주차가능", "28대", "무료"],
+      "since": "2023-04",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[4150]_20230423032017_zr75r.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[4150]_20230419060452_vu1hw.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[4150]_20230419060530_m3eaq.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[4150]_20230419060542_guvut.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[4150]_20230419060901_wdofs.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[4150]_20230419061435_00vy6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[4150]_20230419061447_0gaq4.jpg"
+      ]
+    },
+    {
+      "id": "jeju12",
+      "name": "제주도남DT",
+      "address": "제주특별자치도 제주시 연북로 394 (도남동)",
+      "latitude": "33.4803417",
+      "longitude": "126.5235565",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "41대",
+        "무료",
+        "부민장례식장 300대 주차 이용가능"
+      ],
+      "since": "2019-12",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3712]_20191211065130_o6ihv.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3712]_20191212060502_0ckol.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3712]_20191211065520_ap4b0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3712]_20191211065650_5c9h6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3712]_20191211065723_jv3w5.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3712]_20191211065608_6o8op.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3712]_20191212060510_nsznd.JPG"
+      ]
+    },
+    {
+      "id": "jeju13",
+      "name": "제주협재",
+      "address": "제주특별자치도 제주시 한림읍 한림로 337",
+      "latitude": "33.393839",
+      "longitude": "126.24049",
+      "parking": ["건물", "주차가능", "6대", "무료"],
+      "since": "2023-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3829]_20230212041634_b0x4u.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3829]_20230212041902_9f4af.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3829]_20230212041214_z8sxk.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3829]_20230212041123_17g3x.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3829]_20230212041831_mysq9.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3829]_20230212041825_7j2kz.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3829]_20230212041150_v79cs.jpg"
+      ]
+    },
+    {
+      "id": "jeju14",
+      "name": "제주외도DT",
+      "address": "제주특별자치도 제주시 일주서로 7300 (외도일동)",
+      "latitude": "33.4923328892",
+      "longitude": "126.4270663",
+      "parking": ["DT점", "주차가능", "6대", "무료"],
+      "since": "2023-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3708]_20230203101120_w6szl.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3708]_20230203101127_brhht.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3708]_20230203101157_dkp9t.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3708]_20230203101204_7llht.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3708]_20230203101136_4bhtx.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3708]_20230203101144_13bku.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3708]_20230203101151_rnm3f.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3708]_20230208014214_961zl.jpg"
+      ]
+    },
+    {
+      "id": "jeju15",
+      "name": "제주삼화DT",
+      "address": "제주특별자치도 제주시 연삼로 884 (도련일동)",
+      "latitude": "33.5117687",
+      "longitude": "126.5804734",
+      "parking": ["DT점", "주차가능", "20대", "무료"],
+      "since": "2019-12",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3720]_20191219092422_4fr4q.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3720]_20191219092433_tzl87.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3720]_20191219092438_eij7u.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3720]_20191219092447_q4r9o.jpg"
+      ]
+    },
+    {
+      "id": "jeju16",
+      "name": "제주시청",
+      "address": "제주특별자치도 제주시 중앙로 215 (이도이동)",
+      "latitude": "33.500516",
+      "longitude": "126.529711",
+      "parking": ["건물", "주차가능", "9대", "무료"],
+      "since": "2018-05",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2018/05/[3511]_20180503083609_mu8yx.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2018/05/[3511]_20180508120445_4arbc.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[3511]_20200424125315_gdpoa.gif",
+        "https://image.istarbucks.co.kr/upload/store/2018/05/[3511]_20180508120451_3101d.JPG"
+      ]
+    },
+    {
+      "id": "jeju17",
+      "name": "제주함덕",
+      "address": "제주특별자치도 제주시 조천읍 조함해안로 522",
+      "latitude": "33.542511",
+      "longitude": "126.668567",
+      "parking": [
+        "건물",
+        "주차가능",
+        "50대 이상",
+        "무료",
+        "공용주차장 이용가능"
+      ],
+      "since": "2018-04",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2018/04/[3538]_20180419110349_8if23.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2018/04/[3538]_20180420084707_qz739.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2018/04/[3538]_20180420084720_mgdgq.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2018/04/[3538]_20180420084749_2f57o.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2018/04/[3538]_20180420084805_0dtva.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2018/04/[3538]_20180420084817_dmw5j.jpg"
+      ]
+    },
+    {
+      "id": "jeju18",
+      "name": "제주애월DT",
+      "address": "제주특별자치도 제주시 애월읍 애월해안로 376",
+      "latitude": "33.47278",
+      "longitude": "126.348739",
+      "parking": ["DT점", "주차가능", "11대", "무료"],
+      "since": "2019-12",
+      "view": "바다뷰",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3273]_20230220083040_sx96b.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3273]_20230220083229_govl3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3273]_20230220083238_26n2x.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3273]_20230220083100_xwhi7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3273]_20230220083107_73233.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3273]_20230220083114_mg2vf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3273]_20230220083120_91g2s.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3273]_20230220083125_2tzid.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3273]_20230220083129_iwrts.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3273]_20230220083142_jkghg.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3273]_20230220083224_u24f4.jpg"
+      ]
+    },
+    {
+      "id": "jeju19",
+      "name": "제주칠성",
+      "address": "제주특별자치도 제주시 관덕로 55 (일도일동)",
+      "latitude": "33.513349",
+      "longitude": "126.5252435",
+      "parking": ["건물", "주차불가"],
+      "since": "2015-07",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[3092]_20231103022014_ysusx.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[3092]_20231103022021_645ui.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[3092]_20231103021930_xbjjg.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2015/07/[3092]_20150730105559487.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2015/07/[3092]_20150730105559603.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2015/07/[3092]_20150730105559725.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[3092]_20200424124832_4z6sb.jpg"
+      ]
+    },
+    {
+      "id": "jeju20",
+      "name": "제주노형",
+      "address": "제주특별자치도 제주시 도령로 27 (노형동)",
+      "latitude": "33.4878111",
+      "longitude": "126.4818612",
+      "parking": [
+        "건물",
+        "주차가능",
+        "30대 이상",
+        "유료",
+        "차량 등록 시 2시간 무료, 초과 30분 당 1000원"
+      ],
+      "since": "2015-05",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3114]_20230223082726_g2v3j.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3114]_20230223082735_uhgln.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3114]_20230223082747_ixolo.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3114]_20230223082755_72h55.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3114]_20230223082807_3piv2.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3114]_20230223082815_gxkr1.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3114]_20230223082818_ilyu1.JPG"
+      ]
+    },
+    {
+      "id": "jeju21",
+      "name": "제주용담DT",
+      "address": "제주특별자치도 제주시 서해안로 380 (용담삼동) 화이트하우스",
+      "latitude": "33.512345",
+      "longitude": "126.484564",
+      "parking": ["DT점", "주차가능", "20대 이상", "무료"],
+      "since": "2014-07",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3017]_20230217125219_fj1dw.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3017]_20230217125228_o7zq2.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3017]_20230217125234_lskwr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3017]_20230217125239_lqeip.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3017]_20230217125244_i6lzg.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3017]_20230217125248_yd0ip.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3017]_20230217125257_ajek0.jpg"
+      ]
+    },
+    {
+      "id": "jeju22",
+      "name": "신제주이마트",
+      "address": "제주특별자치도 제주시 1100로 3348, 신제주이마트 1층 (노형동)",
+      "latitude": "33.4847893",
+      "longitude": "126.4803463",
+      "parking": [
+        "건물",
+        "주차가능",
+        "50대 이상",
+        "유료",
+        "영수증 당 2시간 무료"
+      ],
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[9857]_20230217044438_yaysn.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[9857]_20230217044442_b3223.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[9857]_20230217044446_4cp5d.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[9857]_20230217044449_9ll14.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[9857]_20230217044454_3ngl7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[9857]_20230217044456_j6b82.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[9857]_20230217044500_4gjsg.jpg"
+      ]
+    },
+    {
+      "id": "jeju23",
+      "name": "제주세화DT",
+      "address": "제주특별자치도 제주시 구좌읍 일주동로 3121",
+      "latitude": "33.5229969",
+      "longitude": "126.8530933",
+      "parking": ["DT점", "주차가능", "21대", "무료"],
+      "since": "2023-11",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/12/[4389]_20231214013601_qmj39.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/12/[4389]_20231214014537_lf7mk.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4389]_20231102095346_nonsw.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4389]_20231101093836_7ygk6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4389]_20231101093900_qulzg.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4389]_20231102095743_ysam4.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4389]_20231101094017_zy87n.jpg"
+      ]
+    },
+    {
+      "id": "jeju24",
+      "name": "제주노형로",
+      "address": "제주특별자치도 제주시 노형로 376 (노형동)",
+      "latitude": "33.4834410103164",
+      "longitude": "126.476159449097",
+      "parking": [
+        "건물",
+        "주차가능",
+        "10대 이상",
+        "유료",
+        "만원 이상 구매시 2시간 무료주차, 외부 제2주차장에 한해서 일시적 주차 가능"
+      ],
+      "since": "2023-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4401]_20230217084434_doc69.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4401]_20230217084445_a9s2b.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4401]_20230217084452_nd8rj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4401]_20230217084500_47uzm.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4401]_20230217084508_rqj7y.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4401]_20230217084511_zsyeb.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4401]_20230217084513_kw4l9.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4401]_20230217090458_okxve.jpg"
+      ]
+    },
+    {
+      "id": "jeju25",
+      "name": "제주노형DT",
+      "address": "제주특별자치도 제주시 월랑로 68 (노형동)",
+      "latitude": "33.4908499861488",
+      "longitude": "126.474278374413",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "19대",
+        "유료",
+        "기본 30분 무료, 구매시(1시간 무료), 1만원 이상(2시간 무료), 2만원 이상(3시간 무료), 3만원 이상(4시간 무료), 최대 4시간 무료"
+      ],
+      "since": "2023-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4133]_20230219061554_7urii.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4133]_20230219061656_u38bu.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4133]_20230219061713_omczb.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4133]_20230219061735_ku6k2.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4133]_20230219061745_doj2f.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4133]_20230219061751_hddjl.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4133]_20230219061756_te6ry.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4133]_20230219061810_sdrfb.jpg"
+      ]
+    },
+    {
+      "id": "jeju26",
+      "name": "제주한라수목원DT",
+      "address": "제주특별자치도 제주시 수목원서길 3-5 (노형동)",
+      "latitude": "33.4690200090396",
+      "longitude": "126.484585553868",
+      "parking": ["DT점", "주차가능", "16대", "무료"],
+      "since": "2024-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[4261]_20240827024816_pbqb6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[4261]_20240827025021_w1525.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[4261]_20240827025428_w2pqp.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[4261]_20240827025536_87rr7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[4261]_20240827025626_67sdn.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[4261]_20240827034755_jxyfr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[4261]_20240827034811_jeybq.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[4261]_20240827034821_opk50.jpg"
+      ]
+    },
+    {
+      "id": "jeju27",
+      "name": "제주서해안로DT",
+      "address": "제주특별자치도 제주시 서해안로 624 (용담삼동)",
+      "latitude": "33.5167857",
+      "longitude": "126.5035553",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "19대",
+        "유료",
+        "30분 무료, 1만원 당 1시간 주차 가능, 30분 초과시 10분당 500원"
+      ],
+      "since": "2020-12",
+      "view": "바다뷰",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2020/12/[3803]_20201217044115_4wuyz.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/12/[3803]_20201217044151_4jkvc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/12/[3803]_20201217044202_00t0b.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2020/12/[3803]_20201217044215_tvyij.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2020/12/[3803]_20201217044232_yz92u.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2020/12/[3803]_20201217044304_wncup.jpg"
+      ]
+    },
+    {
+      "id": "jeju28",
+      "name": "제주일도DT",
+      "address": "제주특별자치도 제주시 동광로 130 (일도이동)",
+      "latitude": "33.5073284",
+      "longitude": "126.5408980",
+      "parking": ["DT점", "주차가능", "6대", "무료"],
+      "since": "2020-12",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2020/10/[3707]_20201005091031_pzr1c.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/09/[3707]_20200923045400_oafo4.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/09/[3707]_20200923045541_llr2n.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/09/[3707]_20200923045734_48xuy.jpg"
+      ]
+    },
+    {
+      "id": "jeju29",
+      "name": "제주공항DT",
+      "address": "제주특별자치도 제주시 월성로 42 (용담이동)",
+      "latitude": "33.5005664",
+      "longitude": "126.5054842",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "22대",
+        "유료",
+        "기본 30분 무료, 1만원 미만(1시간 무료), 1만원 이상(2시간 무료), 2만원 이상(3시간 무료), 일 최대 4시간 주차 가능"
+      ],
+      "since": "2023-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3997]_20230218011646_nq5wa.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3997]_20230218011750_t3ix8.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3997]_20230218011757_6mzw4.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3997]_20230218011803_xqpom.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3997]_20230218011819_hmckz.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3997]_20230218011827_bu6nr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3997]_20230218011830_tbhyu.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3997]_20230218011904_exg81.jpg"
+      ]
+    },
+    {
+      "id": "jeju30",
+      "name": "제주금악DT",
+      "address": "제주특별자치도 제주시 한림읍 평화로 1360-2",
+      "latitude": "33.3479439704936",
+      "longitude": "126.359305043849",
+      "parking": ["DT점", "주차가능", "77대", "무료"],
+      "since": "2024-11",
+      "highlight": true,
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[4289]_20241119041723_mb36n.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[4289]_20241119042050_eaept.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[4289]_20241119042741_4g08x.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[4289]_20241119042751_pw5f8.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[4289]_20241119043122_59su8.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[4289]_20241119043135_0jyia.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[4289]_20241119043151_5gkwa.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[4289]_20241119043211_zms29.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[4289]_20241119043355_lh2ye.jpg"
+      ]
+    },
+    {
+      "id": "jeju31",
+      "name": "제주한담해변DT",
+      "address": "제주특별자치도 제주시 애월읍 일주서로 6142",
+      "latitude": "33.458182897356984",
+      "longitude": "126.31123001840102",
+      "parking": ["DT점", "주차가능", "26대", "무료", "전기차 충전소 2대 포함"],
+      "since": "2024-09",
+      "view": "바다뷰",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/09/[4456]_20240910105203_dupr2.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/10/[4456]_20241030054833_ywef3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/10/[4456]_20241030054949_vy7tj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/10/[4456]_20241030054012_b6xvh.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/10/[4456]_20241030054019_7f3k5.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/10/[4456]_20241030054027_k42tm.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/10/[4456]_20241030054801_35xe0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/10/[4456]_20241030054808_c3rt0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/10/[4456]_20241030054813_mhutm.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/10/[4456]_20241030054816_x3eud.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/10/[4456]_20241030054824_j1w8s.jpg"
+      ]
+    },
+    {
+      "id": "jeju32",
+      "name": "더제주송당파크R",
+      "address": "제주특별자치도 제주시 구좌읍 비자림로 1189",
+      "latitude": "33.4354457",
+      "longitude": "126.7313926",
+      "parking": [
+        "건물",
+        "주차가능",
+        "500대 이상",
+        "무료",
+        "동쪽송당 동화마을 주차장 이용가"
+      ],
+      "since": "2023-10",
+      "highlight": true,
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/10/[4304]_20231009111754_bnrij.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/10/[4304]_20231010065912_dehr4.png",
+        "https://image.istarbucks.co.kr/upload/store/2023/10/[4304]_20231009111808_9tw7o.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/10/[4304]_20231012122029_vmscj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/10/[4304]_20231012122103_0mcsx.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/10/[4304]_20231012122139_bfshq.jpg"
+      ]
+    },
+    {
+      "id": "jeju33",
+      "name": "제주평화로DT",
+      "address": "제주특별자치도 제주시 노형로 37 (해안동)",
+      "latitude": "33.46329278001417",
+      "longitude": "126.45099791468475",
+      "parking": ["건물", "주차가능", "18대", "무료"],
+      "since": "2024-01",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4120]_20240101094233_cr0j1.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4120]_20240101094240_3qn9q.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4120]_20240101094247_9baz7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4120]_20240101094252_fsjq8.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4120]_20240101094257_zguzh.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4120]_20240101094304_5dqf7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4120]_20240101094310_kpegn.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4120]_20240101094316_882jj.jpg"
+      ]
+    }
+  ]
+}
