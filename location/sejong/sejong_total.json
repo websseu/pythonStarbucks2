@@ -1,0 +1,296 @@
+{
+  "location": "세종",
+  "count": 14,
+  "date": "2024-12-17",
+  "item": [
+    {
+      "id": "sejong1",
+      "name": "세종다정DT",
+      "address": "세종특별자치시 다정북로 219 (다정동)",
+      "latitude": "36.494878",
+      "longitude": "127.255384",
+      "parking": ["DT점", "주차가능", "4대", "무료"],
+      "since": "2024-01",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3627]_20240131022128_zwj5p.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3627]_20240131022144_3hfze.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3627]_20240131022150_94zea.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3627]_20240131022157_whgro.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3627]_20240131022203_b0l0i.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3627]_20240131022215_b3tqi.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3627]_20240131022233_rnwqw.jpg"
+      ]
+    },
+    {
+      "id": "sejong2",
+      "name": "세종보람",
+      "address": "세종특별자치시 한누리대로 2165 (보람동) A118,119,120,121,128,129,130,131",
+      "latitude": "36.4773322231936",
+      "longitude": "127.28651937895552",
+      "parking": [
+        "건물",
+        "주차가능",
+        "100대 이상",
+        "유료",
+        "등록시 2시간 무료"
+      ],
+      "since": "2024-01",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3844]_20240131032924_nvubz.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3844]_20240131033011_wdy4p.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3844]_20240131032939_4gf8p.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3844]_20240131033018_3lvtc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3844]_20240131032953_8k8xk.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3844]_20240204013359_kp3z5.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3844]_20240131033028_zb5rb.jpg"
+      ]
+    },
+    {
+      "id": "sejong3",
+      "name": "세종새롬",
+      "address": "세종특별자치시  새롬중앙로 64 (새롬동)",
+      "latitude": "36.4864669923837",
+      "longitude": "127.250851573212",
+      "parking": ["건물", "주차가능", "50대 이상", "유료", "1시간 무료"],
+      "since": "2017-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2017/08/[3494]_20170816081859_maaxm.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2017/08/[3494]_20170827121542_3noj9.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/08/[3494]_20170827121547_wekys.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/08/[3494]_20170827121552_qwqkw.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/08/[3494]_20170827121557_r2gk4.JPG"
+      ]
+    },
+    {
+      "id": "sejong4",
+      "name": "세종어진R",
+      "address": "세종특별자치시  한누리대로 499 (어진동)",
+      "latitude": "36.50823507458724",
+      "longitude": "127.26104660851452",
+      "parking": ["건물", "주차가능", "50대 이상", "유료", "2시간 무료"],
+      "since": "2018-04",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2018/04/[3298]_20180404092140_sf048.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3298]_20240201053537_66cdx.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3298]_20240201053555_yvtzn.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3298]_20240201053619_6u9zd.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3298]_20240201100836_1lupo.jpg"
+      ]
+    },
+    {
+      "id": "sejong5",
+      "name": "세종종촌",
+      "address": "세종특별자치시  도움3로 105-10 (종촌동) 성운프라자",
+      "latitude": "36.5041123",
+      "longitude": "127.2493812",
+      "parking": ["건물", "주차가능", "10대", "무료"],
+      "since": "2014-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3098]_20240204071405_69sx5.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3098]_20240204071449_9x3jy.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3098]_20240204071458_9rcbl.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3098]_20240204071513_1yv48.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3098]_20240204071522_jg4hz.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3098]_20240204071436_l3erv.jpg"
+      ]
+    },
+    {
+      "id": "sejong6",
+      "name": "세종첫마을",
+      "address": "세종특별자치시  한누리대로 169 행복타워 1층",
+      "latitude": "36.480180791",
+      "longitude": "127.26163317",
+      "parking": [
+        "건물",
+        "주차가능",
+        "50대 이상",
+        "유료",
+        "결제시 1시간 무료 주차권 증정, 1시간 초과시 개별 결제 진행"
+      ],
+      "since": "2022-03",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/04/[3040]_20240416082552_yz6j7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/03/[3040]_20220314023441_zz017.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/03/[3040]_20220314023433_p8ktv.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/03/[3040]_20220311074211_f5fbp.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/03/[3040]_20220314022548_tz60u.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/03/[3040]_20220314023226_tu08m.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/03/[3040]_20220314023323_4hbts.jpg"
+      ]
+    },
+    {
+      "id": "sejong7",
+      "name": "세종이마트",
+      "address": "세종특별자치시 금송로 687(가람동 406) 이마트 세종점",
+      "latitude": "36.47101163447959",
+      "longitude": "127.25108070405918",
+      "parking": ["건물", "주차가능", "600대 이상", "무료"],
+      "since": "2016-30",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3076]_20240131034752_phadu.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3076]_20240131035131_k386f.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3076]_20240131035135_1llwa.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3076]_20240131035432_tsmms.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3076]_20240131035017_t54rq.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3076]_20240131035047_fzju2.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3076]_20240131035058_747zk.jpg"
+      ]
+    },
+    {
+      "id": "sejong8",
+      "name": "세종청사",
+      "address": "세종특별자치시  도움8로 81 (어진동)",
+      "latitude": "36.5045109528531",
+      "longitude": "127.270198464097",
+      "parking": [
+        "건물",
+        "주차가능",
+        "50대 이상",
+        "유료",
+        "1시간 30분 무료, 초과시 금액 개별 정산"
+      ],
+      "since": "2015-04",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[9905]_20240822011612_a7b1o.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[9905]_20240131114432_n3aob.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[9905]_20240818090024_8ncv5.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[9905]_20240818090032_vdux1.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[9905]_20240818090040_i9bsx.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[9905]_20240818090054_7rksi.jpg"
+      ]
+    },
+    {
+      "id": "sejong9",
+      "name": "세종아름",
+      "address": "세종특별자치시 아름서1길 13-9 (아름동) 103,104,105,202,203호",
+      "latitude": "36.5116353777334",
+      "longitude": "127.242571334497",
+      "parking": [
+        "건물",
+        "주차가능",
+        "100대 이상",
+        "유료",
+        "2시간 무료, 매장 태블릿 수기 등록필요"
+      ],
+      "since": "2021-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/02/[4020]_20210223095558_blnry.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4020]_20240131113042_ifurx.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4020]_20240131113101_uit3z.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4020]_20240131113110_d306q.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4020]_20240131113345_dserm.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4020]_20240131113355_yz8n8.jpg"
+      ]
+    },
+    {
+      "id": "sejong10",
+      "name": "세종반곡",
+      "address": "세종특별자치시 한누리대로 1844 (반곡동)",
+      "latitude": "36.4978562567888",
+      "longitude": "127.31004736092",
+      "parking": [
+        "건물",
+        "주차가능",
+        "10대 이상",
+        "유료",
+        "무료주차 2시간, 매장 태블릿 수기 등록필요"
+      ],
+      "since": "2023-06",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4429]_20240227114701_rhw95.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/06/[4429]_20230620015013_2sr3k.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/06/[4429]_20230620015024_zmcss.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4429]_20240131050801_z3hdv.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4429]_20240131050808_ywrna.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4429]_20240131050848_7rmr6.jpg"
+      ]
+    },
+    {
+      "id": "sejong11",
+      "name": "세종한솔",
+      "address": "세종특별자치시 노을3로 101 (한솔동)",
+      "latitude": "36.480081270533546",
+      "longitude": "127.2534644968015",
+      "parking": ["건물", "주차가능", "20대", "무료"],
+      "since": "2024-01",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4343]_20240131113223_ho21e.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4343]_20240131112950_mobhz.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4343]_20240131113059_brbqi.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4343]_20240201092550_n9gyj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4343]_20240201092611_lszih.jpg"
+      ]
+    },
+    {
+      "id": "sejong12",
+      "name": "세종소담",
+      "address": "세종특별자치시 소담3로 8 (소담동) 1동  12호,13호,14호,15호,15a호,16호",
+      "latitude": "36.485755",
+      "longitude": "127.300509",
+      "parking": [
+        "건물",
+        "주차가능",
+        "50대 이상",
+        "무료",
+        "현재 시간 제약 없이 무료 이용 가능하나 추후 변경 예정"
+      ],
+      "since": "2021-01",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3976]_20240131042848_pdqzf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3976]_20240131043710_zjd98.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3976]_20240131042920_ac4ig.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3976]_20240131044027_1afhk.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/01/[3976]_20210112035118_52dvl.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/01/[3976]_20210112035721_f0pjp.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/01/[3976]_20210114055733_73yhm.jpg"
+      ]
+    },
+    {
+      "id": "sejong13",
+      "name": "세종금강DT",
+      "address": "세종특별자치시 시청대로 45 (대평동)",
+      "latitude": "36.4760536945259",
+      "longitude": "127.277497630487",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "40대 이상",
+        "유료",
+        "1시간 30분 무료, 이후 10분당 500원, 회차 30분"
+      ],
+      "since": "2024-01",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4278]_20240131035942_l0fxo.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4278]_20240131035443_j0st2.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4278]_20240131035501_5hxka.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4278]_20240131035843_najmj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4278]_20240201122215_r07dc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4278]_20240201060207_90u3l.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4278]_20240201122221_gmwua.jpg"
+      ]
+    },
+    {
+      "id": "sejong14",
+      "name": "세종충남대학교병원",
+      "address": "세종특별자치시 보듬7로 20 (도담동) 헬스케어센터 1층",
+      "latitude": "36.5186720854037",
+      "longitude": "127.257174097983",
+      "parking": [
+        "건물",
+        "주차가능",
+        "50대 이상",
+        "유료",
+        "매장 태블릿으로 주차등록시 1시간 무료"
+      ],
+      "since": "2021-07",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2021/06/[4127]_20210608072858_t0kmq.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/01/[4127]_20240130031259_bceyo.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/07/[4127]_20210712111723_xdm9u.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/01/[4127]_20240130031254_uyz1s.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/07/[4127]_20210712111615_y9hxa.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/07/[4127]_20210712111608_zq8ny.jpg"
+      ]
+    }
+  ]
+}
