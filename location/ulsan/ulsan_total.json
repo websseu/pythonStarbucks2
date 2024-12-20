@@ -1,0 +1,759 @@
+{
+  "location": "울산",
+  "count": 35,
+  "date": "2024-12-18",
+  "item": [
+    {
+      "id": "ulsan1",
+      "name": "울산번영로",
+      "address": "울산광역시 남구 삼산로 182 (달동)",
+      "latitude": "35.537046784",
+      "longitude": "129.327294457",
+      "parking": [
+        "건물",
+        "주차가능",
+        "30대 이상",
+        "유료",
+        "구매 고객 대상 2시간 무료 주차(오전 10시 이전 주차 시 주차비 발생)"
+      ],
+      "since": "2019-11",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2019/11/[3784]_20191115025021_tdyqg.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/11/[3784]_20191115025103_76pgd.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/11/[3784]_20191113051450_xvo01.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/10/[3784]_20191020091540_uu92l.jpg"
+      ]
+    },
+    {
+      "id": "ulsan2",
+      "name": "울산대공원",
+      "address": "울산광역시 남구 대공원입구로 4 (옥동)",
+      "latitude": "35.532330",
+      "longitude": "129.293827",
+      "parking": ["건물", "주차가능", "2대", "무료"],
+      "since": "2019-05",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2019/05/[3664]_20190510085525_h37kr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3664]_20200216082548_9fy78.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3664]_20200216082550_hncaf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3664]_20200216082553_ejj90.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3664]_20200216082557_goz07.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3664]_20200216082559_rh82h.jpg"
+      ]
+    },
+    {
+      "id": "ulsan3",
+      "name": "울산도산사거리DT",
+      "address": "울산광역시 남구 대암로129번길 9-6 (야음동)",
+      "latitude": "35.5309416639556",
+      "longitude": "129.330232053359",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "50대",
+        "유료",
+        "매장 이용시 3시간 무료주차"
+      ],
+      "since": "2021-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2018/09/[3558]_20180916025826_6vqbd.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3558]_20200217094646_f2rsk.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3558]_20200217094612_vkk7v.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3558]_20200217094656_em525.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3558]_20200217094708_vxvv0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3558]_20200218085944_ugcaz.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3558]_20200217094703_trq79.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3558]_20200218090002_4ytxa.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3558]_20200218090007_lakl5.jpg"
+      ]
+    },
+    {
+      "id": "ulsan4",
+      "name": "울산시청사거리DT",
+      "address": "울산광역시 남구 중앙로 180 (달동)",
+      "latitude": "35.537195",
+      "longitude": "129.313617",
+      "parking": ["DT점", "주차가능", "5대", "무료"],
+      "since": "2020-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3310]_20200217091602_q71fb.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3310]_20200215014920_pkc45.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3310]_20200215014911_dd8co.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3310]_20200215014924_0uukn.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3310]_20200215014909_crv3r.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3310]_20200215014927_6zgqa.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3310]_20200217092133_gykvd.jpg"
+      ]
+    },
+    {
+      "id": "ulsan5",
+      "name": "울산남구청DT",
+      "address": "울산광역시 남구 번영로 215 (신정동)",
+      "latitude": "35.5441545",
+      "longitude": "129.32459960000006",
+      "parking": ["DT점", "주차가능", "4대", "무료"],
+      "since": "2015-12",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2015/12/[3207]_20151218110509635.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2017/04/[3207]_20170403030243_dw7ra.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2017/04/[3207]_20170403030232_x62ox.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2017/04/[3207]_20170403030237_5k7d7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2017/04/[3207]_20170403030240_hcxjq.jpg"
+      ]
+    },
+    {
+      "id": "ulsan6",
+      "name": "울산중리사거리DT",
+      "address": "울산광역시 남구 돋질로 310 (삼산동)",
+      "latitude": "35.543928",
+      "longitude": "129.338651",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "16대",
+        "유료",
+        "1만원 이상 결제시 1만원 당 1시간 무료(일 최대 2시간), 1시간 초과 시 10분당 500원"
+      ],
+      "since": "2016-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3208]_20200225085751_q03lb.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3208]_20200225090102_h3ngf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3208]_20200225090057_chti2.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2016/02/[3208]_20160213055325_2l6g4.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2016/02/[3208]_20160213055215_x6619.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2016/02/[3208]_20160213055258_e3lsy.jpg"
+      ]
+    },
+    {
+      "id": "ulsan7",
+      "name": "울산센트럴",
+      "address": "울산광역시 남구 삼산로 231 (달동)",
+      "latitude": "35.538793773",
+      "longitude": "129.332360917",
+      "parking": [
+        "건물",
+        "주차가능",
+        "30대 이상",
+        "유료",
+        "만원 이상 구매고객 1시간 주차 이용가능"
+      ],
+      "since": "2016-03",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2017/04/[3243]_20170403091401_1o1vs.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3243]_20200216014933_lmxgr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2016/03/[3243]_20160318062102_0owjy.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3243]_20200216014952_42v6k.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3243]_20200216014959_weukb.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2017/04/[3243]_20170403091848_pyo6z.jpg"
+      ]
+    },
+    {
+      "id": "ulsan8",
+      "name": "울산삼산로",
+      "address": "울산광역시 남구 삼산로 278 번길 8 (삼산동)",
+      "latitude": "35.5384838",
+      "longitude": "129.3373025",
+      "parking": [
+        "건물",
+        "주차가능",
+        "40대",
+        "유료",
+        "금액무관, 주차증에 매장도장 받을시 1시간 무료"
+      ],
+      "since": "2023-07",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2023/07/[3078]_20230712112031_zdpp2.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/07/[3078]_20230712112416_abz7l.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/07/[3078]_20230712112504_n8dy6.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/07/[3078]_20230712112608_vleuy.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/07/[3078]_20230712112827_80rnu.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/07/[3078]_20230712113108_ieijh.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/07/[3078]_20230712113147_j8x7x.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/07/[3078]_20230712113316_izgmp.jpg"
+      ]
+    },
+    {
+      "id": "ulsan9",
+      "name": "울산대",
+      "address": "울산광역시 남구 대학로84번길 5-3 (무거동)",
+      "latitude": "35.542467",
+      "longitude": "129.260197",
+      "parking": ["건물", "주차불가"],
+      "since": "2022-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/02/[3029]_20220217112854_bbujs.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/02/[3029]_20220217112906_9aanx.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/02/[3029]_20220217112913_xlkhm.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/02/[3029]_20220217112919_v3u13.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/02/[3029]_20220217112925_kpggj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/02/[3029]_20220217112933_jxbjt.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/02/[3029]_20220217112948_qpcmr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/02/[3029]_20220217112955_rstv9.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/02/[3029]_20220217113001_aru3p.jpg"
+      ]
+    },
+    {
+      "id": "ulsan10",
+      "name": "울산디자인거리",
+      "address": "울산광역시 남구 삼산중로74번길 30-1, 1~2층 (삼산동)",
+      "latitude": "35.540501",
+      "longitude": "129.33876",
+      "parking": ["건물", "주차불가"],
+      "since": "2021-12",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[9902]_20211209010221_3zk4l.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[9902]_20211209010336_jaerb.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[9902]_20211209010237_e1mm2.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[9902]_20211209010229_pjfpw.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[9902]_20211209010242_g5uto.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[9902]_20211209010256_lljjy.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[9902]_20211209010249_r43hp.jpg"
+      ]
+    },
+    {
+      "id": "ulsan11",
+      "name": "울산신복",
+      "address": "울산광역시 남구 대학로 152 (무거동)",
+      "latitude": "35.548094723038396",
+      "longitude": "129.2627730157469",
+      "parking": ["건물", "주차불가"],
+      "since": "2021-12",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[9942]_20211206080136_oiq03.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[9942]_20211206080349_dlt1e.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[9942]_20211206080345_skdpt.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[9942]_20211205101302_cxquq.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[9942]_20211205101256_9ak4q.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[9942]_20211205101250_ny6hn.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[9942]_20211205101308_gmdpl.jpg"
+      ]
+    },
+    {
+      "id": "ulsan12",
+      "name": "울산태화강역DT",
+      "address": "울산광역시 남구 삼산로 379 (삼산동)",
+      "latitude": "35.540197600155174",
+      "longitude": "129.3486954600125",
+      "parking": ["DT점", "주차가능", "5대", "무료"],
+      "since": "2023-05",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/05/[4272]_20230524042117_zhxff.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/05/[4272]_20230526070503_sycoi.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/05/[4272]_20230526070509_h5air.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/05/[4272]_20230526070924_13a2n.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/05/[4272]_20230526070931_kw3db.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/05/[4272]_20230526070938_oycah.jpg"
+      ]
+    },
+    {
+      "id": "ulsan13",
+      "name": "울산번영로DT",
+      "address": "울산광역시 남구 달삼로 3 (달동)",
+      "latitude": "35.53541316",
+      "longitude": "129.329300402",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "11대",
+        "유료",
+        "1만원 이상 결제시 1만원당 1시간 지원(일 최대 2시간), 1시간 초과 시 10분당 500원"
+      ],
+      "since": "2022-10",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/10/[4146]_20221012044847_1uhn6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/10/[4146]_20221012045451_1xwdp.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/10/[4146]_20221012045904_bkvox.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/10/[4146]_20221012045922_l4ndw.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/10/[4146]_20221012045932_wi2ws.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/10/[4146]_20221012045943_ioixm.jpg"
+      ]
+    },
+    {
+      "id": "ulsan14",
+      "name": "울산삼성",
+      "address": "울산광역시 남구 삼산로 86 (달동)",
+      "latitude": "35.5343805",
+      "longitude": "129.3170556",
+      "parking": [
+        "건물",
+        "주차가능",
+        "66대",
+        "유료",
+        "최대 2시간 무료, 2시간 초과 시 10분당 1000원"
+      ],
+      "since": "2022-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4350]_20220825081041_ctzsj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4350]_20220825081048_iclee.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4350]_20220825084411_kcu91.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4350]_20220825081120_oh8yc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4350]_20220825081130_2v42b.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4350]_20220825081139_tbyoc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4350]_20220825081145_zrmu6.jpg"
+      ]
+    },
+    {
+      "id": "ulsan15",
+      "name": "울산신정DT",
+      "address": "울산광역시 남구 문수로 435 (신정동)",
+      "latitude": "35.5336116",
+      "longitude": "129.3011209",
+      "parking": ["DT점", "주차가능", "6대", "무료"],
+      "since": "2021-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/08/[3771]_20210802043744_ocm1s.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/08/[3771]_20210802043750_necj5.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/08/[3771]_20210802043755_xwbi7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/08/[3771]_20210802044132_dr2l4.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/08/[3771]_20210802044138_yfmug.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/08/[3771]_20210802044148_c84pg.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/08/[3771]_20210802044154_at29g.jpg"
+      ]
+    },
+    {
+      "id": "ulsan16",
+      "name": "울산호계DT",
+      "address": "울산광역시 북구 산업로 1464 (신천동)",
+      "latitude": "35.63791557",
+      "longitude": "129.3450397",
+      "parking": ["DT점", "주차가능", "32대", "무료"],
+      "since": "2022-03",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/03/[3785]_20220304121849_kgla6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/03/[3785]_20220304121856_afbou.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/03/[3785]_20220304121902_e2i7o.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/03/[3785]_20220304121935_6ptzz.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/03/[3785]_20220304121740_4xwrm.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/03/[3785]_20220304121457_1u6ne.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/03/[3785]_20220304121720_zedlu.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/03/[3785]_20220304121726_31gyi.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[3785]_20200415031653_qbxe4.jpg"
+      ]
+    },
+    {
+      "id": "ulsan17",
+      "name": "울산북구청DT",
+      "address": "울산광역시 북구 산업로 1011 (연암동)",
+      "latitude": "35.58348599",
+      "longitude": "129.3589047",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "34대",
+        "유료",
+        "최대 2시간 무료, 이후 30분당 1000원"
+      ],
+      "since": "2017-12",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2017/12/[3502]_20171214081517_vvuwe.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3502]_20200220071725_txjj1.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3502]_20200220071816_cxdk9.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3502]_20200220071827_820kj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3502]_20200220072315_mue85.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3502]_20200220071847_p8zn9.jpg"
+      ]
+    },
+    {
+      "id": "ulsan18",
+      "name": "울산진장",
+      "address": "울산광역시 북구 진장17길 10 (진장동)",
+      "latitude": "35.56262984",
+      "longitude": "129.356469",
+      "parking": [
+        "건물",
+        "주차가능",
+        "100대 이상",
+        "유료",
+        "매장이용 고객에 한하여 일 최대 3시간 무료"
+      ],
+      "since": "2020-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3367]_20200222073644_ehqkt.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3367]_20200222073656_74k4f.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3367]_20200222073702_jb3fs.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3367]_20200222073707_rz0py.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3367]_20200222073717_mz1wa.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3367]_20200222073721_k8z1w.jpg"
+      ]
+    },
+    {
+      "id": "ulsan19",
+      "name": "울산정자비치DT",
+      "address": "울산광역시 북구 동해안로 1601 (산하동)",
+      "latitude": "35.62741168",
+      "longitude": "129.4411137",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "16대",
+        "유료",
+        "1만원 이상 결제시 1만원 당 1시간 지원(일 최대4시간), 1시간 초과시 10분당 300원"
+      ],
+      "since": "2020-02",
+      "view": "바다뷰",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3305]_20200220101526_2w0au.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3305]_20200220101259_tvg6t.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3305]_20200220101243_1vdlz.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3305]_20200220101231_f1inj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3305]_20200220101304_xtc4e.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3305]_20200220101458_iw9kn.jpg"
+      ]
+    },
+    {
+      "id": "ulsan20",
+      "name": "울산화봉",
+      "address": "울산광역시 북구 화봉로 75 (화봉동)",
+      "latitude": "35.588615",
+      "longitude": "129.367334",
+      "parking": ["건물", "주차불가"],
+      "since": "2020-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[9929]_20200225123309_opzue.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[9929]_20200225122809_1ynfc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/03/[9929]_20200302080544_w75lj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[9929]_20200225122818_3lgxv.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[9929]_20200225122830_8ubsr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[9929]_20200225122837_9chi1.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[9929]_20200225122727_xrknc.jpg"
+      ]
+    },
+    {
+      "id": "ulsan21",
+      "name": "북울산삼성",
+      "address": "울산광역시 북구 진장유통로 65 (진장동)",
+      "latitude": "35.57650058",
+      "longitude": "129.3558901",
+      "parking": [
+        "건물",
+        "주차가능",
+        "91대",
+        "유료",
+        "최대 2시간 무료, 2시간 초과시 1시간당 1000원"
+      ],
+      "since": "2022-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4330]_20220803115120_qy7sl.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4330]_20220803115742_wfxm4.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4330]_20220803115548_ymuo2.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[4330]_20220727100555_oaiv4.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[4330]_20220727100602_waher.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[4330]_20220727100608_f7f1h.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[4330]_20220727100615_p8l82.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4330]_20220803115841_457cd.jpg"
+      ]
+    },
+    {
+      "id": "ulsan22",
+      "name": "울산송정",
+      "address": "울산광역시 북구 화산로 119 (송정동)",
+      "latitude": "35.6026125",
+      "longitude": "129.3652347",
+      "parking": [
+        "건물",
+        "주차가능",
+        "100대",
+        "유료",
+        "매장 후면 지하주차장, 최대 2시간 무료"
+      ],
+      "since": "2023-11",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4493]_20231115113802_7rmug.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4493]_20231115113821_70vx4.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4493]_20231115113814_uz1iw.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4493]_20231115113829_6df1s.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4493]_20231115113837_i9mwy.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4493]_20231115113846_la6na.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4493]_20231115113902_b6j0l.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4493]_20231115113910_r1xn7.jpg"
+      ]
+    },
+    {
+      "id": "ulsan23",
+      "name": "울산 KTX",
+      "address": "울산광역시 울주군 삼남읍 도호1길 16",
+      "latitude": "35.547868",
+      "longitude": "129.141895",
+      "parking": [
+        "건물",
+        "주차가능",
+        "18대",
+        "유료",
+        "금액 상관없이 구매 시 1시간 30분 무료"
+      ],
+      "since": "2023-01",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[4221]_20230119035600_c3ow5.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[4221]_20230118043843_tehys.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[4221]_20230119035641_773u8.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[4221]_20230118043857_bluog.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[4221]_20230118043501_ex2w4.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[4221]_20230118043515_p6spm.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[4221]_20230117102731_ygywa.jpg"
+      ]
+    },
+    {
+      "id": "ulsan24",
+      "name": "울산간절곶DT",
+      "address": "울산광역시 울주군 서생면 해맞이로 1216",
+      "latitude": "35.3582120826861",
+      "longitude": "129.355621183874",
+      "parking": ["DT점", "주차가능", "20대", "무료"],
+      "since": "2023-11",
+      "highlight": true,
+      "view": "바다뷰",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2023/11/[4364]_20231119095711_pq5f4.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/01/[4364]_20240102021828_lcvlq.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/01/[4364]_20240102021853_5ky4r.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/01/[4364]_20240102021935_v3oo4.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/11/[4364]_20231120083555_mu0a5.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/11/[4364]_20231120083619_t3o7d.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/11/[4364]_20231120083645_3ok53.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/11/[4364]_20231120083712_buv00.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/11/[4364]_20231120083739_jj52u.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/11/[4364]_20231120083812_7irfu.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/11/[4364]_20231120083907_vabes.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/11/[4364]_20231120084108_bshg7.jpg"
+      ]
+    },
+    {
+      "id": "ulsan25",
+      "name": "울산MBC DT",
+      "address": "울산광역시 중구 번영로 434 (복산동)",
+      "latitude": "35.561657",
+      "longitude": "129.332358",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "16대",
+        "유료",
+        "1만원 이상 결제시 1만원 당 1시간 지원(일 최대 4시간), 시간 초과 시 10분당 500원"
+      ],
+      "since": "2018-06",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2018/06/[3570]_20180610081724_3c08c.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3570]_20200225092844_3sina.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3570]_20200225092848_py72r.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2018/06/[3570]_20180612082459_21wwx.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2018/06/[3570]_20180609084205_7zd6l.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2018/06/[3570]_20180610081910_fcqob.jpg"
+      ]
+    },
+    {
+      "id": "ulsan26",
+      "name": "울산성안",
+      "address": "울산광역시 중구 성안12길 45 (성안동)",
+      "latitude": "35.577829",
+      "longitude": "129.324413",
+      "parking": ["건물", "주차가능", "7대", "무료"],
+      "since": "2017-09",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2017/09/[3259]_20170927111747_bq9tn.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2017/09/[3259]_20170928082149_oa383.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3259]_20200225120653_xb854.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/03/[3259]_20200306013244_5cjbp.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2017/09/[3259]_20170928082202_b879j.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2017/09/[3259]_20170928082705_90cam.jpg"
+      ]
+    },
+    {
+      "id": "ulsan27",
+      "name": "울산성남삼거리",
+      "address": "울산광역시 중구 젊음의2거리 33 (성남동)",
+      "latitude": "35.553215",
+      "longitude": "129.320479",
+      "parking": [
+        "건물",
+        "주차가능",
+        "50대 이상",
+        "유료",
+        "1만원 이상 1시간 무료, MSR 충전 및 쿠폰 사용시 무료 주차 불가"
+      ],
+      "since": "2020-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3356]_20200224103227_afzql.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3356]_20200224103243_32tid.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3356]_20200224103245_wp7ii.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3356]_20200212024329_b1gt3.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3356]_20200212024352_nw97d.JPG"
+      ]
+    },
+    {
+      "id": "ulsan28",
+      "name": "울산병영",
+      "address": "울산광역시 중구 번영로 580 (남외동)",
+      "latitude": "35.568536",
+      "longitude": "129.345381",
+      "parking": [
+        "건물",
+        "주차가능",
+        "81대",
+        "유료",
+        "최대 1시간 무료(도장필수), 시간 초과시 1000원"
+      ],
+      "since": "2023-09",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/09/[4485]_20230913095631_d6lh1.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/09/[4485]_20230913095718_1oa80.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/09/[4485]_20230913095751_9869f.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/09/[4485]_20230913095807_tz5is.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/09/[4485]_20230913095823_wuz2r.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/09/[4485]_20230913095840_vd4rq.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/09/[4485]_20230913095859_31zid.jpg"
+      ]
+    },
+    {
+      "id": "ulsan29",
+      "name": "울산약사DT",
+      "address": "울산광역시 중구 북부순환도로 754 (약사동)",
+      "latitude": "35.573151",
+      "longitude": "129.337371",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "8대",
+        "유료",
+        "1만원 이상 결제시 1시간 무료"
+      ],
+      "since": "2023-01",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[4164]_20230106103349_kczf9.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[4164]_20230106103049_zss46.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[4164]_20230106103057_qesj0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[4164]_20230106103104_8yjoj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[4164]_20230106103113_wpz3x.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[4164]_20230106103126_7nuee.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[4164]_20230106103136_ns175.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[4164]_20230106103253_hf4v2.jpg"
+      ]
+    },
+    {
+      "id": "ulsan30",
+      "name": "울산국가정원",
+      "address": "울산광역시 중구 태화강국가정원길 205 (태화동)",
+      "latitude": "35.5501032",
+      "longitude": "129.2973993",
+      "parking": ["건물", "주차불가"],
+      "since": "2020-10",
+      "highlight": true,
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2020/10/[3967]_20201028054705_kq8ox.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[3967]_20211223115510_wjajg.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[3967]_20211223115426_82ac6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[3967]_20211223115408_urf9z.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/10/[3967]_20201028055130_yztye.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/10/[3967]_20201028054735_lq70j.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/12/[3967]_20201226115753_6bab6.jpg"
+      ]
+    },
+    {
+      "id": "ulsan31",
+      "name": "현대동구",
+      "address": "울산광역시 동구 방어진순환도로 899 (서부동) 현대백화점주차장",
+      "latitude": "35.52114999",
+      "longitude": "129.4317341",
+      "parking": [
+        "건물",
+        "주차가능",
+        "100대 이상",
+        "유료",
+        "백화점 방문 도장 1시간, 영수증 만원 이상 1시간 무료, 3만원 이상 2시간 무료"
+      ],
+      "since": "2023-09",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/09/[9467]_20230910012546_h03dc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/09/[9467]_20230910012633_wuick.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/09/[9467]_20230910012736_en71g.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/09/[9467]_20230912043615_vjxei.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/09/[9467]_20230912043630_i1pc6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/09/[9467]_20230912043638_qty6g.jpg"
+      ]
+    },
+    {
+      "id": "ulsan32",
+      "name": "울산일산비치DT",
+      "address": "울산광역시 동구 일산진11길 95 (일산동)",
+      "latitude": "35.4988643178881",
+      "longitude": "129.430994177348",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "8대",
+        "유료",
+        "1만원 이상 결제시 1시간 무료"
+      ],
+      "since": "2022-12",
+      "view": "바다뷰",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/12/[4194]_20221215074217_qtx4l.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/12/[4194]_20221215074225_2obno.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/12/[4194]_20221215074233_ftp8q.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/12/[4194]_20221215074316_jxi8w.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/12/[4194]_20221215074333_bis3t.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/12/[4194]_20221215074342_w9nml.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/12/[4194]_20221215074350_ix4pn.jpg"
+      ]
+    },
+    {
+      "id": "ulsan33",
+      "name": "울산대학교병원",
+      "address": "울산광역시 동구 대학병원로 30 (서부동)",
+      "latitude": "35.520640572",
+      "longitude": "129.428934687",
+      "parking": [
+        "건물",
+        "주차가능",
+        "45대",
+        "유료",
+        "10분당 500원 과금, 30분 회차 무료, 30분 이후부터 요금 부과"
+      ],
+      "since": "2021-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/08/[4063]_20210812104117_f05js.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/08/[4063]_20210812104629_g10fq.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/08/[4063]_20210812104108_bu4gr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/08/[4063]_20210812104059_knfcu.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/08/[4063]_20210812104013_vutzw.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/08/[4063]_20210812104034_rvtf5.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/08/[4063]_20210812104025_j4eb3.jpg"
+      ]
+    },
+    {
+      "id": "ulsan34",
+      "name": "울산남목DT",
+      "address": "울산광역시 동구 방어진순환도로 1146 (서부동)",
+      "latitude": "35.5397841",
+      "longitude": "129.4234235",
+      "parking": ["DT점", "주차가능", "13대", "무료"],
+      "since": "2024-05",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/05/[4467]_20240522054357_7v9t3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/05/[4467]_20240523071249_lkdvn.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/05/[4467]_20240523071329_efd4u.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/05/[4467]_20240521015817_465gw.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/05/[4467]_20240521111504_2w7g1.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/05/[4467]_20240521111511_zefg2.jpg"
+      ]
+    },
+    {
+      "id": "ulsan35",
+      "name": "울산주전비치",
+      "address": "울산광역시 동구 동해안로 667 (주전동)",
+      "latitude": "35.5654435",
+      "longitude": "129.4548214",
+      "parking": ["건물", "주차가능", "11대", "무료"],
+      "since": "2023-01",
+      "view": "바다뷰",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2023/01/[4254]_20230111114339_p4hb7.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/01/[4254]_20230113083826_sb0l1.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/01/[4254]_20230111114432_qsa17.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/01/[4254]_20230111114540_juo61.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/01/[4254]_20230111114832_g0stq.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/01/[4254]_20230111114637_wx7oz.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/01/[4254]_20230111114725_n0vgb.jpg"
+      ]
+    }
+  ]
+}
