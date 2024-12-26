@@ -9,8 +9,24 @@
       "address": "대전광역시 대덕구 한밭대로 1122 (중리동)",
       "latitude": "36.35849",
       "longitude": "127.42331",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "DT점",
+        "주차가능",
+        "7대",
+        "유료",
+        "스타벅스 이용시 2시간 무료"
+      ],
+      "since": "2021-11",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/11/[3462]_20211123023525_fjlfy.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3462]_20240203121537_4t5t6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3462]_20240203095842_tdhb6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3462]_20240203095952_nz9qq.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3462]_20240203121559_wqv1o.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3462]_20230218092235_a36ar.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3462]_20240204064604_tcpyk.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3462]_20240203125644_iz2o3.jpg"
+      ]
     },
     {
       "id": "daejon2",
@@ -18,8 +34,22 @@
       "address": "대전광역시 대덕구 동서대로 1776 (비래동)",
       "latitude": "36.35423933207529",
       "longitude": "127.44425907044812",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "DT점",
+        "주차가능",
+        "50대",
+        "유료",
+        "스타벅스 이용고객 대상 2시간 무료"
+      ],
+      "since": "2022-11",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[3185]_20221116052449_arh9p.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[3185]_20240819092459_p40ux.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[3185]_20240819091840_1xtso.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[3185]_20240819091853_camyz.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[3185]_20240819091858_4tuka.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[3185]_20240819091847_3m9n0.jpg"
+      ]
     },
     {
       "id": "daejon3",
@@ -27,8 +57,23 @@
       "address": "대전광역시 대덕구 대덕대로 1544 (석봉동)",
       "latitude": "36.44866030000001",
       "longitude": "127.41998309999997",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "DT점",
+        "주차가능",
+        "15대",
+        "유료",
+        "최초 30분 무료, 1만원당 1시간 무료(일 최대 4시간), 입차 시간으로부터 10분당 500원"
+      ],
+      "since": "2016-04",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2016/04/[3232]_20160429033722_hxkpy.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2016/04/[3232]_20160429033729_moupv.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3232]_20240206015025_2qgsx.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3232]_20240208111104_f6zpo.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3232]_20240208111209_r0pyy.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3232]_20240208111307_i2kcf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3232]_20240208111314_8wgmb.jpg"
+      ]
     },
     {
       "id": "daejon4",
@@ -36,8 +81,17 @@
       "address": "대전광역시 대덕구 송촌북로36번길 36, 1층 (송촌동)",
       "latitude": "36.36623665994678",
       "longitude": "127.43802612927476",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2021-09",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[9871]_20210907090606_qf8r7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[9871]_20210907090651_l0wum.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/01/[9871]_20220106054101_7iz8g.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/01/[9871]_20220106054453_h6wmu.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[9871]_20210907090657_mqwwr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[9871]_20210907090706_kqhwg.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[9871]_20210907090712_5tt0f.jpg"
+      ]
     },
     {
       "id": "daejon5",
@@ -45,8 +99,23 @@
       "address": "대전광역시 대덕구 신탄진로 866 (신탄진동)",
       "latitude": "36.454619",
       "longitude": "127.42882",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "DT점",
+        "주차가능",
+        "14대",
+        "유료",
+        "최초 30분 무료, 1만원당 1시간 무료(최대 4시간 가능)"
+      ],
+      "since": "2022-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/02/[3914]_20220208030128_3ianw.png",
+        "https://image.istarbucks.co.kr/upload/store/2022/02/[3914]_20220208030144_yrh3l.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/02/[3914]_20220208030207_ff9x1.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/02/[3914]_20220208030215_bj56e.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/02/[3914]_20220208030219_3rp06.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/11/[3914]_20211122114515_7unsi.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/08/[3914]_20230818022558_v3nvm.jpg"
+      ]
     },
     {
       "id": "daejon6",
@@ -54,8 +123,23 @@
       "address": "대전광역시 동구 동서대로 1658 (성남동)",
       "latitude": "36.347995",
       "longitude": "127.434241",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "DT점",
+        "주차가능",
+        "9대",
+        "유료",
+        "스타벅스 1만원 이상 이용고객 1시간 무료"
+      ],
+      "since": "2019-11",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2019/11/[3745]_20191120111108_2h3tm.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/11/[3745]_20191122023358_ysvcg.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/11/[3745]_20191122023625_rwz8o.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/11/[3745]_20191122023728_hdrlo.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/11/[3745]_20191122023740_n1aov.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/11/[3745]_20191122023803_60c7k.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/02/[3745]_20220216042043_vra7t.jpg"
+      ]
     },
     {
       "id": "daejon7",
@@ -63,8 +147,21 @@
       "address": "대전광역시 동구 옥천로 118 (판암동)",
       "latitude": "36.317013",
       "longitude": "127.453623",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "DT점",
+        "주차가능",
+        "20대 이상",
+        "유료",
+        "스타벅스 이용시 3시간 무료(30분 내 회차 무료)"
+      ],
+      "since": "2017-11",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2017/11/[3477]_20171129091139_g2zys.png",
+        "https://image.istarbucks.co.kr/upload/store/2017/11/[3477]_20171129091228_j3dyz.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2018/08/[3477]_20180831064342_2sya3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/07/[3477]_20190707105057_q0fdq.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/07/[3477]_20190707105103_9npin.jpg"
+      ]
     },
     {
       "id": "daejon8",
@@ -72,8 +169,22 @@
       "address": "대전광역시 동구 동서대로 1689, 2층 (용전동)",
       "latitude": "36.350196192921174",
       "longitude": "127.43730404515172",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "50대 이상",
+        "유료",
+        "스타벅스 1만원 이상 이용시 1시간 무료"
+      ],
+      "since": "2019-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2019/08/[9656]_20190819094302_0epmg.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/08/[9656]_20190819094309_s5tt6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/08/[9656]_20190819094315_c81bw.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/08/[9656]_20190819094322_ns9zi.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/08/[9656]_20190819094338_noo2u.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/01/[9656]_20220110045236_bx8p1.jpg"
+      ]
     },
     {
       "id": "daejon9",
@@ -81,8 +192,22 @@
       "address": "대전광역시 동구 동구청로 101 (가오동)",
       "latitude": "36.3070199",
       "longitude": "127.4561304",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "10대 이상",
+        "유료",
+        "스타벅스 이용시 1시간 무료"
+      ],
+      "since": "2024-01",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[9648]_20240101111900_4isz9.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[9648]_20240101112425_eo09f.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[9648]_20240101112712_c2f64.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[9648]_20200420085650_txabd.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[9648]_20200420085643_r817h.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[9648]_20200420085659_cac01.jpg"
+      ]
     },
     {
       "id": "daejon10",
@@ -90,8 +215,23 @@
       "address": "대전광역시 동구 옥천로 89 (판암동)",
       "latitude": "36.3189576",
       "longitude": "127.4511473",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "DT점",
+        "주차가능",
+        "4대",
+        "유료",
+        "1만원 이상 구매시 1시간 무료, 매장옆 유료주차장 6대"
+      ],
+      "since": "2022-11",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[4155]_20221103120639_bybah.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[4155]_20221103120753_917o8.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[4155]_20221103120758_fahdc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[4155]_20221103120802_tlcpj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[4155]_20221103120825_yigdh.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[4155]_20221103120858_qxulb.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[4155]_20221103120903_m7y7x.jpg"
+      ]
     },
     {
       "id": "daejon11",
@@ -99,8 +239,20 @@
       "address": "대전광역시 동구 동부로 178 (용운동)",
       "latitude": "36.3289964",
       "longitude": "127.4671156",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "28대",
+        "무료",
+        "평일 무료, 주말, 공휴일 1만원 이상 1시간 무료"
+      ],
+      "since": "2023-10",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/10/[4337]_20231026105242_r3not.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/10/[4337]_20231026105122_p0yyz.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/10/[4337]_20231026105129_65oq9.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/10/[4337]_20231026105136_owoyi.jpg"
+      ]
     },
     {
       "id": "daejon12",
@@ -108,8 +260,17 @@
       "address": "대전광역시 동구 한밭대로 1239 (용전동)",
       "latitude": "36.357196",
       "longitude": "127.435505",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "5대", "무료"],
+      "since": "2024-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3988]_20240205010738_6cxh5.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3988]_20240205010750_9iidi.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3988]_20240205010801_gnga5.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3988]_20240205010811_ihfdl.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3988]_20240205010821_51odk.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3988]_20240205010831_0r0q9.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3988]_20240205010841_9v723.jpg"
+      ]
     },
     {
       "id": "daejon13",
@@ -117,8 +278,23 @@
       "address": "대전광역시 서구 한밭대로 755 (둔산동)",
       "latitude": "36.358046",
       "longitude": "127.382279",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "100대 이상",
+        "유료",
+        "1시간 무료, 초과시 30분당 2000원"
+      ],
+      "since": "2024-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3626]_20240204091407_c09uh.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3626]_20240204091619_buikx.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3626]_20240204091640_ufjlt.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3626]_20240204091706_ak2oe.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3626]_20240204091727_8bxpc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3626]_20240204091807_37t8w.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3626]_20240204091825_5fw7s.jpg"
+      ]
     },
     {
       "id": "daejon14",
@@ -126,8 +302,24 @@
       "address": "대전광역시 서구 관저동로 170 (관저동)1층",
       "latitude": "36.3074694772433",
       "longitude": "127.341004666844",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "50대 이상",
+        "유료",
+        "건물 지하 주차장, 스타벅스 이용시 1시간 무료"
+      ],
+      "since": "2024-01",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3633]_20240124124320_3kl9f.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3633]_20240124124414_wxvcj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3633]_20240124124512_987t0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3633]_20240124124605_4n7qs.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3633]_20240124124955_aim4o.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3633]_20240124125003_9ozdn.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3633]_20240124125010_6kw2e.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3633]_20240124125017_vvhx8.jpg"
+      ]
     },
     {
       "id": "daejon15",
@@ -135,8 +327,16 @@
       "address": "대전광역시 서구 문정로2번길 95 (탄방동)",
       "latitude": "36.343242",
       "longitude": "127.385313",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "92대", "유료", "1시간 무료"],
+      "since": "2024-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3593]_20240204103544_06t1k.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3593]_20240204103923_e91pe.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3593]_20240204103933_bra45.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3593]_20240204104028_mofs1.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3593]_20240204104038_nwcug.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3593]_20240204104043_pery5.jpg"
+      ]
     },
     {
       "id": "daejon16",
@@ -144,8 +344,17 @@
       "address": "대전광역시 서구 복수남로 28 (복수동)",
       "latitude": "36.298345",
       "longitude": "127.37824",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "4대", "무료", "건물옆 주차라인"],
+      "since": "2024-01",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3547]_20240128075451_48p02.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3547]_20240128073425_nq8kc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3547]_20240128074338_poocn.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3547]_20240128074538_b9jhr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3547]_20240128074937_gnae0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3547]_20240128075050_r7xug.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3547]_20240128075309_od571.jpg"
+      ]
     },
     {
       "id": "daejon17",
@@ -153,8 +362,17 @@
       "address": "대전광역시 서구 둔산남로 100 (탄방동)",
       "latitude": "36.348893",
       "longitude": "127.388665",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2024-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3465]_20240203041723_j43lw.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3465]_20240203040327_uhtzy.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3465]_20240203040503_pt5ub.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3465]_20240203041814_57de7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3465]_20240203040654_udegf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3465]_20240203040904_zfziy.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3465]_20240203041433_mmyua.jpg"
+      ]
     },
     {
       "id": "daejon18",
@@ -162,8 +380,17 @@
       "address": "대전광역시 서구 대덕대로241번길 35 (둔산동)",
       "latitude": "36.354233",
       "longitude": "127.377273",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불기"],
+      "since": "2018-08",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2016/06/[3292]_20160624071511_or623.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/03/[3292]_20240316014448_tv3ct.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2016/07/[3292]_20160706061409_7lpcs.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2016/07/[3292]_20160706061302_q235g.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2016/07/[3292]_20160706060806_1fk0y.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/06/[3292]_20230608094600_2tt38.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/03/[3292]_20240316014231_kcn94.jpg"
+      ]
     },
     {
       "id": "daejon19",
@@ -171,8 +398,17 @@
       "address": "대전광역시 서구 둔산로123번길 43 (둔산동)",
       "latitude": "36.353315",
       "longitude": "127.387437",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "21대", "무료"],
+      "since": "2023-09",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/09/[3293]_20230924055744_pg8i2.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3293]_20240201035951_89ba7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3293]_20240201035959_w0n63.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3293]_20240201040004_v2iig.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3293]_20240201040305_zt2pc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3293]_20240201040309_wiqb5.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3293]_20240201040314_yj4go.jpg"
+      ]
     },
     {
       "id": "daejon20",
@@ -180,8 +416,23 @@
       "address": "대전광역시 서구 계백로 1128 (가수원동)",
       "latitude": "36.30375890149987",
       "longitude": "127.34879882532829",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "DT점",
+        "주차가능",
+        "10대",
+        "유료",
+        "1만원 이상 구매시 1시간 무료"
+      ],
+      "since": "2023-12",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/12/[3241]_20231213113947_nhbos.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/09/[3241]_20240904084709_gpzxb.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/09/[3241]_20240904084720_q9eie.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/09/[3241]_20240904084729_3mcz8.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/12/[3241]_20231213113958_jo6ho.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/12/[3241]_20231213114011_ejtbw.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/12/[3241]_20231213114036_qtcvs.jpg"
+      ]
     },
     {
       "id": "daejon21",
@@ -189,8 +440,15 @@
       "address": "대전광역시 서구 계룡로 692 (용문동)",
       "latitude": "36.3349683",
       "longitude": "127.39672889999997",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "3대", "무료"],
+      "since": "2020-07",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2020/07/[3126]_20200731040706_0p0tm.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/10/[3126]_20231010121343_zooyo.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/07/[3126]_20200731040724_2ore4.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/07/[3126]_20200731041919_kxqys.png",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3126]_20240105065322_2gb8s.jpg"
+      ]
     },
     {
       "id": "daejon22",
@@ -198,8 +456,23 @@
       "address": "대전광역시 서구 관저로 142 (관저동)",
       "latitude": "36.2987183121456",
       "longitude": "127.33806920360844",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "20대",
+        "유료",
+        "1만원 이상 2시간 무료, 영수증 1장당 최대 2대 등록, 2시간 이후 시간당 3000원"
+      ],
+      "since": "2023-11",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[3024]_20231109083742_o3a6x.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3024]_20240207111356_9ft0v.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3024]_20240207111447_iskgy.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3024]_20240207111506_rq8nr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3024]_20240207111533_s6b26.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3024]_20240207111539_efp1y.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3024]_20240207111543_svj12.jpg"
+      ]
     },
     {
       "id": "daejon23",
@@ -207,8 +480,17 @@
       "address": "대전광역시 서구 대덕대로234번길 18 (둔산동)",
       "latitude": "36.353466",
       "longitude": "127.380591",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2018-08",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2023/03/[3011]_20230309031630_89w5u.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/02/[3011]_20240201062811_iz1wo.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/01/[3011]_20240103104527_xcv0a.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/01/[3011]_20240103104211_m97ri.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/02/[3011]_20230224050819_gprsc.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/02/[3011]_20230224050823_bikjb.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/02/[3011]_20240201062759_5bc6f.jpg"
+      ]
     },
     {
       "id": "daejon24",
@@ -216,8 +498,17 @@
       "address": "대전광역시 서구 동서대로 682 (도안동)",
       "latitude": "36.3318080390371",
       "longitude": "127.338654835409",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "20대", "무료"],
+      "since": "2022-01",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/01/[3015]_20220127034215_oj6v9.png",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3015]_20240126044121_w9b64.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3015]_20240125105629_r0m66.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/01/[3015]_20220127034433_yz9mf.png",
+        "https://image.istarbucks.co.kr/upload/store/2022/01/[3015]_20220127034418_wa9kf.png",
+        "https://image.istarbucks.co.kr/upload/store/2022/01/[3015]_20220127034425_t2520.png",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3015]_20240126043725_hfa0i.jpg"
+      ]
     },
     {
       "id": "daejon25",
@@ -225,8 +516,16 @@
       "address": "대전광역시 서구 대덕대로 189 (둔산동)",
       "latitude": "36.3502188",
       "longitude": "127.3772612",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2024-09",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2024/09/[9991]_20240930125942_lbgii.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/09/[9991]_20240930010100_ezlh6.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/09/[9991]_20240930010111_69ho9.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/09/[9991]_20240930010122_1exeu.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/09/[9991]_20240930010131_ru5j5.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/09/[9991]_20240930010137_124av.jpg"
+      ]
     },
     {
       "id": "daejon26",
@@ -234,8 +533,17 @@
       "address": "대전광역시 서구 만년로 81 (만년동)",
       "latitude": "36.367606",
       "longitude": "127.382002",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "10대", "무료"],
+      "since": "2023-04",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3036]_20230201215906740.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/04/[3036]_20220413075028_xfrk2.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/04/[3036]_20220413074855_bn1zb.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3036]_20240204061924_f21nh.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/04/[3036]_20220413075041_gopvs.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/04/[3036]_20220413075032_iq411.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/04/[3036]_20220413075046_j044k.jpg"
+      ]
     },
     {
       "id": "daejon27",
@@ -243,8 +551,21 @@
       "address": "대전광역시 서구 둔산남로 50 (탄방동)",
       "latitude": "36.348036",
       "longitude": "127.383509",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "20대 이상",
+        "유료",
+        "2시간 무료, 회차 15분 이내, 초과시 요금 부과"
+      ],
+      "since": "2018-08",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2024/08/[9978]_20240830025704_p5tp7.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/08/[9978]_20240830025602_y0747.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/08/[9978]_20240830025757_x1zbs.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/08/[9978]_20240830025823_kops2.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/08/[9978]_20240830025957_6wnat.jpg"
+      ]
     },
     {
       "id": "daejon28",
@@ -252,8 +573,15 @@
       "address": "대전광역시 서구 청사로123번길 25 (월평동)",
       "latitude": "36.361008",
       "longitude": "127.377288",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2020-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2020/08/[9798]_20200823054748_140uu.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/08/[9798]_20200820015513_ljbti.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/08/[9798]_20200820015519_sbvur.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/08/[9798]_20200820015552_hdi4o.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/11/[9798]_20211122050326_3whvi.jpg"
+      ]
     },
     {
       "id": "daejon29",
@@ -261,8 +589,16 @@
       "address": "대전광역시 서구 둔산로31번길 28, 금정빌딩 1층 (둔산동)",
       "latitude": "36.3529477",
       "longitude": "127.3777879",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2022-03",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/03/[9504]_20220327035816_fk430.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[9504]_20230213081441_izuwu.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[9504]_20230213075715_hnh2s.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[9504]_20230213080943_b1weq.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[9504]_20230213081134_apkeb.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[9504]_20230213081248_9q19h.jpg"
+      ]
     },
     {
       "id": "daejon30",
@@ -270,8 +606,17 @@
       "address": "대전광역시 서구 문정로 78, 정우빌딩 1층 (탄방동)",
       "latitude": "36.3463971",
       "longitude": "127.38788750000003",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2019-06",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[9484]_20230209111552_halfc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[9484]_20190602081111_5j9by.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[9484]_20190602081115_3soxy.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[9484]_20190602081118_iagax.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[9484]_20190602081129_69dh0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[9484]_20190602081148_tdpfq.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[9484]_20190602081603_jp3b2.jpg"
+      ]
     },
     {
       "id": "daejon31",
@@ -279,17 +624,48 @@
       "address": "대전광역시 서구 둔산로 142 (둔산동)",
       "latitude": "36.3509879185778",
       "longitude": "127.38949097459185",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "40대",
+        "유료",
+        "2시간 무료, 초과시 30분당 2000원, 주차확인증 파트너에게 제시"
+      ],
+      "since": "2022-10",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[9451]_20240212114451_pem71.gif",
+        "https://image.istarbucks.co.kr/upload/store/2022/10/[9451]_20221012102434_sw2hg.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/10/[9451]_20221012102255_010av.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/10/[9451]_20221012102720_08t1r.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[9451]_20230120113155_ldvmr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[9451]_20230120113230_vvblo.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[9451]_20230120113235_u6u0v.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[9451]_20230120113240_24e6m.jpg"
+      ]
     },
     {
       "id": "daejon32",
       "name": "대전호텔",
-      "address": "대전광역시 서구 둔산중로134번길 13, 토요코인호텔 1층  (둔산동)",
+      "address": "대전광역시 서구 둔산중로134번길 13, 토요코인호텔 1층 (둔산동)",
       "latitude": "36.35905916517615",
       "longitude": "127.3877262497239",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "100대 이상",
+        "유료",
+        "건물 지하주차장, 1시간 무료, 초과시 30분당 1000원"
+      ],
+      "since": "2024-10",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/10/[9557]_20241007110014_95wno.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/10/[9557]_20241007022122_pihpy.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/10/[9557]_20241007022148_jhjl6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/10/[9557]_20241007022157_jmj73.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/10/[9557]_20241007022219_io1pg.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2024/10/[9557]_20241007022233_ggr9y.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2024/10/[9557]_20241007022307_mj76x.jpg"
+      ]
     },
     {
       "id": "daejon33",
@@ -297,8 +673,17 @@
       "address": "대전광역시 서구 한밭대로 580 (월평동)",
       "latitude": "36.3576004219004",
       "longitude": "127.363002855066",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "100대 이상", "무료"],
+      "since": "2023-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/06/[9608]_20230626041848_ffnzc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/06/[9608]_20230626043425_8y2k0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/06/[9608]_20230626041630_joads.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/06/[9608]_20230626041646_5drwf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[9608]_20220829061243_8xcu6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[9608]_20220829061238_rjog9.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[9608]_20220829061233_g0d94.jpg"
+      ]
     },
     {
       "id": "daejon34",
@@ -306,8 +691,18 @@
       "address": "대전광역시 서구 둔산중로46번길 10 (둔산동)",
       "latitude": "36.3505714098596",
       "longitude": "127.387407431667",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2024-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4510]_20240220093200_881zt.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4510]_20240223093021_14yvk.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4510]_20240223093033_486tp.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4510]_20240223093045_nxgyd.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4510]_20240223093055_d942z.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4510]_20240223093106_oba9f.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4510]_20240223093116_9o367.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4510]_20240223093127_s3qoi.jpg"
+      ]
     },
     {
       "id": "daejon35",
@@ -315,8 +710,17 @@
       "address": "대전광역시 서구 대덕대로 200 (둔산동), 1층",
       "latitude": "36.35073270678997",
       "longitude": "127.37846905986014",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2023-07",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/07/[4448]_20230727054850_dnebf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/07/[4448]_20230727062321_sqva3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4448]_20240204011725_ovdze.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4448]_20240102092257_h2xuk.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/09/[4448]_20230930101502_r881r.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/09/[4448]_20230930101356_whluy.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/07/[4448]_20230727062201_fneol.jpg"
+      ]
     },
     {
       "id": "daejon36",
@@ -324,8 +728,18 @@
       "address": "대전광역시 서구 대덕대로 254 삼성전자 메가스토어 대전본점 1층  (둔산동)",
       "latitude": "36.3554336798685",
       "longitude": "127.379975361484",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "100대", "유료", "2시간 무료"],
+      "since": "2022-01",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/01/[4200]_20220110104153_1so4j.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4200]_20240201102138_wtlu1.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/01/[4200]_20220111081020_dmdd4.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4200]_20240201102028_uf3fs.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[4200]_20230128102608_94eok.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[4200]_20230128102610_9rd0x.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[4200]_20230128102616_mm4z0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[4200]_20230128102623_pwhxh.jpg"
+      ]
     },
     {
       "id": "daejon37",
@@ -333,8 +747,17 @@
       "address": "대전광역시 서구 계룡로 384 (갈마동)",
       "latitude": "36.351481343331905",
       "longitude": "127.37049050661208",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "3대", "무료"],
+      "since": "2023-01",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[3998]_20230116065207_gw24q.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/03/[3998]_20240316071908_ox405.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[3998]_20230118092351_1doot.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/03/[3998]_20240316072033_j5erf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3998]_20240105013529_kzy05.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/06/[3998]_20220626082638_qf0rv.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/04/[3998]_20220422075832_6bfd3.jpg"
+      ]
     },
     {
       "id": "daejon38",
@@ -342,8 +765,23 @@
       "address": "대전광역시 서구 도산로 336 (용문동)",
       "latitude": "36.3350093",
       "longitude": "127.3897099",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "DT점",
+        "주차가능",
+        "18대",
+        "유료",
+        "영수증 1만원 당 1시간 무료"
+      ],
+      "since": "2018-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/08/[3929]_20210830044825_3erbj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/08/[3929]_20210830045010_je0mn.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/04/[3929]_20210407034139_ln37p.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2023/06/[3929]_20230614035519_5jfjj.PNG",
+        "https://image.istarbucks.co.kr/upload/store/2023/06/[3929]_20230614035729_gciuk.PNG",
+        "https://image.istarbucks.co.kr/upload/store/2023/06/[3929]_20230614035743_fgybf.PNG",
+        "https://image.istarbucks.co.kr/upload/store/2023/06/[3929]_20230614035719_h3n1o.PNG"
+      ]
     },
     {
       "id": "daejon39",
@@ -351,8 +789,23 @@
       "address": "대전광역시 서구 도안동로 234-54 (도안동) 105~109호",
       "latitude": "36.32583637476658",
       "longitude": "127.34852967395174",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "100대 이상",
+        "유료",
+        "만원 이상 구매시 2시간 무료"
+      ],
+      "since": "2024-06",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/06/[4531]_20240601025325_4n57x.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[4531]_20240820013146_ilzv2.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/06/[4531]_20240605091901_20dvt.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/06/[4531]_20240605091911_0cnq0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/06/[4531]_20240605091836_fe940.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/06/[4531]_20240604050656_qn47t.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/06/[4531]_20240604050703_i0f2e.jpg"
+      ]
     },
     {
       "id": "daejon40",
@@ -360,7 +813,7 @@
       "address": "대전광역시 서구 한밭대로 817 (둔산동)",
       "latitude": "36.358090462917595",
       "longitude": "127.38978539851661",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
+      "parking": ["건물", "주차가능", "", ""],
       "since": "2018-08"
     },
     {
@@ -369,8 +822,23 @@
       "address": "대전광역시 서구 계백로 993 (관저동) 102-1호",
       "latitude": "36.30183062836115",
       "longitude": "127.3345171440713",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "70대 이상",
+        "유료",
+        "건물 지하주차장(B1F~B3F), 만원 이상 구매시 2시간 무료"
+      ],
+      "since": "2024-06",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/06/[4539]_20240617092258_vrm7s.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[4539]_20240820013526_t4hq3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[4539]_20240820013537_go4hi.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/06/[4539]_20240619051854_ynv30.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/06/[4539]_20240619051954_16pls.png",
+        "https://image.istarbucks.co.kr/upload/store/2024/06/[4539]_20240619052003_5aa5b.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/06/[4539]_20240619052009_qdf32.jpg"
+      ]
     },
     {
       "id": "daejon42",
@@ -378,8 +846,17 @@
       "address": "대전광역시 유성구 북유성대로 303 (반석동)",
       "latitude": "36.391646",
       "longitude": "127.314220",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2024-02",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2024/02/[3792]_20240201034506_xc0m8.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/02/[3792]_20240201034637_xwpj3.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/02/[3792]_20240201031859_qmzzv.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/02/[3792]_20240201034727_j6bgg.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/02/[3792]_20240206102659_0s3tq.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/02/[3792]_20240206102709_alfas.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/02/[3792]_20240206102720_3ler5.jpg"
+      ]
     },
     {
       "id": "daejon43",
@@ -387,8 +864,17 @@
       "address": "대전광역시 유성구 도안대로 573 (봉명동)",
       "latitude": "36.3513576",
       "longitude": "127.3402518",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "19대", "무료"],
+      "since": "2024-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3343]_20240204053926_20xmo.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3343]_20240204053935_jxezy.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3343]_20240204054001_yb4kt.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3343]_20240204054016_68cav.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3343]_20240204054026_kimm1.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3343]_20240204054034_mtmf3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3343]_20240204054044_b56zv.jpg"
+      ]
     },
     {
       "id": "daejon44",
@@ -396,8 +882,13 @@
       "address": "대전광역시 유성구 어은로 42 (어은동)",
       "latitude": "36.362206",
       "longitude": "127.357705",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2019-08",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2022/06/[3352]_20220615022844_4z4zy.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2019/08/[3352]_20190811060026_vtub7.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2019/08/[3352]_20190811055641_9ecrr.jpg"
+      ]
     },
     {
       "id": "daejon45",
@@ -405,8 +896,17 @@
       "address": "대전광역시 유성구 지족로 373 (지족동)",
       "latitude": "36.38720540000001",
       "longitude": "127.3175549",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2024-07",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/07/[3187]_20240710113601_dyxet.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/07/[3187]_20240710113609_qoqto.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2024/07/[3187]_20240710113635_4dr2o.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2024/07/[3187]_20240727083025_uquyf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/07/[3187]_20240710113716_6bffa.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2024/07/[3187]_20240710113720_3lrjc.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2024/07/[3187]_20240710113724_6djh4.JPG"
+      ]
     },
     {
       "id": "daejon46",
@@ -414,8 +914,25 @@
       "address": "대전광역시 유성구 온천서로 2 (봉명동)",
       "latitude": "36.3545222",
       "longitude": "127.3395544",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "10대 이상",
+        "유료",
+        "기계식 주차로 주차불가한 차량 있음, 영수증 제출시 2시간 무료"
+      ],
+      "since": "2017-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3113]_20240204121522_38nzd.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2017/08/[3113]_20170807101053_xuoxv.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3113]_20240204121356_02h1m.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3113]_20240204121317_brzki.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3113]_20240204121322_4ir4a.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3113]_20240204121331_4b3s9.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3113]_20240204121337_3qs02.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3113]_20240204121344_8dn1b.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3113]_20240204121350_nuund.jpg"
+      ]
     },
     {
       "id": "daejon47",
@@ -423,8 +940,16 @@
       "address": "대전광역시 유성구 유성대로 1722 (전민동)",
       "latitude": "36.39943969999999",
       "longitude": "127.40052530000002",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차붚가"],
+      "since": "2023-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3163]_20230227111424_dmj9c.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3163]_20230227111801_rc7yr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3163]_20240130100437_4c88i.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3163]_20230227111534_m1twh.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3163]_20230227111556_kh4j6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3163]_20230227111624_ctk12.jpg"
+      ]
     },
     {
       "id": "daejon48",
@@ -432,8 +957,16 @@
       "address": "대전광역시 유성구 테크노중앙로 68",
       "latitude": "36.4255141",
       "longitude": "127.39263",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "10대", "무료"],
+      "since": "2023-04",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[3070]_20230425075638_yzsbq.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[3070]_20230425075645_l7gqm.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[3070]_20230425075654_mlc7e.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[3070]_20230425075700_tqys7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[3070]_20230425075706_t2dly.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[3070]_20230425075713_9hzju.jpg"
+      ]
     },
     {
       "id": "daejon49",
@@ -441,8 +974,22 @@
       "address": "대전광역시 유성구 엑스포로 97번길 40",
       "latitude": "36.37645528250739",
       "longitude": "127.39080196911213",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "30대 이상",
+        "유료",
+        "건물 지하주차장, 스타벅스 구매시 2시간 무료 주차권 지급"
+      ],
+      "since": "2020-06",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2020/06/[3073]_20200608113949_wkrfh.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/06/[3073]_20200610115014_5pdwt.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/08/[3073]_20200805034710_avwf1.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/08/[3073]_20200805034841_05lpz.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2020/08/[3073]_20200805034928_2jhif.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/08/[3073]_20200805034956_odg72.jpg"
+      ]
     },
     {
       "id": "daejon50",
@@ -450,8 +997,26 @@
       "address": "대전광역시 유성구 은구비남로33번길 26, 1~2층 (지족동)",
       "latitude": "36.373444",
       "longitude": "127.319446",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "3대",
+        "무료",
+        "매장 전면 주차장 매우 협소"
+      ],
+      "since": "2021-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[9886]_20240204074109_t9xn5.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/12/[9886]_20241202102427_5c6xi.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[9886]_20240131034632_5c0jn.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[9886]_20240207024845_fu206.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[9886]_20240206045322_6ts9t.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/08/[9886]_20210804085207_17mm4.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[9886]_20240131034048_0nn1t.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[9886]_20240131034232_c4me5.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[9886]_20240204093842_covys.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[9886]_20240131035120_p7xgl.jpg"
+      ]
     },
     {
       "id": "daejon51",
@@ -459,8 +1024,17 @@
       "address": "대전광역시 유성구 대학로 82 (궁동)",
       "latitude": "36.36066",
       "longitude": "127.34464",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2024-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[9963]_20240203091638_9o901.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[9963]_20240203093752_5o3mp.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[9963]_20240203093036_6gkp8.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[9963]_20240203093110_xrps4.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[9963]_20240203093118_rppeg.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[9963]_20240203093658_gsqcg.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[9963]_20240203093722_et3l9.jpg"
+      ]
     },
     {
       "id": "daejon52",
@@ -468,8 +1042,21 @@
       "address": "대전광역시 유성구 테크노4로 105 (관평동)",
       "latitude": "36.425176276",
       "longitude": "127.389607513",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "10대 이상",
+        "무료",
+        "건물 지하주차장(B1F)"
+      ],
+      "since": "2023-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/08/[9722]_20230814022442_gft72.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/08/[9722]_20230814022517_cf1yr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/08/[9722]_20230814022523_ril7g.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[9722]_20240130081733_nviwu.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/08/[9722]_20230814022506_5nims.jpg"
+      ]
     },
     {
       "id": "daejon53",
@@ -477,8 +1064,17 @@
       "address": "대전광역시 유성구 문지로299번길 56 (문지동)",
       "latitude": "36.3924494586684",
       "longitude": "127.405523409052",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "9대", "무료"],
+      "since": "2023-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4288]_20230223042955_7xo10.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4288]_20230223043006_jbkfh.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4288]_20230223043016_twcmz.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4288]_20230223043028_tcypd.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4288]_20230223043037_lj9sf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4288]_20230223043051_8fxqf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4288]_20230223043100_l976i.jpg"
+      ]
     },
     {
       "id": "daejon54",
@@ -486,8 +1082,26 @@
       "address": "대전광역시 유성구 엑스포로 1 (도룡동), 대전신세계 백화점 5F",
       "latitude": "36.37526851353958",
       "longitude": "127.38158002712087",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "100대 이상",
+        "유료",
+        "백화점 무료주차 기준 동일"
+      ],
+      "since": "2018-08",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2021/11/[4162]_20211126085705_mbw0n.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2022/02/[4162]_20220215092445_olrx5.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/11/[4162]_20211126085735_5hj3u.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/11/[4162]_20211126085753_6e2eq.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/11/[4162]_20211126090200_aa1vv.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/11/[4162]_20211126090624_u3nla.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/11/[4162]_20211126090033_c8xlo.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/11/[4162]_20211126085850_0kaoo.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/11/[4162]_20211126091254_nibac.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/11/[4162]_20211126091425_tyw4v.jpg"
+      ]
     },
     {
       "id": "daejon55",
@@ -495,8 +1109,21 @@
       "address": "대전광역시 유성구 테크노중앙로 123 (용산동)",
       "latitude": "36.424",
       "longitude": "127.398625",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "100대 이상",
+        "유료",
+        "1만원 이상 1시간, 2만원 이상 2시간, 3만원 이상 3시간, 5만원 이상 5시간"
+      ],
+      "since": "2020-06",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2020/06/[3940]_20200623113818_e5mwm.JPG",
+        "https://image.istarbucks.co.kr//upload/store/2020/06/[3940]_20200623113807_70hch.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2020/06/[3940]_20200623113836_op4pz.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2020/06/[3940]_20200623113905_szpkk.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/11/[3940]_20211123102514_1kgcc.jpg"
+      ]
     },
     {
       "id": "daejon56",
@@ -504,8 +1131,23 @@
       "address": "대전광역시 유성구 계룡로 119 (봉명동)",
       "latitude": "36.3535775",
       "longitude": "127.343794",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "100대 이상",
+        "유료",
+        "영수증 1만원 이상 1시간, 2만원 이상 2시간, 5만원 이상 3시간 무료"
+      ],
+      "since": "2018-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4344]_20240206110740_xowrz.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4344]_20220828042441_1f6b1.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4344]_20240131043317_7hs02.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4344]_20240206111027_qa3hz.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4344]_20220829090131_vho6e.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4344]_20220826090338_z1xve.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4344]_20220829090112_aiq7n.jpg"
+      ]
     },
     {
       "id": "daejon57",
@@ -513,8 +1155,24 @@
       "address": "대전광역시 유성구 월드컵대로289번길 6 (구암동)",
       "latitude": "36.3487072",
       "longitude": "127.3326118",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "DT점",
+        "주차가능",
+        "7대",
+        "유료",
+        "스타벅스 1만원 이상 구매시 1시간 무료"
+      ],
+      "since": "2024-01",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3923]_20240130060937_2gvd1.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3923]_20240130060954_147w2.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3923]_20240130061006_gxku3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3923]_20240130061013_loxpw.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3923]_20240130061025_2p0h6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3923]_20240130061036_ha7m7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3923]_20240130061045_lljgk.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3923]_20240130061059_hqnhb.jpg"
+      ]
     },
     {
       "id": "daejon58",
@@ -522,8 +1180,19 @@
       "address": "대전광역시 유성구 엑스포로 1 (도룡동), 대전신세계 백화점 B1층",
       "latitude": "36.375188049920126",
       "longitude": "127.38137904408467",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "100대 이상",
+        "유료",
+        "스타벅스 결제금액 5천원 이상시 1시간 제"
+      ],
+      "since": "2024-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4161]_20240205110426_ulish.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4161]_20240205110431_26vu6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4161]_20240205110436_axq45.jpg"
+      ]
     },
     {
       "id": "daejon59",
@@ -531,8 +1200,24 @@
       "address": "대전광역시 유성구 엑스포로 1 (도룡동) 신세계엑스포점 38층",
       "latitude": "36.37489372413316",
       "longitude": "127.38323862987684",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "100대 이상",
+        "유료",
+        "스타벅스 결제금액 5천원 이상시 1시간 제공"
+      ],
+      "since": "2023-10",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/06/[4163]_20240610113942_u9659.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4163]_20240129095711_vu65w.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4163]_20240129095203_sx3i2.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/10/[4163]_20231011105614_5zzhf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4163]_20240102112407_rupds.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4163]_20240102112414_8nq28.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4163]_20240105011917_l0rtw.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4163]_20240105011906_083ab.jpg"
+      ]
     },
     {
       "id": "daejon60",
@@ -540,8 +1225,21 @@
       "address": "대전광역시 유성구 봉산로 1 (송강동)",
       "latitude": "36.434193529548",
       "longitude": "127.38818470723",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "20대",
+        "유료",
+        "건물 지상/자하 주차장, 5천원 이상 결제시 2시간 무료"
+      ],
+      "since": "2018-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/03/[4513]_20240315111838_trkp3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/09/[4513]_20240923104757_ffkch.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/03/[4513]_20240315111817_fqg0f.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/03/[4513]_20240315111823_zyr81.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/03/[4513]_20240315111833_4gibu.jpg"
+      ]
     },
     {
       "id": "daejon61",
@@ -549,8 +1247,23 @@
       "address": "대전광역시 중구 계룡로 949 (대사동)",
       "latitude": "36.318823",
       "longitude": "127.417463",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "DT점",
+        "주차가능",
+        "10대 이상",
+        "유료",
+        "1만원 이상 1시간 무료"
+      ],
+      "since": "2017-03",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2017/03/[3328]_20170315113430_0qo4l.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/03/[3328]_20170315113452_qa9l8.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/03/[3328]_20170315113510_a7xie.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/03/[3328]_20170315113700_i2gld.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/03/[3328]_20170315113707_kfiul.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/03/[3328]_20170315113711_wru9o.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/03/[3328]_20170315113732_av6u3.JPG"
+      ]
     },
     {
       "id": "daejon62",
@@ -558,8 +1271,17 @@
       "address": "대전광역시 중구 태평로 71 (태평동)",
       "latitude": "36.3232773471066",
       "longitude": "127.393349813091",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "20대 이상", "유료", "1시간 무료"],
+      "since": "2024-03",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/03/[3320]_20240304084910_xzgfa.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/03/[3320]_20240304084923_mopo7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/03/[3320]_20240304084929_yoyti.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/03/[3320]_20240304084935_ksgkk.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/03/[3320]_20240304084939_a12oj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/03/[3320]_20240304084942_jhn2f.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/03/[3320]_20240304084945_iyu3l.jpg"
+      ]
     },
     {
       "id": "daejon63",
@@ -567,8 +1289,24 @@
       "address": "대전광역시 중구 계백로 1604 (유천동)",
       "latitude": "36.31833643666211",
       "longitude": "127.39825379624604",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "DT점",
+        "주차가능",
+        "7대",
+        "유료",
+        "1만원 이상 구매시 1시간 무료"
+      ],
+      "since": "2024-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[3213]_20240824084739_x7e04.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[3213]_20240824111156_4mt3i.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[3213]_20240824111148_g8hct.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[3213]_20240824084836_ryeck.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[3213]_20240824111204_v2a6p.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[3213]_20240824084853_7w8dg.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[3213]_20240824084858_esij3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[3213]_20240824084904_99t25.jpg"
+      ]
     },
     {
       "id": "daejon64",
@@ -576,8 +1314,16 @@
       "address": "대전광역시 중구 대종로 486 (은행동)",
       "latitude": "36.327962",
       "longitude": "127.426603",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2019-02",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2019/12/[9935]_20191220051423_xdwk8.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2019/12/[9935]_20191220051433_twx56.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2019/12/[9935]_20191220051443_epd7i.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2019/12/[9935]_20191220051453_cylkg.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2019/12/[9935]_20191220051504_gdb84.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2019/12/[9935]_20191220051515_esvsn.jpg"
+      ]
     },
     {
       "id": "daejon65",
@@ -585,8 +1331,16 @@
       "address": "대전광역시 중구 중앙로 164 (은행동)",
       "latitude": "36.32907873",
       "longitude": "127.4276569",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2018-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/06/[9310]_20210622114314_ltrq2.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[9310]_20230215042835_a6umb.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[9310]_20230215042731_b06rn.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[9310]_20230215042919_qfsqw.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/06/[9310]_20210625113029_j3l79.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2021/06/[9310]_20210617035115_uk22b.JPG"
+      ]
     },
     {
       "id": "daejon66",
@@ -594,8 +1348,23 @@
       "address": "대전광역시 중구 동서대로 1387 (목동)",
       "latitude": "36.3328668212906",
       "longitude": "127.410960847549",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "DT점",
+        "주차가능",
+        "7대",
+        "유료",
+        "30분 무료회차, 1만원 당 1시간 무료"
+      ],
+      "since": "2022-06",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/06/[4189]_20220629051537_bat3t.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[4189]_20220701064622_8x9s8.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[4189]_20220701064646_spef9.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/06/[4189]_20220630054958_sig2c.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[4189]_20220701064605_t93gn.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[4189]_20220701064610_oq9hr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[4189]_20220701065124_jaz7q.jpg"
+      ]
     },
     {
       "id": "daejon67",
@@ -603,8 +1372,21 @@
       "address": "대전광역시 중구 계룡로 878 (오류동), 1층",
       "latitude": "36.3230695601753",
       "longitude": "127.411202959063",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "15대",
+        "유료",
+        "1만원 이상 구매시 사용 가능"
+      ],
+      "since": "2023-10",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2023/10/[4490]_20231024015536_yf7fl.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/10/[4490]_20231030022458_2tqew.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/10/[4490]_20231030022446_1fxac.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/10/[4490]_20231024015230_9jkfp.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/10/[4490]_20231022031414_73idl.jpg"
+      ]
     }
   ]
 }

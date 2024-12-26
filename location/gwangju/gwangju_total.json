@@ -9,8 +9,16 @@
       "address": "광주광역시 광산구 임방울대로 156 (운남동)",
       "latitude": "35.175136",
       "longitude": "126.818062",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "8대", "무료"],
+      "since": "2019-06",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[3621]_20230216075008_zb93f.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3621]_20190618072441_vk7ls.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3621]_20190618072451_zayym.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3621]_20190618072435_cxmuh.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3621]_20190618072447_5vp19.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3621]_20190618072633_qn7ox.jpg"
+      ]
     },
     {
       "id": "gwangju2",
@@ -18,8 +26,16 @@
       "address": "광주광역시 광산구 선운로 20번길 63",
       "latitude": "35.1468918132751",
       "longitude": "126.777527653198",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "16대", "무료"],
+      "since": "2021-12",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[3757]_20211216052842_7ahy7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[3757]_20211216052935_caaq9.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[3757]_20211216052942_vb7i6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[3757]_20211216052927_pdg4c.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[3757]_20211216052958_7akpj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[3757]_20211216052854_us084.jpg"
+      ]
     },
     {
       "id": "gwangju3",
@@ -27,8 +43,15 @@
       "address": "광주광역시 광산구 용아로 342 (산정동)",
       "latitude": "35.173524",
       "longitude": "126.804191",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "9대", "무료"],
+      "since": "2018-10",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3595]_20190618094750_d8dle.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2018/10/[3595]_20181024054835_m0zxj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2018/10/[3595]_20181024054820_40lcj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2018/10/[3595]_20181024054805_gg0yq.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3595]_20190618094842_ebtl1.jpg"
+      ]
     },
     {
       "id": "gwangju4",
@@ -37,7 +60,15 @@
       "latitude": "35.1769635314888",
       "longitude": "126.807928873416",
       "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "since": "2017-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3446]_20190615063348_xhhkf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2017/08/[3446]_20170803084918_96afr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3446]_20190615063344_t1gyn.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3446]_20190615063331_b1kxn.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3446]_20190615063334_6sy4m.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3446]_20190615063336_kgtc3.jpg"
+      ]
     },
     {
       "id": "gwangju5",
@@ -45,8 +76,17 @@
       "address": "광주광역시 광산구 상무대로205번길 6 (송정동)",
       "latitude": "35.1380335494367",
       "longitude": "126.791380168336",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가불가"],
+      "since": "2019-06",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2019/06/[3363]_20190616040725_3xlbi.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2019/06/[3363]_20190616040735_kdmir.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2019/06/[3363]_20190616040743_0qi2p.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2019/06/[3363]_20190616040752_zu8s3.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2019/06/[3363]_20190616040756_8814n.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2019/06/[3363]_20190616040800_hoy0w.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2019/06/[3363]_20190619040809_8wulo.jpg"
+      ]
     },
     {
       "id": "gwangju6",
@@ -54,8 +94,15 @@
       "address": "광주광역시 광산구 임방울대로 487 (수완동)",
       "latitude": "35.2030951514752",
       "longitude": "126.819068502713",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "17대", "무료"],
+      "since": "2022-07",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[3291]_20220701092256_eefre.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[3291]_20220701092306_u7hen.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[3291]_20220701092402_tcgwf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[3291]_20220701092413_5hpk3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[3291]_20220701092420_8c8wp.jpg"
+      ]
     },
     {
       "id": "gwangju7",
@@ -63,8 +110,19 @@
       "address": "광주광역시 광산구 목련로 335 (신가동)",
       "latitude": "35.1790467",
       "longitude": "126.8301259",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "5대", "무료"],
+      "since": "2022-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/02/[3055]_20220214023220_cygpm.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/05/[3055]_20230508032431_3wf5b.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/05/[3055]_20230508032453_rfgug.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/05/[3055]_20230508032458_616y5.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/05/[3055]_20230508032504_h9vde.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/05/[3055]_20230508032447_3qqkf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[3055]_20230104021730_ybc92.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[3055]_20230104021002_a1v7s.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[3055]_20221115013154_oscvc.jpg"
+      ]
     },
     {
       "id": "gwangju8",
@@ -72,8 +130,15 @@
       "address": "광주광역시 광산구 첨단중앙로 158 (쌍암동)",
       "latitude": "35.2193113953075",
       "longitude": "126.842304220026",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "21대", "무료"],
+      "since": "2018-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[3005]_20220817070204_jb25o.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[3005]_20220817064812_79id3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[3005]_20220823095843_db65u.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[3005]_20220823095854_d7ji3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[3005]_20220823095901_ns2yy.jpg"
+      ]
     },
     {
       "id": "gwangju9",
@@ -81,8 +146,22 @@
       "address": "광주광역시 광산구 장신로 85 (장덕동)",
       "latitude": "35.191066862312",
       "longitude": "126.819243400822",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "38대",
+        "유료",
+        "최초 30분 무료, 초과시 30분당 1000원"
+      ],
+      "since": "2022-04",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/04/[9906]_20220415110456_lto6c.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/04/[9906]_20220415110505_8hc4b.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/04/[9906]_20220415110512_eqphv.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/04/[9906]_20220422114325_3jrdy.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/04/[9906]_20220422114333_ldetn.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/04/[9906]_20220422114339_lb1qq.jpg"
+      ]
     },
     {
       "id": "gwangju10",
@@ -90,8 +169,15 @@
       "address": "광주광역시 광산구 사암로216번길 38-16, 1~2층 (우산동)",
       "latitude": "35.1625996806446",
       "longitude": "126.81032250012",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2018-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[9879]_20211215111943_0311f.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[9879]_20211208082855_702hc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[9879]_20211208082909_h2r3d.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[9879]_20211208082950_kbsam.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/12/[9879]_20211215112122_6327b.jpg"
+      ]
     },
     {
       "id": "gwangju11",
@@ -99,8 +185,17 @@
       "address": "광주광역시 광산구 첨단중앙로 104 (월계동)",
       "latitude": "35.2147182718094",
       "longitude": "126.843466326152",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2018-08",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2021/11/[9919]_20211115033449_zyb1a.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/11/[9919]_20211115033644_sifvu.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/11/[9919]_20211115033950_f189j.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/11/[9919]_20211115034100_nk8vo.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/11/[9919]_20211115034112_3qa26.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/11/[9919]_20211115034119_mz4sa.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/11/[9919]_20211115034125_yymh7.jpg"
+      ]
     },
     {
       "id": "gwangju12",
@@ -108,8 +203,20 @@
       "address": "광주광역시 광산구 장신로 134, 1~2층 (수완동)",
       "latitude": "35.1905205771604",
       "longitude": "126.8247180482",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "26대",
+        "유료",
+        "구매 영수증 2시간 무료, 초과시 30분 1000원"
+      ],
+      "since": "2024-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[9584]_20240825054518_up8m9.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[9584]_20240825054904_ofar1.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[9584]_20240825055245_4sfbk.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[9584]_20240825055249_c2xrz.jpg"
+      ]
     },
     {
       "id": "gwangju13",
@@ -117,8 +224,16 @@
       "address": "광주광역시 광산구 북문대로 321 (신창동)",
       "latitude": "35.188844789779",
       "longitude": "126.857649994301",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "40대", "무료"],
+      "since": "2023-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4193]_20230215104549_nv4s3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4193]_20230215104558_quz4i.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4193]_20230215104620_n6aip.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4193]_20230215105728_odpur.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4193]_20230215110012_w1i8f.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4193]_20230215104643_26y7k.jpg"
+      ]
     },
     {
       "id": "gwangju14",
@@ -126,8 +241,17 @@
       "address": "광주광역시 광산구 첨단월봉로 84 (산월동)",
       "latitude": "35.2062384857051",
       "longitude": "126.847734037212",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "25대", "무료"],
+      "since": "2023-04",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[4245]_20230425110206_2ktuc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4245]_20230222044317_7m3db.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4245]_20230222044320_v0ot7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4245]_20230222044322_cx5mw.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4245]_20230222044327_cpxhk.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4245]_20230222044329_w0jo4.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4245]_20230222044331_o6inj.jpg"
+      ]
     },
     {
       "id": "gwangju15",
@@ -135,8 +259,17 @@
       "address": "광주광역시 광산구 첨단과기로 81 (비아동)",
       "latitude": "35.2232057",
       "longitude": "126.8348789",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "16대", "무료"],
+      "since": "2018-08",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2021/03/[3878]_20210309082201_lwrfa.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/03/[3878]_20210309082241_85dgo.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/03/[3878]_20210309082302_qiwop.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/03/[3878]_20210309082313_mldvv.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/03/[3878]_20210309082322_j2xsg.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/03/[3878]_20210309082335_f2bcf.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/03/[3878]_20210309082420_wyho3.jpg"
+      ]
     },
     {
       "id": "gwangju16",
@@ -144,8 +277,17 @@
       "address": "광주광역시 광산구 상무대로 202 (송정동)",
       "latitude": "35.137191435617",
       "longitude": "126.791658278605",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2022-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4314]_20220825034139_ec1gw.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4314]_20220825034144_pjkz6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4314]_20220825034330_zysew.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4314]_20220824085107_v9jjx.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4314]_20220825063046_jrl3w.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4314]_20220825063053_n0jyl.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4314]_20220825063101_cnvud.jpg"
+      ]
     },
     {
       "id": "gwangju17",
@@ -153,8 +295,23 @@
       "address": "광주광역시 광산구 임방울대로826번길 29-12 (쌍암동) 101호, 102호, 103호, 104호",
       "latitude": "35.216064750383524",
       "longitude": "126.84975989378465",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "206대",
+        "유료",
+        "영수증 2시간 무료(일 1회 가능)"
+      ],
+      "since": "2024-11",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[4613]_20241121083926_8tts2.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[4613]_20241121084037_soyuz.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[4613]_20241121084133_5jm14.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[4613]_20241121084209_36ajq.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[4613]_20241121084254_jescs.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[4613]_20241121084332_jg6a8.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[4613]_20241121084405_09xkt.jpg"
+      ]
     },
     {
       "id": "gwangju18",
@@ -162,8 +319,18 @@
       "address": "광주광역시 남구 대남대로 386 (월산동)",
       "latitude": "35.145516",
       "longitude": "126.890794",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "22대", "무료"],
+      "since": "2019-12",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3725]_20191216015109_m0ij2.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3725]_20191216014742_e05iv.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3725]_20191216014150_7tfe7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3725]_20191216014500_vbgmp.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3725]_20191216014110_ovkm5.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3725]_20191216014306_grpvo.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3725]_20191216014346_c7v2j.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3725]_20191216014641_cs1n1.jpg"
+      ]
     },
     {
       "id": "gwangju19",
@@ -171,8 +338,17 @@
       "address": "광주광역시 남구 회재로 1256 (주월동)",
       "latitude": "35.1341387",
       "longitude": "126.8981372",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "5대 이상", "무료"],
+      "since": "2019-12",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3691]_20191213033211_cr95z.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3691]_20191213033511_153jx.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3691]_20191213033229_3uxr3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3691]_20191213033252_a3fpj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3691]_20191213033350_1fiae.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3691]_20191213033407_rzorb.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3691]_20191213033449_o8dvu.jpg"
+      ]
     },
     {
       "id": "gwangju20",
@@ -180,8 +356,16 @@
       "address": "광주광역시 남구 임암길 232 (임암동)",
       "latitude": "35.100033",
       "longitude": "126.871253",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "10대 이상", "무료"],
+      "since": "2020-20",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3741]_20200209103619_m1jtd.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3741]_20200209103726_stink.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3741]_20200209103728_nwdn9.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3741]_20200209103731_ld7fh.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3741]_20200209103733_pkvd5.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3741]_20200209103736_s1hbl.jpg"
+      ]
     },
     {
       "id": "gwangju21",
@@ -189,8 +373,17 @@
       "address": "광주광역시 남구 제석로 104 (봉선동)",
       "latitude": "35.124262",
       "longitude": "126.907898",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "50대 이상", "무료"],
+      "since": "2019-06",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[3591]_20240227120938_o670f.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3591]_20240122010433_dmmwr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[3591]_20241111091247_2qjby.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3591]_20240118102709_k041o.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3591]_20240118102720_j86pn.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3591]_20190619035007_2d5dt.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3591]_20190619035011_ebm3c.jpg"
+      ]
     },
     {
       "id": "gwangju22",
@@ -198,8 +391,22 @@
       "address": "광주광역시 남구 서문대로 665 (진월동)",
       "latitude": "35.119448",
       "longitude": "126.898595",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "10대 이상",
+        "무료",
+        "건물 지하주차장(B1F~B2F)"
+      ],
+      "since": "2018-08",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2024/05/[3385]_20240507094222_urw6r.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/05/[3385]_20240507094331_gcim5.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/05/[3385]_20240507094427_hjz17.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/05/[3385]_20240507094457_splg8.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/05/[3385]_20240507094528_b436m.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/05/[3385]_20240507094556_dyh5i.jpg"
+      ]
     },
     {
       "id": "gwangju23",
@@ -207,8 +414,19 @@
       "address": "광주광역시 남구 대남대로 67 (방림동)",
       "latitude": "35.13498",
       "longitude": "126.917698",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "12대", "무료"],
+      "since": "2022-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[3278]_20220830095457_4rq19.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[3278]_20220830095519_hsn8a.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[3278]_20220830095532_9t5dy.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[3278]_20220830095552_h8lox.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[3278]_20220830095636_3qp0t.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[3278]_20220830095707_1ff3m.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[3278]_20220830095743_988so.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[3278]_20220830100036_duu2n.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[3278]_20220830123926_hdfao.jpg"
+      ]
     },
     {
       "id": "gwangju24",
@@ -216,8 +434,16 @@
       "address": "광주광역시 남구 봉선중앙로 51 (봉선동)",
       "latitude": "35.1254197",
       "longitude": "126.9112507",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "10대 이상", "유료", "2시간 무료"],
+      "since": "2024-03",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[3044]_20241104060927_5swdd.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[3044]_20241107090122_sbcyo.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/03/[3044]_20240301062203_9nlz8.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[3044]_20241104061252_j0dxi.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[3044]_20241107095542_5hwag.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[3044]_20241104061304_umn0h.jpg"
+      ]
     },
     {
       "id": "gwangju25",
@@ -225,8 +451,17 @@
       "address": "광주광역시 남구 서문대로 745 (주월동)",
       "latitude": "35.125781",
       "longitude": "126.897221",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "20대 이상", "유료", "2시간 무료"],
+      "since": "2020-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2019/02/[9756]_20190213111051_fbck6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[9756]_20240208091509_xt8as.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[9756]_20240208091849_iyut1.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[9756]_20240208092021_4vf1h.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/07/[9756]_20200725042145_iavny.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/07/[9756]_20200725042148_usgct.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/07/[9756]_20200725042151_ylzwj.jpg"
+      ]
     },
     {
       "id": "gwangju26",
@@ -234,8 +469,21 @@
       "address": "광주광역시 남구 봉선로 176, 1층 101,111호 (봉선동)",
       "latitude": "35.122921",
       "longitude": "126.914111",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "20대 이상",
+        "건물 지하주차장, 무료 1시간"
+      ],
+      "since": "2018-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2018/08/[9563]_20180813115354_i17g3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[9563]_20240112045324_lqr3s.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[9563]_20240112045330_qstr7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[9563]_20240112045337_0i5bh.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[9563]_20240112045344_8e8nn.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[9563]_20240112045350_bhde8.jpg"
+      ]
     },
     {
       "id": "gwangju27",
@@ -243,8 +491,16 @@
       "address": "광주광역시 남구 봉선로 198 (봉선동)",
       "latitude": "35.1224129503302",
       "longitude": "126.916025777436",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "100대 이상", "무료"],
+      "since": "2024-03",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/03/[4240]_20240328035154_wa9br.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/03/[4240]_20240328035245_y6lat.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/03/[4240]_20240328035236_ept69.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/03/[4240]_20240328035309_d939x.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/03/[4240]_20240328035324_1mlpx.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/03/[4240]_20240328035338_jyid5.jpg"
+      ]
     },
     {
       "id": "gwangju28",
@@ -252,8 +508,16 @@
       "address": "광주광역시 동구 필문대로 240 (동명동)",
       "latitude": "35.149728",
       "longitude": "126.929070",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "20대", "무료"],
+      "since": "2021-11",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/11/[3737]_20211108121103_xzr4e.png",
+        "https://image.istarbucks.co.kr/upload/store/2021/11/[3737]_20211108121445_yyrxv.png",
+        "https://image.istarbucks.co.kr/upload/store/2021/11/[3737]_20211108121451_p8r0r.png",
+        "https://image.istarbucks.co.kr/upload/store/2021/11/[3737]_20211108121730_8cirg.png",
+        "https://image.istarbucks.co.kr/upload/store/2021/11/[3737]_20211108121736_udcge.png",
+        "https://image.istarbucks.co.kr/upload/store/2021/11/[3737]_20211108121744_20mxm.png"
+      ]
     },
     {
       "id": "gwangju29",
@@ -261,8 +525,14 @@
       "address": "광주광역시 동구 동명로 16 (동명동)",
       "latitude": "35.150362",
       "longitude": "126.9236181",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2019-09",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2019/09/[3807]_20190926081646_i094i.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[3807]_20241103024649_kofxv.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/10/[3807]_20241014101314_d04w4.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[3807]_20200423105815_uuh1i.jpg"
+      ]
     },
     {
       "id": "gwangju30",
@@ -271,7 +541,15 @@
       "latitude": "35.1185225125972",
       "longitude": "126.9333452904421",
       "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "since": "2020-04",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[3815]_20200416085018_emdsm.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[3815]_20200408101948_srbkj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[3815]_20200408101955_gzakr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[3815]_20200408102002_k9i19.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[3815]_20200408102007_bs9yy.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[3815]_20200416012618_iogim.jpg"
+      ]
     },
     {
       "id": "gwangju31",
@@ -279,8 +557,23 @@
       "address": "광주광역시 동구 무등로 592 (산수동)",
       "latitude": "35.154459",
       "longitude": "126.940912",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "63대",
+        "유료",
+        "이용 고객 3시간 무료(등록시), 이후 30분당 3000원"
+      ],
+      "since": "2017-10",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2017/10/[3537]_20171026045433_m2i8i.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3537]_20190616045413_4ye7q.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3537]_20190617120357_uaf3x.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3537]_20190616045504_mi4w8.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3537]_20190616045526_ko517.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2017/10/[3537]_20171029025612_ezdml.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2017/10/[3537]_20171029025637_ejoqi.jpg"
+      ]
     },
     {
       "id": "gwangju32",
@@ -288,8 +581,18 @@
       "address": "광주광역시 동구 중앙로160번길 14 (황금동)",
       "latitude": "35.1473572",
       "longitude": "126.9145683",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2022-06",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2022/06/[3054]_20220625044201_dvgxj.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2022/06/[3054]_20220627043013_dx59h.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2022/06/[3054]_20220627043021_isofa.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2022/06/[3054]_20220627043026_xy2l6.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2022/06/[3054]_20220627043030_wlwif.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2022/06/[3054]_20220627043035_uol4j.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2022/06/[3054]_20220627043040_lmvwy.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2022/06/[3054]_20220627043045_74q9p.jpg"
+      ]
     },
     {
       "id": "gwangju33",
@@ -297,8 +600,16 @@
       "address": "광주광역시 동구 충장로 93-5 (금남로2가, 무등맨션)",
       "latitude": "35.14808817",
       "longitude": "126.9173077",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2021-01",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/01/[9249]_20210115013407_tina5.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/01/[9249]_20210115013508_dkgmy.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/01/[9249]_20210115013519_t1kcs.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/01/[9249]_20210115013523_zp726.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/01/[9249]_20210115013448_0gq4j.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/01/[9249]_20210115013502_f7nme.jpg"
+      ]
     },
     {
       "id": "gwangju34",
@@ -306,8 +617,18 @@
       "address": "광주광역시 동구 서석로 43 (충장로1가)",
       "latitude": "35.146797",
       "longitude": "126.918252",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "21대", "무료"],
+      "since": "2019-06",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/01/[9632]_20210113053540_dk0ii.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[9632]_20190615094346_9ugt8.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[9632]_20190615094455_ozdmx.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[9632]_20190615094606_e9jm4.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[9632]_20190615094614_0h8sh.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[9632]_20190615094626_k56j9.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[9632]_20190615094730_so4rd.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[9632]_20190615095518_c20il.jpg"
+      ]
     },
     {
       "id": "gwangju35",
@@ -315,8 +636,17 @@
       "address": "광주광역시 동구 지산로 3 (서석동)",
       "latitude": "35.144608",
       "longitude": "126.930183",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2021-01",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/01/[9774]_20210115024239_d04cl.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/01/[9774]_20210115024243_v54gb.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/01/[9774]_20210115024246_1tmfg.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/01/[9774]_20210115024249_0w42b.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/01/[9774]_20210115024251_rlsfz.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/01/[9774]_20210115025415_lhsso.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/01/[9774]_20210115025429_twc72.jpg"
+      ]
     },
     {
       "id": "gwangju36",
@@ -324,8 +654,26 @@
       "address": "광주광역시 동구 천변우로 421 (불로동)",
       "latitude": "35.144342",
       "longitude": "126.9149709",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "DT점",
+        "주차가능",
+        "27대",
+        "유료",
+        "구매 고객 1만원 1시간 무료, 이후 10분당 500원(최대 4시간)"
+      ],
+      "since": "2023-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4110]_20230219100337_erokg.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4110]_20230219101727_evh7i.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4110]_20230219100212_qw27b.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4110]_20230219101445_r1tmk.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4110]_20230219101500_26gjv.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4110]_20230219101505_crfp5.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4110]_20230219101512_3v7mi.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4110]_20230219101521_o1wf2.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4110]_20230219101543_rfcga.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4110]_20230219101548_ehw7c.jpg"
+      ]
     },
     {
       "id": "gwangju37",
@@ -333,8 +681,16 @@
       "address": "광주광역시 북구 설죽로 314 (오치동)",
       "latitude": "35.187452736868266",
       "longitude": "126.89890250470112",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "9대", "무료"],
+      "since": "2021-11",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/11/[3856]_20211108095219_f6ycq.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2023/05/[3856]_20230507032804_p9d0i.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/05/[3856]_20230507032710_suuyj.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2023/05/[3856]_20230507032716_qqgl0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/05/[3856]_20230507032724_tu22h.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/05/[3856]_20230507032730_t71cx.jpg"
+      ]
     },
     {
       "id": "gwangju38",
@@ -342,8 +698,15 @@
       "address": "광주광역시 북구 양일로18번길 2 (연제동)",
       "latitude": "35.197688",
       "longitude": "126.866803",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "14대", "무료"],
+      "since": "2021-03",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/03/[3836]_20210310034042_a1b2m.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/03/[3836]_20210310034614_0a35b.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/03/[3836]_20210310035113_8pdf1.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/03/[3836]_20210310035117_4cjw8.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/03/[3836]_20210310035121_dp6yh.jpg"
+      ]
     },
     {
       "id": "gwangju39",
@@ -351,8 +714,19 @@
       "address": "광주광역시 북구 서암대로 93 (신안동)",
       "latitude": "35.171678",
       "longitude": "126.894998",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "11대", "무료"],
+      "since": "2019-06",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/03/[3594]_20210323022049_vbcq1.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/03/[3594]_20210323022311_losnj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[3594]_20230416040029_uqkto.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[3594]_20230416040711_y0g9a.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3594]_20190618025435_6nugj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3594]_20190618010051_9bfs3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3594]_20190618025541_zuzsa.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/03/[3594]_20210323022231_usag0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3594]_20190618010037_mk01p.jpg"
+      ]
     },
     {
       "id": "gwangju40",
@@ -360,8 +734,16 @@
       "address": "광주광역시 북구 설죽로 339 (매곡동)",
       "latitude": "35.189836",
       "longitude": "126.898698",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "20대", "무료"],
+      "since": "2017-12",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3455]_20190614080229_hs8zi.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[3455]_20230420115408_lsdf9.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[3455]_20230420115650_5nce7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[3455]_20230420115654_grldu.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[3455]_20230420115657_kqndh.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2017/12/[3455]_20171202041500_x9xkm.jpg"
+      ]
     },
     {
       "id": "gwangju41",
@@ -369,8 +751,23 @@
       "address": "광주광역시 북구 삼정로 4 (두암동)",
       "latitude": "35.162112",
       "longitude": "126.937388",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "55대",
+        "무료",
+        "지상 전면 무료, 지하와 지상 후면은 2시간 무료(등록시), 이후 10분당 1000원"
+      ],
+      "since": "2019-06",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/01/[3427]_20210106044309_uxoe5.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3427]_20190616051950_a6bf2.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3427]_20190616052001_6hwlk.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3427]_20190616052009_l3gyj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3427]_20190616052026_af9qh.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3427]_20190616052056_pgbhz.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3427]_20190616052106_8wvxs.jpg"
+      ]
     },
     {
       "id": "gwangju42",
@@ -378,8 +775,17 @@
       "address": "광주광역시 북구 설죽로 518 (일곡동)",
       "latitude": "35.205463",
       "longitude": "126.898114",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2018-08",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2022/01/[3394]_20220108042152_lkjke.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/11/[3394]_20211121093552_xf3li.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/04/[3394]_20230421120741_xha98.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/04/[3394]_20230421120321_gcurk.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/11/[3394]_20211121094412_k0upt.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/11/[3394]_20211121094407_d47ve.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/11/[3394]_20211121094740_mvmj1.gif"
+      ]
     },
     {
       "id": "gwangju43",
@@ -387,8 +793,17 @@
       "address": "광주광역시 북구 서방로9번길 30 (중흥동)",
       "latitude": "35.17483",
       "longitude": "126.914469",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2021-11",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2020/03/[3202]_20200302052224_ba5uh.png",
+        "https://image.istarbucks.co.kr/upload/store/2023/07/[3202]_20230715010455_sf9ma.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/07/[3202]_20230715010400_mslqt.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/03/[3202]_20210321064903_v2lcv.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/03/[3202]_20210321064936_ecuud.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/11/[3202]_20211116072436_az5lc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/03/[3202]_20210320054526_qt5cv.jpg"
+      ]
     },
     {
       "id": "gwangju44",
@@ -396,8 +811,15 @@
       "address": "광주광역시 북구 첨단연신로 101 (신용동)",
       "latitude": "35.20701",
       "longitude": "126.864115",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "30대", "유료", "영수증 30분 무료"],
+      "since": "2022-11",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[3149]_20221128055556_yczjf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[3149]_20221128055603_fvlhc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[3149]_20221128055739_ufw30.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[3149]_20221128055823_hix4z.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[3149]_20221128060022_bry5o.jpg"
+      ]
     },
     {
       "id": "gwangju45",
@@ -405,8 +827,15 @@
       "address": "광주광역시 북구 임방울대로 1016 (신용동)",
       "latitude": "35.212837",
       "longitude": "126.868485",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "5대", "무료"],
+      "since": "2021-03",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/03/[3111]_20210322022143_qb1ql.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[3111]_20230427024635_7wji4.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[3111]_20230427024251_jpxf0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[3111]_20230427024414_gxkjv.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/03/[3111]_20210322022406_bb550.jpg"
+      ]
     },
     {
       "id": "gwangju46",
@@ -414,8 +843,16 @@
       "address": "광주광역시 북구 우치로 110, 1,2,3층 (용봉동)",
       "latitude": "35.17719867",
       "longitude": "126.9124787",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2018-08",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2021/11/[9404]_20211108051758_xxfvu.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/05/[9404]_20230504055223_vumzz.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/05/[9404]_20230504055234_l1k74.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/05/[9404]_20230504055258_cztrk.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/05/[9404]_20230504055239_h1waz.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/11/[9404]_20211108052013_sjuhy.jpg"
+      ]
     },
     {
       "id": "gwangju47",
@@ -423,8 +860,14 @@
       "address": "광주광역시 북구 저불로 45 (용봉동)",
       "latitude": "35.178664",
       "longitude": "126.895196",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2018-08",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2021/03/[9671]_20210320035412_qljzr.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2019/10/[9671]_20191002063050_leaup.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2019/10/[9671]_20191002063202_7bbf6.JPG",
+        "https://image.istarbucks.co.kr//upload/store/2023/06/[9671]_20230627114421_8g178.jpg"
+      ]
     },
     {
       "id": "gwangju48",
@@ -432,8 +875,15 @@
       "address": "광주광역시 북구 동문대로 303 (문흥동)",
       "latitude": "35.1886443441194",
       "longitude": "126.93359912845",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "17대", "무료"],
+      "since": "2023-06",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/06/[4371]_20230612040421_gh7mp.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/06/[4371]_20230612040427_m8nmw.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/06/[4371]_20230612040437_1g56h.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/06/[4371]_20230612040442_sqrpk.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/06/[4371]_20230612040445_rwomy.jpg"
+      ]
     },
     {
       "id": "gwangju49",
@@ -441,8 +891,15 @@
       "address": "광주광역시 북구 동문대로 148 (두암동)",
       "latitude": "35.175874",
       "longitude": "126.927584",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "15대", "무료"],
+      "since": "2021-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/02/[3909]_20210203071027_rn82y.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/02/[3909]_20210203071045_nk5w3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/04/[3909]_20210421115044_vave8.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/04/[3909]_20210421115048_tfsve.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/04/[3909]_20210421115051_zve45.jpg"
+      ]
     },
     {
       "id": "gwangju50",
@@ -450,8 +907,17 @@
       "address": "광주광역시 북구 하서로 380 (양산동)",
       "latitude": "35.208888",
       "longitude": "126.87419",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "5대", "유료"],
+      "since": "2018-08",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2024/05/[4449]_20240501110351_preoo.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/05/[4449]_20240501110402_mt9k5.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/05/[4449]_20240501110411_nn11j.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/05/[4449]_20240501110419_vof0x.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/05/[4449]_20240501110434_u7tdt.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/05/[4449]_20240501110440_gir1s.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/05/[4449]_20240501110447_n7ut8.jpg"
+      ]
     },
     {
       "id": "gwangju51",
@@ -459,8 +925,17 @@
       "address": "광주광역시 서구 죽봉대로 33 (화정동)",
       "latitude": "35.1562512171826",
       "longitude": "126.882751688005",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "5대 이상", "무료"],
+      "since": "2019-06",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3682]_20190617013341_dmxx3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3682]_20240114032658_fst33.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3682]_20240114032746_frpia.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3682]_20190617015009_l2sph.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3682]_20190617014141_705im.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3682]_20190617014316_im8z0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/06/[3682]_20190617014655_5ntum.jpg"
+      ]
     },
     {
       "id": "gwangju52",
@@ -468,8 +943,19 @@
       "address": "광주광역시 서구 상무대로 847 (쌍촌동)",
       "latitude": "35.14993173",
       "longitude": "126.85482276",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "3대", "무료"],
+      "since": "2023-01",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/03/[3685]_20230304045557_0fomv.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/03/[3685]_20230304045624_e96bq.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[3685]_20230121102221_x6yu6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[3685]_20230121102225_re4hu.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[3685]_20230121102542_ebc60.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[3685]_20230121102551_b5i82.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[3685]_20230121102556_svppy.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[3685]_20230121102559_oo7rm.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[3685]_20230121102604_l2ovt.jpg"
+      ]
     },
     {
       "id": "gwangju53",
@@ -477,8 +963,20 @@
       "address": "광주광역시 서구 상무대로 1080",
       "latitude": "35.152205",
       "longitude": "126.879997",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["DT점", "주차가능", "5대", "무료"],
+      "since": "2024-09",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/09/[3539]_20240905051714_p8yd9.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/09/[3539]_20240905052442_05itm.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/09/[3539]_20240905051011_8craz.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/09/[3539]_20240905050906_b7q26.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/09/[3539]_20240906114224_hxfl5.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/09/[3539]_20240905052535_8avri.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/09/[3539]_20240906114230_e4iol.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/09/[3539]_20240905051046_k6x0g.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/09/[3539]_20240905051040_9ij4n.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/09/[3539]_20240906114235_z402o.jpg"
+      ]
     },
     {
       "id": "gwangju54",
@@ -486,8 +984,17 @@
       "address": "광주광역시 서구 상무중앙로 46 (치평동) 1층",
       "latitude": "35.151021",
       "longitude": "126.848815",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "21대", "무료"],
+      "since": "2023-11",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[3322]_20231107015247_7u0vs.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3322]_20240101095654_1y4bu.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3322]_20240101095704_0yzgq.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3322]_20240101095712_pzm5v.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3322]_20240101095719_fn95i.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[3322]_20231107015537_t2wp0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[3322]_20231107015544_cht4h.jpg"
+      ]
     },
     {
       "id": "gwangju55",
@@ -495,8 +1002,18 @@
       "address": "광주광역시 서구 운천로 253 (치평동) 103호",
       "latitude": "35.154963",
       "longitude": "126.854437",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "10대", "유료", "30분 무료 주차가능"],
+      "since": "2018-08",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2023/01/[3264]_20230105041007_k857o.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/01/[3264]_20230105041031_klpbp.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/01/[3264]_20230105041423_53j4h.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/01/[3264]_20230105041456_vezey.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/01/[3264]_20230105041506_4qa3d.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/01/[3264]_20230105041613_jcahj.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/01/[3264]_20230105041637_hcopt.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/01/[3264]_20230105041643_qg5nw.jpg"
+      ]
     },
     {
       "id": "gwangju56",
@@ -504,8 +1021,15 @@
       "address": "광주광역시 서구 풍암2로 8 (풍암동) 한아름빌딩",
       "latitude": "35.1268447",
       "longitude": "126.8796486",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "21대", "무료"],
+      "since": "2024-01",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3203]_20240130071509_nt6zr.bmp",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3203]_20240130071518_vy5zl.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3203]_20240130071729_40fpv.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3203]_20240130071600_u2f4e.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[3203]_20240130071553_eqkyx.jpg"
+      ]
     },
     {
       "id": "gwangju57",
@@ -513,8 +1037,26 @@
       "address": "광주광역시 서구 운천로109번길 1 (쌍촌동)",
       "latitude": "35.1421126",
       "longitude": "126.85766460000002",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "DT점",
+        "주차가능",
+        "19대",
+        "무료",
+        "전면 무료, 후면 스타벅스 이용시 2시간 무료"
+      ],
+      "since": "2022-05",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3105]_20220514123827_epe19.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3105]_20220514123804_ievoy.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/10/[3105]_20231006084523_lnfbu.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/10/[3105]_20231006084511_gjmg1.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/10/[3105]_20231006084531_aiqis.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3105]_20220514123735_4umec.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/09/[3105]_20220926113544_0lhcj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/09/[3105]_20220926113537_wfp9a.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/09/[3105]_20220926113558_msqpf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/09/[3105]_20220926113551_wtfsw.jpg"
+      ]
     },
     {
       "id": "gwangju58",
@@ -522,8 +1064,18 @@
       "address": "광주광역시 서구 상무중앙로 90, 눈높이상무센터 1층 (치평동)",
       "latitude": "35.1551",
       "longitude": "126.848788",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "21대", "무료"],
+      "since": "2021-03",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[9884]_20230101042221_0wlbf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/05/[9884]_20230503105812_wz1a3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/05/[9884]_20230503105845_9a0e7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/05/[9884]_20230503105859_yfcuj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/03/[9884]_20210317123632_1uok0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/03/[9884]_20210317123638_gmptp.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/03/[9884]_20210317095214_a1nwo.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/03/[9884]_20210317095239_04wb2.jpg"
+      ]
     },
     {
       "id": "gwangju59",
@@ -531,8 +1083,17 @@
       "address": "광주광역시 서구 하남대로 672-1, 1층 (동천동)",
       "latitude": "35.171734",
       "longitude": "126.86618",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "4대", "무료"],
+      "since": "2022-05",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[9867]_20220520102755_zndgz.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[9867]_20230110115231_k4d5o.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[9867]_20230110115301_5kfub.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[9867]_20230109013637_t0bez.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[9867]_20230109013651_x44x6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[9867]_20230109013701_b2149.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[9867]_20230110115451_mcpm7.jpg"
+      ]
     },
     {
       "id": "gwangju60",
@@ -540,8 +1101,17 @@
       "address": "광주광역시 서구 상무자유로 173, 1층 (치평동)",
       "latitude": "35.151968",
       "longitude": "126.853423",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "12대", "유료", "30분 무료"],
+      "since": "2023-03",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/03/[9581]_20230320093114_nt76g.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/03/[9581]_20230320093119_x7s17.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/03/[9581]_20230320093126_hzdtk.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/03/[9581]_20230320093129_b4jxj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/03/[9581]_20230320093133_3f8a4.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/03/[9581]_20230320093137_57g12.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/03/[9581]_20230320093139_bqvt1.jpg"
+      ]
     },
     {
       "id": "gwangju61",
@@ -549,8 +1119,21 @@
       "address": "광주광역시 서구 상무중앙로 7, 1층 (치평동)",
       "latitude": "35.147468",
       "longitude": "126.847989",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차불가"],
+      "since": "2018-09",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2018/09/[9593]_20180903031523_widlw.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/04/[9593]_20220417030723_7w11c.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/04/[9593]_20220417030728_hnwwi.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[9593]_20230104092009_i9bqp.png",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[9593]_20230104092014_2qipi.png",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[9593]_20230104092020_ssx0y.png",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[9593]_20230104092023_9b2ac.png",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[9593]_20230104092027_hf84f.png",
+        "https://image.istarbucks.co.kr/upload/store/2022/04/[9593]_20220417030842_kdb2a.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/04/[9593]_20220417030712_xihg0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/04/[9593]_20220417030718_eyvph.jpg"
+      ]
     },
     {
       "id": "gwangju62",
@@ -558,8 +1141,19 @@
       "address": "광주광역시 서구 죽봉대로 61, 패션스트리트 B01호 (화정동)",
       "latitude": "35.158806",
       "longitude": "126.882069",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "건물",
+        "주차가능",
+        "100대 이상",
+        "유료",
+        "1만원 이상 구매시 1시간 무료"
+      ],
+      "since": "2024-03",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/03/[9637]_20240330114256_up766.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/03/[9637]_20240330114219_5wgv3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/03/[9637]_20240326120911_jh2ua.jpg"
+      ]
     },
     {
       "id": "gwangju63",
@@ -567,8 +1161,18 @@
       "address": "광주광역시 서구 회재로 970 (풍암동)",
       "latitude": "35.1252752078873",
       "longitude": "126.869198235695",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "21대", "무료"],
+      "since": "2023-11",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4360]_20231103125924_xza63.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4360]_20231103125935_yu8ow.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4360]_20231103125944_6gh40.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4360]_20231103125951_wiyhy.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4360]_20231103010000_u666w.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4360]_20231103010054_bm04m.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4360]_20231103010011_6nl5c.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/05/[4360]_20230525052903_aatfo.jpg"
+      ]
     },
     {
       "id": "gwangju64",
@@ -576,8 +1180,26 @@
       "address": "광주광역시 서구 서광주로 23 (매월동)",
       "latitude": "35.129468",
       "longitude": "126.847401",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": [
+        "DT점",
+        "주차가능",
+        "10대 이상",
+        "유료",
+        "30분 무료, 초과시 10분당 300원, 모든 음료 구매시 1시간 무료"
+      ],
+      "since": "2021-12",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2021/12/[3981]_20211230082738_xwfzf.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/12/[3981]_20211230082843_bjquf.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/12/[3981]_20211230082756_k8kpx.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/01/[3981]_20230108125544_dys2v.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/12/[3981]_20211230082807_q4zu1.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/12/[3981]_20211230082820_1hz5y.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/12/[3981]_20211230082824_9l2ba.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/12/[3981]_20211230082828_aei84.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/12/[3981]_20211230082832_l5pgt.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2021/12/[3981]_20211230082839_3a7r7.jpg"
+      ]
     },
     {
       "id": "gwangju65",
@@ -585,8 +1207,15 @@
       "address": "광주광역시 서구 월드컵4강로 56 (화정동)",
       "latitude": "35.142071401469",
       "longitude": "126.875287018219",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "", ""],
+      "since": "2024-07",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2024/07/[4544]_20240709061034_k6f5n.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/07/[4544]_20240712110802_fqyv4.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/07/[4544]_20240712110819_tbu7o.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/07/[4544]_20240712110831_z9un8.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/07/[4544]_20240712110843_jz48n.jpg"
+      ]
     },
     {
       "id": "gwangju66",
@@ -594,8 +1223,36 @@
       "address": "광주광역시 서구 죽봉대로 66 (농성동)",
       "latitude": "35.159037105",
       "longitude": "126.883463848",
-      "parking": ["DT점", "주차가능", "21대", "무료"],
-      "since": "2018-08"
+      "parking": ["건물", "주차가능", "", ""],
+      "since": "2018-08",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2024/03/[4518]_20240326071857_3ds4h.png",
+        "https://image.istarbucks.co.kr//upload/store/2024/03/[4518]_20240326084915_qnddn.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/03/[4518]_20240326084932_4ldon.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/03/[4518]_20240326085003_84st5.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/03/[4518]_20240326085021_1sodo.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/03/[4518]_20240326085036_62ra8.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/03/[4518]_20240326085056_ldnis.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/03/[4518]_20240326085113_zzslj.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2024/03/[4518]_20240326085133_elcfl.jpg"
+      ]
+    },
+    {
+      "id": "gwangju67",
+      "name": "광주상무",
+      "address": "언제나, 밝은 웃음으로 언제나 고객을 맞이하는 스타벅스 광주상무점 입니다.",
+      "latitude": "",
+      "longitude": "",
+      "parking": ["건물", "주차불가"],
+      "since": "2023-01",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2023/01/[9436]_20230109085211_quan2.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/05/[9436]_20230503092346_1vyas.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/05/[9436]_20230503092336_9fv30.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/05/[9436]_20230503092303_evbb2.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/05/[9436]_20230503092314_ugin5.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/05/[9436]_20230503092326_mohah.jpg"
+      ]
     }
   ]
 }
