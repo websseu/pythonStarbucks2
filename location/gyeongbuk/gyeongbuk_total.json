@@ -1,379 +1,1285 @@
 {
-    "location": "경북",
-    "count": 62,
-    "date": "2024-12-18",
-    "item": [
-        {
-            "name": "경산중방DT",
-            "address": "경상북도 경산시 경안로 222 (중방동)",
-            "latitude": "35.8274054981779",
-            "longitude": "128.736778052841"
-        },
-        {
-            "name": "영남대아트센터",
-            "address": "경상북도 경산시 대학로 280 (대동) 영남대학교",
-            "latitude": "35.8318641359384",
-            "longitude": "128.753292001132"
-        },
-        {
-            "name": "영남대중앙도서관",
-            "address": "경상북도 경산시 대학로 280 (조영동) 영남대학교",
-            "latitude": "35.8331655",
-            "longitude": "128.7580143"
-        },
-        {
-            "name": "영남대",
-            "address": "경상북도 경산시 청운로 16, 1~3층 (대동)",
-            "latitude": "35.836968",
-            "longitude": "128.753065"
-        },
-        {
-            "name": "대구가톨릭대",
-            "address": "경상북도 경산시 하양읍 하양로 18",
-            "latitude": "35.907786",
-            "longitude": "128.812463"
-        },
-        {
-            "name": "경산이마트",
-            "address": "경상북도 경산시 옥산로 227 (중산동) 경산이마트",
-            "latitude": "35.8346240436798",
-            "longitude": "128.720180945967"
-        },
-        {
-            "name": "대구대학교",
-            "address": "경상북도 경산시 진량읍 대구대로 201",
-            "latitude": "35.8973698748974",
-            "longitude": "128.84975826587"
-        },
-        {
-            "name": "경산임당역DT",
-            "address": "경상북도 경산시 대학로 208 (계양동)",
-            "latitude": "35.8337503248567",
-            "longitude": "128.745658380784"
-        },
-        {
-            "name": "경산중산",
-            "address": "경상북도 경산시 펜타힐즈로 74 (중산동) 109호,110호,111호,112호",
-            "latitude": "35.83029669680521",
-            "longitude": "128.71974238234182"
-        },
-        {
-            "name": "경산하양DT",
-            "address": "경상북도 경산시 진량읍 대학로 1417",
-            "latitude": "35.904849",
-            "longitude": "128.823882"
-        },
-        {
-            "name": "경산사동DT",
-            "address": "경상북도 경산시 원효로 194 (사동)",
-            "latitude": "35.8189231",
-            "longitude": "128.7574142"
-        },
-        {
-            "name": "경산무학",
-            "address": "경상북도 경산시 하양읍 서사도리9로 21",
-            "latitude": "35.9172823645922",
-            "longitude": "128.813156044847"
-        },
-        {
-            "name": "경주보문",
-            "address": "경상북도 경주시 보문로 537 (천군동)",
-            "latitude": "35.836607",
-            "longitude": "129.284983"
-        },
-        {
-            "name": "경주터미널DT",
-            "address": "경상북도 경주시 태종로 686 (사정동)",
-            "latitude": "35.838226",
-            "longitude": "129.203324"
-        },
-        {
-            "name": "경주대릉원",
-            "address": "경상북도 경주시 첨성로 125 (황남동)",
-            "latitude": "35.8339927",
-            "longitude": "129.2149807"
-        },
-        {
-            "name": "경주보문호수DT",
-            "address": "경상북도 경주시 보문로 132-6 (북군동)",
-            "latitude": "35.8532391",
-            "longitude": "129.2686877"
-        },
-        {
-            "name": "경주중앙",
-            "address": "경상북도 경주시 원효로 105-1 (노동동)",
-            "latitude": "35.842119",
-            "longitude": "129.212469"
-        },
-        {
-            "name": "경주보문로DT",
-            "address": "경상북도 경주시 보문로 510-6, 외 1번지(신평동 719-220) (천군동)",
-            "latitude": "35.838831",
-            "longitude": "129.285953"
-        },
-        {
-            "name": "경주용강DT",
-            "address": "경상북도 경주시 산업로 4350 (용강동)",
-            "latitude": "35.8677384570479",
-            "longitude": "129.224454581086"
-        },
-        {
-            "name": "경주충효DT",
-            "address": "경상북도 경주시 태종로 406 (충효동)",
-            "latitude": "35.84453850949442",
-            "longitude": "129.1747576620178"
-        },
-        {
-            "name": "구미상모DT",
-            "address": "경상북도 구미시 금오대로 439 (상모동)",
-            "latitude": "36.0823172",
-            "longitude": "128.35638470000003"
-        },
-        {
-            "name": "구미도량DT",
-            "address": "경상북도 구미시 야은로 312 (도량동)",
-            "latitude": "36.138474",
-            "longitude": "128.316815"
-        },
-        {
-            "name": "구미옥계",
-            "address": "경상북도 구미시 옥계북로 20 (양포동)",
-            "latitude": "36.138285",
-            "longitude": "128.419563"
-        },
-        {
-            "name": "구미시청DT",
-            "address": "경상북도 구미시 송정대로 27 (송정동)",
-            "latitude": "36.1176314",
-            "longitude": "128.34160680000002"
-        },
-        {
-            "name": "구미금오산DT",
-            "address": "경상북도 구미시 금오산로 205 (남통동)",
-            "latitude": "36.12245",
-            "longitude": "128.323746"
-        },
-        {
-            "name": "구미인동",
-            "address": "경상북도 구미시 인동가산로 9-3, 노블레스타워 1층 (황상동)",
-            "latitude": "36.10782365568934",
-            "longitude": "128.41849850237634"
-        },
-        {
-            "name": "구미공단",
-            "address": "경상북도 구미시 1공단로 212, HALLA SIGMA VALLEY 106 (공단동)",
-            "latitude": "36.10177277179551",
-            "longitude": "128.3858543974459"
-        },
-        {
-            "name": "구미인의DT",
-            "address": "경상북도 구미시 인동북길 149 (인의동)",
-            "latitude": "36.095564",
-            "longitude": "128.431144"
-        },
-        {
-            "name": "구미광평DT",
-            "address": "경상북도 구미시 구미대로 188 (광평동)",
-            "latitude": "36.10374",
-            "longitude": "128.36359"
-        },
-        {
-            "name": "구미문성DT",
-            "address": "경상북도 구미시 고아읍 들성로 207",
-            "latitude": "36.160829790049874",
-            "longitude": "128.34304579748507"
-        },
-        {
-            "name": "구미확장단지",
-            "address": "경상북도 구미시 산동읍 신당1로4길 19",
-            "latitude": "36.15595439679874",
-            "longitude": "128.43002408187394"
-        },
-        {
-            "name": "상주무양DT",
-            "address": "경상북도 상주시 영남제일로 1683 (무양동)",
-            "latitude": "36.4261853415948",
-            "longitude": "128.157202124448"
-        },
-        {
-            "name": "영주가흥",
-            "address": "경상북도 영주시 영주로 90 (가흥동)",
-            "latitude": "36.82291130042651",
-            "longitude": "128.61023450678186"
-        },
-        {
-            "name": "경북도청대로",
-            "address": "경상북도 예천군 호명면 수변로 113",
-            "latitude": "36.5747342643423",
-            "longitude": "128.485495539219"
-        },
-        {
-            "name": "포항쌍용DT",
-            "address": "경상북도 포항시 남구 중흥로 122 (상도동)",
-            "latitude": "36.0155",
-            "longitude": "129.352589"
-        },
-        {
-            "name": "포항오천",
-            "address": "경상북도 포항시 남구 오천읍 원동로 15",
-            "latitude": "35.9642032",
-            "longitude": "129.4027158"
-        },
-        {
-            "name": "포항대이",
-            "address": "경상북도 포항시 남구 포스코대로 124 (대잠동)",
-            "latitude": "36.025372",
-            "longitude": "129.339307"
-        },
-        {
-            "name": "포항이마트",
-            "address": "경상북도 포항시 남구 냉천로 10, 이마트 포항점 1층 (인덕동)",
-            "latitude": "35.9912207539553",
-            "longitude": "129.398507950192"
-        },
-        {
-            "name": "포항시청",
-            "address": "경상북도 포항시 남구 시청로 5 (대잠동)",
-            "latitude": "36.018247",
-            "longitude": "129.342089"
-        },
-        {
-            "name": "포항송도",
-            "address": "경상북도 포항시 남구 송도해안길 54 (송도동)",
-            "latitude": "36.0356471",
-            "longitude": "129.3794457"
-        },
-        {
-            "name": "포항IC DT",
-            "address": "경상북도 포항시 남구 희망대로 353 (이동)",
-            "latitude": "36.0354995",
-            "longitude": "129.3330309"
-        },
-        {
-            "name": "포항세명기독병원",
-            "address": "경상북도 포항시 남구 포스코대로 351 (대도동)",
-            "latitude": "36.017825",
-            "longitude": "129.362026"
-        },
-        {
-            "name": "포항포스코DT",
-            "address": "경상북도 포항시 남구 동해안로6213번길 15-15 (동촌동)",
-            "latitude": "35.9965777972114",
-            "longitude": "129.387640994648"
-        },
-        {
-            "name": "김천구미역",
-            "address": "경상북도 김천시 혁신3로 26 (율곡동)",
-            "latitude": "36.116366",
-            "longitude": "128.181653"
-        },
-        {
-            "name": "김천시청DT",
-            "address": "경상북도 김천시 시청로 47 (대신동)",
-            "latitude": "36.132607850006174",
-            "longitude": "128.1176702232294"
-        },
-        {
-            "name": "김천부곡DT",
-            "address": "경상북도 김천시 시민로 47 (부곡동)",
-            "latitude": "36.12816",
-            "longitude": "128.1013"
-        },
-        {
-            "name": "안동이마트",
-            "address": "경상북도 안동시 옥동1길 2 (옥동)",
-            "latitude": "36.558505",
-            "longitude": "128.699308"
-        },
-        {
-            "name": "안동병원",
-            "address": "경상북도 안동시 앙실로 11 (수상동)",
-            "latitude": "36.547024",
-            "longitude": "128.70064"
-        },
-        {
-            "name": "안동시청",
-            "address": "경상북도 안동시 서동문로 173 (삼산동)",
-            "latitude": "36.5663574",
-            "longitude": "128.7311385"
-        },
-        {
-            "name": "안동강변DT",
-            "address": "경상북도 안동시 육사로 327 (법흥동)",
-            "latitude": "36.5622204986042",
-            "longitude": "128.739846812428"
-        },
-        {
-            "name": "안동옥동",
-            "address": "경상북도 안동시 광명로 166 (옥동)",
-            "latitude": "36.5622894296505",
-            "longitude": "128.701536314643"
-        },
-        {
-            "name": "영천완산DT",
-            "address": "경상북도 영천시 영화로 272 (완산동)",
-            "latitude": "35.9670208",
-            "longitude": "128.9488634"
-        },
-        {
-            "name": "포항죽도DT",
-            "address": "경상북도 포항시 북구 새천년대로 486 699-1 에스오일",
-            "latitude": "36.018521",
-            "longitude": "129.347918"
-        },
-        {
-            "name": "포항장성DT",
-            "address": "경상북도 포항시 북구 새천년대로 1255 (장성동)",
-            "latitude": "36.074535",
-            "longitude": "129.384214"
-        },
-        {
-            "name": "포항양덕",
-            "address": "경상북도 포항시 북구 장량로 162 (양덕동)",
-            "latitude": "36.0815505",
-            "longitude": "129.3981614"
-        },
-        {
-            "name": "포항중앙",
-            "address": "경상북도 포항시 북구 불종로 41 (신흥동)",
-            "latitude": "36.038713",
-            "longitude": "129.364099"
-        },
-        {
-            "name": "포항영일대비치",
-            "address": "경상북도 포항시 북구 삼호로 186 (항구동)",
-            "latitude": "36.0549919",
-            "longitude": "129.37698060000002"
-        },
-        {
-            "name": "포항법원DT",
-            "address": "경상북도 포항시 북구 신덕로 287 (장성동)",
-            "latitude": "36.088505",
-            "longitude": "129.385016"
-        },
-        {
-            "name": "포항화진해수욕장",
-            "address": "경상북도 포항시 북구 송라면 동해대로3218번길 40 (송라면)",
-            "latitude": "36.2515524885638",
-            "longitude": "129.373347731806"
-        },
-        {
-            "name": "포항중앙로DT",
-            "address": "경상북도 포항시 북구 중앙로 197 (죽도동)",
-            "latitude": "36.030707",
-            "longitude": "129.366266"
-        },
-        {
-            "name": "포항초곡DT",
-            "address": "경상북도 포항시 북구 흥해읍 동해대로 1354",
-            "latitude": "36.0940736477798",
-            "longitude": "129.343182672234"
-        },
-        {
-            "name": "포항두호DT",
-            "address": "경상북도 포항시 북구 새천년대로 1031 (창포동)",
-            "latitude": "36.0610094",
-            "longitude": "129.370226"
-        }
-    ]
+  "location": "경북",
+  "count": 62,
+  "date": "2024-12-18",
+  "item": [
+    {
+      "id": "gyeongbuk1",
+      "name": "경산중방DT",
+      "address": "경상북도 경산시 경안로 222 (중방동)",
+      "latitude": "35.8274054981779",
+      "longitude": "128.736778052841",
+      "parking": ["DT점", "주차가능", "14대", "무료"],
+      "since": "2017-07",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2017/07/[3314]_20170711080422_wrmfn.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3314]_20200217103228_0bomd.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3314]_20200207110836_jg44a.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3314]_20200217103424_q399f.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2017/05/[3314]_20170521054829_xvgiz.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3314]_20200217103321_eswpr.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk2",
+      "name": "영남대아트센터",
+      "address": "경상북도 경산시 대학로 280 (대동) 영남대학교",
+      "latitude": "35.8318641359384",
+      "longitude": "128.753292001132",
+      "parking": [
+        "건물",
+        "주차가능",
+        "20대 이상",
+        "유료",
+        "10분당 300원, 토/일요일 및 공휴일 일 2천원"
+      ],
+      "since": "2020-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2020/08/[3006]_20200828023753_5eit7.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2020/08/[3006]_20200828023825_hs9vm.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2020/08/[3006]_20200828023844_s12iv.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2020/08/[3006]_20200828023902_wac5y.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2020/08/[3006]_20200828023916_td4ta.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3006]_20220527100627_1cd9p.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3006]_20220527100854_1nqq2.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk3",
+      "name": "영남대중앙도서관",
+      "address": "경상북도 경산시 대학로 280 (조영동) 영남대학교",
+      "latitude": "35.8331655",
+      "longitude": "128.7580143",
+      "parking": [
+        "건물",
+        "주차가능",
+        "20대 이상",
+        "유료",
+        "10분당 300원, 토/일요일 및 공휴일 일 2천원"
+      ],
+      "since": "2019-06",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2020/11/[9980]_20201129052057_8vwe0.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2020/08/[9980]_20200831102925_0xvdn.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2020/09/[9980]_20200905115756_c1mia.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2020/08/[9980]_20200831102933_v5rx4.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2020/09/[9980]_20200903081144_3qz6m.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2022/07/[9980]_20220717044842_oqmvj.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk4",
+      "name": "영남대",
+      "address": "경상북도 경산시 청운로 16, 1~3층 (대동)",
+      "latitude": "35.836968",
+      "longitude": "128.753065",
+      "parking": ["건물", "주차불가"],
+      "since": "2017-05",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2017/05/[9875]_20170524041945_czw9n.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[9875]_20220512021806_lgpct.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[9875]_20220512021839_84mpo.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[9875]_20220512022002_latf3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[9875]_20200212051706_m2k5h.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[9875]_20200212051723_bjscm.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[9875]_20200212051742_2cch7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[9875]_20200212051748_ixcd8.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk5",
+      "name": "대구가톨릭대",
+      "address": "경상북도 경산시 하양읍 하양로 18",
+      "latitude": "35.907786",
+      "longitude": "128.812463",
+      "parking": ["건물", "주차가능", "20대", "유료", "이용고객 3시간 무료"],
+      "since": "2021-09",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[9850]_20210904034620_86mre.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[9850]_20210904034631_28wpe.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[9850]_20210904034651_5l8qa.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[9850]_20210904034658_efcv6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[9850]_20210904034715_xhlp4.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk6",
+      "name": "경산이마트",
+      "address": "경상북도 경산시 옥산로 227 (중산동) 경산이마트",
+      "latitude": "35.8346240436798",
+      "longitude": "128.720180945967",
+      "parking": [
+        "건물",
+        "주차가능",
+        "100대 이상",
+        "유료",
+        "구매시 2시간 무료"
+      ],
+      "since": "2020-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[9370]_20200219062458_9gcqp.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[9370]_20200219062452_a51o6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[9370]_20200219062257_mcb9m.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[9370]_20200219062446_onl37.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk7",
+      "name": "대구대학교",
+      "address": "경상북도 경산시 진량읍 대구대로 201",
+      "latitude": "35.8973698748974",
+      "longitude": "128.84975826587",
+      "parking": [
+        "건물",
+        "주차가능",
+        "50대 이상",
+        "무료",
+        "대구대학교 내 주차 가능"
+      ],
+      "since": "2021-09",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[4095]_20210909022116_sw3jr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[4095]_20210909022124_xfngb.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[4095]_20210909022132_e1gly.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[4095]_20210909024157_nzn0r.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[4095]_20210909024227_6hqx0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[4095]_20210909024242_kivdd.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[4095]_20210909024249_e65op.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[4095]_20210909024447_5r17k.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk8",
+      "name": "경산임당역DT",
+      "address": "경상북도 경산시 대학로 208 (계양동)",
+      "latitude": "35.8337503248567",
+      "longitude": "128.745658380784",
+      "parking": ["DT점", "주차가능", "37대", "무료"],
+      "since": "2022-05",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3770]_20220512062109_83e2b.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3770]_20220512061811_zzbbj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/07/[3770]_20200714060645_96xay.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/07/[3770]_20200716071039_5i1dc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/03/[3770]_20220307092817_2mgk3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3770]_20220512061550_5dja3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3770]_20220512061402_dhhyy.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/03/[3770]_20220307093213_x90wm.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk9",
+      "name": "경산중산",
+      "address": "경상북도 경산시 펜타힐즈로 74 (중산동) 109호,110호,111호,112호",
+      "latitude": "35.83029669680521",
+      "longitude": "128.71974238234182",
+      "parking": ["건물", "주차가능", "2대 이상", "무료"],
+      "since": "2022-04",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[4248]_20220512015607_zn9uz.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[4248]_20220512015241_yexeo.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/04/[4248]_20220421072111_7185v.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/04/[4248]_20220420071900_z6n5d.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/04/[4248]_20220419050420_j7qbx.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/04/[4248]_20220420072014_9ysow.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk10",
+      "name": "경산하양DT",
+      "address": "경상북도 경산시 진량읍 대학로 1417",
+      "latitude": "35.904849",
+      "longitude": "128.823882",
+      "parking": ["DT점", "주차가능", "46대", "무료"],
+      "since": "2022-07",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[4085]_20220717084741_21y24.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[4085]_20220717084916_t74a4.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[4085]_20220717085217_lxb00.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/03/[4085]_20220316063656_dq872.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[4085]_20220717085343_paq7e.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[4085]_20220717085411_7gzrn.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[4085]_20220717085446_0trcz.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[4085]_20220717085524_13z77.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk11",
+      "name": "경산사동DT",
+      "address": "경상북도 경산시 원효로 194 (사동)",
+      "latitude": "35.8189231",
+      "longitude": "128.7574142",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "14대",
+        "유료",
+        "매장 이용시 2시간 무료 주차"
+      ],
+      "since": "2024-11",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[4441]_20241128044915_cxj48.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[4441]_20241128044810_ahtgs.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[4441]_20241128044823_b6e9r.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[4441]_20241128044843_7s205.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[4441]_20241128044850_fvayu.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[4441]_20241128044859_nfrsh.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/11/[4441]_20241128045035_k8tfc.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk12",
+      "name": "경산무학",
+      "address": "경상북도 경산시 하양읍 서사도리9로 21",
+      "latitude": "35.9172823645922",
+      "longitude": "128.813156044847",
+      "parking": ["건물", "주차가능", "8대", "무료"],
+      "since": "2024-01",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4414]_20240108122553_t1ev6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4414]_20240108123134_mvc1v.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4414]_20240108123243_s92ey.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4414]_20240108123502_rhyaf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4414]_20240108122449_ocq1v.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4414]_20240108123537_gc5df.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4414]_20240108123559_rkb4t.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/01/[4414]_20240108123704_dk5xf.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk13",
+      "name": "경주보문",
+      "address": "경상북도 경주시 보문로 537 (천군동)",
+      "latitude": "35.836607",
+      "longitude": "129.284983",
+      "parking": ["건물", "주차가능", "15대", "무료"],
+      "since": "2018-03",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2018/03/[3412]_20180323035721_6gyjq.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2018/03/[3412]_20180323035912_ddzlf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3412]_20200226104700_1fqlv.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2018/03/[3412]_20180323035827_8kufl.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2018/03/[3412]_20180323035845_66s30.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2018/03/[3412]_20180323035856_64tih.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2018/03/[3412]_20180323035730_g6bs4.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk14",
+      "name": "경주터미널DT",
+      "address": "경상북도 경주시 태종로 686 (사정동)",
+      "latitude": "35.838226",
+      "longitude": "129.203324",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "8대",
+        "유료",
+        "구매시 2시간 무료, 초과시 30분 1000원"
+      ],
+      "since": "2019-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2019/08/[3220]_20190824090522_7zae6.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2016/05/[3220]_20160523082508_qssnv.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3220]_20200227083915_d8b99.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3220]_20200228105711_ztzkl.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3220]_20200228105718_9p8ya.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3220]_20200228105724_olfv6.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk15",
+      "name": "경주대릉원",
+      "address": "경상북도 경주시 첨성로 125 (황남동)",
+      "latitude": "35.8339927",
+      "longitude": "129.2149807",
+      "parking": ["건물", "주차가능", "15대", "무료"],
+      "since": "2020-05",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2020/05/[9974]_20200502100035_918l3.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2020/05/[9974]_20200501071157_f4wvv.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/05/[9974]_20200501071145_5pgtz.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/05/[9974]_20200501071215_kj5cn.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/05/[9974]_20200501071333_1bcif.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/05/[9974]_20200501071454_mz3ad.JPG"
+      ]
+    },
+    {
+      "id": "gyeongbuk16",
+      "name": "경주보문호수DT",
+      "address": "경상북도 경주시 보문로 132-6 (북군동)",
+      "latitude": "35.8532391",
+      "longitude": "129.2686877",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "6대",
+        "무료",
+        "호수앞 공영 주차장 무료 주차"
+      ],
+      "since": "2020-07",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2020/07/[9909]_20200730100721_wbv71.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2020/04/[9909]_20200429074208_zvnen.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2020/04/[9909]_20200429074733_i02qp.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2020/04/[9909]_20200429074214_fl137.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2020/04/[9909]_20200429074219_lg8qb.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2020/04/[9909]_20200429075026_e687w.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2020/04/[9909]_20200429075022_4wpww.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2020/04/[9909]_20200429074935_sjopz.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk17",
+      "name": "경주중앙",
+      "address": "경상북도 경주시 원효로 105-1 (노동동)",
+      "latitude": "35.842119",
+      "longitude": "129.212469",
+      "parking": ["건물", "주차불가"],
+      "since": "2016-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2016/08/[9777]_20160824043704_g369d.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[9777]_20200225053832_i26ja.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[9777]_20200225053839_ptpr9.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[9777]_20200225053845_fov92.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[9777]_20200225053850_2we0w.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[9777]_20200225053855_e0mxo.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk18",
+      "name": "경주보문로DT",
+      "address": "경상북도 경주시 보문로 510-6, 외 1번지(신평동 719-220) (천군동)",
+      "latitude": "35.838831",
+      "longitude": "129.285953",
+      "parking": ["DT점", "주차가능", "12대 이상", "무료"],
+      "since": "2017-07",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2017/07/[9727]_20170720010628_97afa.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[9727]_20200225045239_w9vzs.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[9727]_20200225045354_z8ipr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2017/07/[9727]_20170720010750_1zuhs.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2017/07/[9727]_20170720010815_a1hxb.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/07/[9727]_20170720010744_yqdv2.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk19",
+      "name": "경주용강DT",
+      "address": "경상북도 경주시 산업로 4350 (용강동)",
+      "latitude": "35.8677384570479",
+      "longitude": "129.224454581086",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "17대",
+        "유료",
+        "1만원 이상 결제시 1시간 지원(일 최대4시간), 1시간 초과시 10분당 300원"
+      ],
+      "since": "2022-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4028]_20220825084106_93ggu.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4028]_20220825084227_cj8a1.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4028]_20220825085016_10mez.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4028]_20220825085036_9n1ok.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4028]_20220825085054_fmh4i.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4028]_20220825085117_c4z6a.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4028]_20220825085216_hbt9r.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/08/[4028]_20220825085222_2odjr.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk20",
+      "name": "경주충효DT",
+      "address": "경상북도 경주시 태종로 406 (충효동)",
+      "latitude": "35.84453850949442",
+      "longitude": "129.1747576620178",
+      "parking": ["DT점", "주차가능", "37대", "무료"],
+      "since": "2024-04",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/04/[4362]_20240428025715_abbv1.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/05/[4362]_20240501030957_qbm2c.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/05/[4362]_20240501031007_8lfme.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/05/[4362]_20240501031019_0nf51.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/05/[4362]_20240501031028_lr4i0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/05/[4362]_20240501031039_zfyme.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/05/[4362]_20240501031057_sma3p.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/05/[4362]_20240501031107_si5yw.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk21",
+      "name": "구미상모DT",
+      "address": "경상북도 구미시 금오대로 439 (상모동)",
+      "latitude": "36.0823172",
+      "longitude": "128.35638470000003",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "30대",
+        "유료",
+        "1만원 이상 결제시 1시간 무료"
+      ],
+      "since": "2022-05",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3611]_20220530030037_jve3v.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3611]_20220530031155_kebw6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/06/[3611]_20220609045357_oij63.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3611]_20220530031846_aj9vj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3611]_20220530032140_e0gq0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3611]_20220530032202_1its9.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3611]_20220530032212_xwd0e.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3611]_20220530032219_6w5cw.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk22",
+      "name": "구미도량DT",
+      "address": "경상북도 구미시 야은로 312 (도량동)",
+      "latitude": "36.138474",
+      "longitude": "128.316815",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "6대",
+        "유료",
+        "스타벅스 이용시 1시간 무료"
+      ],
+      "since": "2022-05",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3541]_20220529104514_r6r8u.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3541]_20220529104551_kh16n.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/06/[3541]_20220602041257_1jcfi.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/06/[3541]_20220602041333_1ifpd.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3541]_20220529104657_pn8zq.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3541]_20220529104717_f6jak.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3541]_20220529104731_sj1x7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3541]_20220529104926_0r165.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk23",
+      "name": "구미옥계",
+      "address": "경상북도 구미시 옥계북로 20 (양포동)",
+      "latitude": "36.138285",
+      "longitude": "128.419563",
+      "parking": ["건물", "주차불가"],
+      "since": "2022-05",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/06/[3233]_20220612095217_2tdhi.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3233]_20220527084619_3bgqp.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3233]_20220526104148_rsrq5.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3233]_20220526104225_x8p61.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3233]_20220526104128_vlmvc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3233]_20220526104556_l1608.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3233]_20220527084530_k1cr8.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3233]_20220527084548_81ua2.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk24",
+      "name": "구미시청DT",
+      "address": "경상북도 구미시 송정대로 27 (송정동)",
+      "latitude": "36.1176314",
+      "longitude": "128.34160680000002",
+      "parking": ["DT점", "주차가능", "2대", "무료"],
+      "since": "2022-11",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[3151]_20221104073844_94k64.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[3151]_20221104073918_tecv2.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[3151]_20221104074105_7bzn0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[3151]_20221102050938_uw7wr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[3151]_20221102050949_583xm.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[3151]_20221102051004_pixdj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[3151]_20221102051017_q597t.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[3151]_20221102051030_ie5cr.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk25",
+      "name": "구미금오산DT",
+      "address": "경상북도 구미시 금오산로 205 (남통동)",
+      "latitude": "36.12245",
+      "longitude": "128.323746",
+      "parking": ["DT점", "주차가능", "30대 이상", "무료"],
+      "since": "2022-05",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/07/[9881]_20220715111802_jawqr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[9881]_20220515121921_xidei.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[9881]_20220515121944_7z48c.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[9881]_20220515121959_usgvt.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[9881]_20220515122007_j4cce.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[9881]_20220515122013_h67d7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[9881]_20220515122019_k5r9k.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[9881]_20220515122130_bqk53.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk26",
+      "name": "구미인동",
+      "address": "경상북도 구미시 인동가산로 9-3, 노블레스타워 1층 (황상동)",
+      "latitude": "36.10782365568934",
+      "longitude": "128.41849850237634",
+      "parking": [
+        "건물",
+        "주차가능",
+        "40대 이상",
+        "유료",
+        "평일 8시~19시, 토요일 8시~13시, 주말 및 공휴일 사용불가, 주차증에 도장 날인"
+      ],
+      "since": "2022-06",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/06/[9460]_20220606093127_spe9s.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/10/[9460]_20221011015135_nr9dy.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/06/[9460]_20220622094814_5x14g.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/06/[9460]_20220622084518_x5mkx.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[9460]_20220505030916_jmw8l.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[9460]_20220528044320_z6htb.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/06/[9460]_20220603094329_mhefy.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/06/[9460]_20220622090242_jepk9.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk27",
+      "name": "구미공단",
+      "address": "경상북도 구미시 1공단로 212, HALLA SIGMA VALLEY 106 (공단동)",
+      "latitude": "36.10177277179551",
+      "longitude": "128.3858543974459",
+      "parking": [
+        "건물",
+        "주차가능",
+        "50대 이상",
+        "유료",
+        "금액 상관 없이 1시간 30분 무료, 초과 30분당 500원 추가발생"
+      ],
+      "since": "2022-05",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[9640]_20220528043744_s0kyi.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[9640]_20220527021557_7vcoh.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[9640]_20220528043800_4k9n4.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[9640]_20220528043807_5w0mq.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[9640]_20220528043837_fy4b7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[9640]_20220528043846_ngj1x.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[9640]_20220528043855_mp2k2.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[9640]_20220528043903_qhcr3.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk28",
+      "name": "구미인의DT",
+      "address": "경상북도 구미시 인동북길 149 (인의동)",
+      "latitude": "36.095564",
+      "longitude": "128.431144",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "33대",
+        "유료",
+        "구매 영수증 지참시 2시간 무료"
+      ],
+      "since": "2023-10",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2023/10/[4321]_20231017043546_syjvp.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/10/[4321]_20231017091236_q2bir.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/10/[4321]_20231017091243_f0vwu.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/10/[4321]_20231016034107_cer2g.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/10/[4321]_20231016034118_hcsfv.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/10/[4321]_20231016034126_xu85j.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/10/[4321]_20231016034134_rgpvt.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2023/10/[4321]_20231017091251_n63hp.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk29",
+      "name": "구미광평DT",
+      "address": "경상북도 구미시 구미대로 188 (광평동)",
+      "latitude": "36.10374",
+      "longitude": "128.36359",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "19대",
+        "유료",
+        "영수증 1만원 이상 1시간 무료, 10분당 500원, 최대 4시간 무료(최소 60분 무료)"
+      ],
+      "since": "2021-10",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/10/[4000]_20211013053430_m7erx.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/10/[4000]_20211013053517_2l1sg.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/10/[4000]_20211013053731_jmnww.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/10/[4000]_20211013053953_rrqxs.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/10/[4000]_20211013054001_wky18.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/10/[4000]_20211013054247_iod7w.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/10/[4000]_20211013054836_ktsit.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/10/[4000]_20211013054844_acz2u.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk30",
+      "name": "구미문성DT",
+      "address": "경상북도 구미시 고아읍 들성로 207",
+      "latitude": "36.160829790049874",
+      "longitude": "128.34304579748507",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "14대",
+        "유료",
+        "영수증 1만원 이상 1시간 무료, 10분당 300원, 최대 4시간 무료(최소 30분 무료)"
+      ],
+      "since": "2021-09",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[4022]_20210908123711_ccvlr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[4022]_20210908035137_icadm.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[4022]_20210908035145_5j56l.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[4022]_20210908035219_crvto.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[4022]_20210908035242_s7idx.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[4022]_20210908035257_jyl0c.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[4022]_20210908035429_xijdc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[4022]_20210908035524_1yvcr.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk31",
+      "name": "구미확장단지",
+      "address": "경상북도 구미시 산동읍 신당1로4길 19",
+      "latitude": "36.15595439679874",
+      "longitude": "128.43002408187394",
+      "parking": [
+        "건물",
+        "주차가능",
+        "10대 이상",
+        "유료",
+        "영수증 1만원 이상 1시간 30분 무료"
+      ],
+      "since": "2022-05",
+      "images": [
+        "https://image.istarbucks.co.kr//upload/store/2022/05/[3958]_20220531102427_jfvpg.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2022/06/[3958]_20220621051337_oczh1.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2022/05/[3958]_20220531101923_l8qn6.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2022/05/[3958]_20220531101935_76bak.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2022/05/[3958]_20220531102411_2gge0.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2022/05/[3958]_20220531101954_kp0i8.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2022/05/[3958]_20220531102005_nbo2c.jpg",
+        "https://image.istarbucks.co.kr//upload/store/2022/06/[3958]_20220610042055_bka04.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk32",
+      "name": "상주무양DT",
+      "address": "경상북도 상주시 영남제일로 1683 (무양동)",
+      "latitude": "36.4261853415948",
+      "longitude": "128.157202124448",
+      "parking": ["DT점", "주차가능", "43대", "무료"],
+      "since": "2022-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/10/[4068]_20221005102108_soean.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/10/[4068]_20221006032231_tni72.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/10/[4068]_20221006032418_xkrzl.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/10/[4068]_20221006032505_g8gze.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/10/[4068]_20221006032523_5ue5l.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/10/[4068]_20221006032535_fx6un.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/10/[4068]_20221006032544_hy948.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/10/[4068]_20221006032554_ao4pu.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk33",
+      "name": "영주가흥",
+      "address": "경상북도 영주시 영주로 90 (가흥동)",
+      "latitude": "36.82291130042651",
+      "longitude": "128.61023450678186",
+      "parking": [
+        "건물",
+        "주차가능",
+        "64대",
+        "무료",
+        "새마을금고 다음 골목길로 진입시 주차장 진입"
+      ],
+      "since": "2024-07",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/07/[4271]_20240702092757_hh5x8.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/07/[4271]_20240703081721_bugw6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/07/[4271]_20240703081733_u14hc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/07/[4271]_20240702092857_eg9rw.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/07/[4271]_20240703082913_sgp29.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/07/[4271]_20240702092940_mctqa.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/07/[4271]_20240702093039_hspuc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/07/[4271]_20240703082633_xtfsa.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk34",
+      "name": "경북도청대로",
+      "address": "경상북도 예천군 호명면 수변로 113",
+      "latitude": "36.5747342643423",
+      "longitude": "128.485495539219",
+      "parking": ["건물", "주차가능", "17대", "무료"],
+      "since": "2023-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4212]_20230201101920_j8332.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4212]_20230201101931_p6z82.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4212]_20230201102005_ds1ke.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/02/[4212]_20230201102021_1f7wm.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk35",
+      "name": "포항쌍용DT",
+      "address": "경상북도 포항시 남구 중흥로 122 (상도동)",
+      "latitude": "36.0155",
+      "longitude": "129.352589",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "10대",
+        "유료",
+        "영수증 1만원 이상 1시간 무료 이후 10분당 300원"
+      ],
+      "since": "2017-12",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[3436]_20200415050725_bmmzc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[3436]_20200415050733_xidn9.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2017/12/[3436]_20171222085607_fa234.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/12/[3436]_20171222085702_zwp6m.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/12/[3436]_20171222085737_5dzcb.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2017/12/[3436]_20171222085856_m4028.JPG"
+      ]
+    },
+    {
+      "id": "gyeongbuk36",
+      "name": "포항오천",
+      "address": "경상북도 포항시 남구 오천읍 원동로 15",
+      "latitude": "35.9642032",
+      "longitude": "129.4027158",
+      "parking": ["건물", "주차불가"],
+      "since": "2023-04",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[3174]_20230420075931_6pt79.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[3174]_20230421100729_4vrd0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[3174]_20230421101200_18y2f.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[3174]_20230420080010_qy8jm.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/05/[3174]_20230516075735_vwcpp.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk37",
+      "name": "포항대이",
+      "address": "경상북도 포항시 남구 포스코대로 124 (대잠동)",
+      "latitude": "36.025372",
+      "longitude": "129.339307",
+      "parking": ["건물", "주차가능", "4대", "무료"],
+      "since": "2023-01",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[3053]_20230118084748_ohgpo.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[3053]_20230118085228_ujh4a.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[3053]_20230118085233_oo0zr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[3053]_20230118085236_7fx2u.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[3053]_20230118085315_21wq9.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[3053]_20230126113146_ksuvf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[3053]_20230126113151_oqf8p.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/01/[3053]_20230126113521_jxocd.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk38",
+      "name": "포항이마트",
+      "address": "경상북도 포항시 남구 냉천로 10, 이마트 포항점 1층 (인덕동)",
+      "latitude": "35.9912207539553",
+      "longitude": "129.398507950192",
+      "parking": [
+        "건물",
+        "주차가능",
+        "10대 이상",
+        "무료",
+        "이마트 1층 주차장, 건물 옥상 주차장"
+      ],
+      "since": "2023-07",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/07/[9813]_20230704101203_mlge1.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/07/[9813]_20230706101331_ww4yc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/07/[9813]_20230706101402_i8q5j.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/07/[9813]_20230706101411_ll6am.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk39",
+      "name": "포항시청",
+      "address": "경상북도 포항시 남구 시청로 5 (대잠동)",
+      "latitude": "36.018247",
+      "longitude": "129.342089",
+      "parking": ["건물", "주차가능", "10대", "무료"],
+      "since": "2020-04",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[9737]_20200424123522_3hxxf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[9737]_20200424124002_3mnoo.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[9737]_20200424123442_15omn.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[9737]_20200424124022_4wbea.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[9737]_20200424124251_rewth.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[9737]_20200424124058_21yj9.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[9737]_20200424124315_h0yqd.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[9737]_20200424124335_4d2zr.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk40",
+      "name": "포항송도",
+      "address": "경상북도 포항시 남구 송도해안길 54 (송도동)",
+      "latitude": "36.0356471",
+      "longitude": "129.3794457",
+      "parking": ["건물", "주차가능", "16대", "무료"],
+      "since": "2023-07",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/07/[4279]_20230726111154_sv8hb.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/07/[4279]_20230726111253_ofh9o.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/07/[4279]_20230726111313_20o8h.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/07/[4279]_20230726111326_ku3q7.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk41",
+      "name": "포항IC DT",
+      "address": "경상북도 포항시 남구 희망대로 353 (이동)",
+      "latitude": "36.0354995",
+      "longitude": "129.3330309",
+      "parking": ["DT점", "주차가능", "47대", "무료"],
+      "since": "2023-03",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/03/[4286]_20230315123738_i9xp9.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/03/[4286]_20230315124759_fr6tb.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/03/[4286]_20230315124810_a9das.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/03/[4286]_20230315124844_fo5lo.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/03/[4286]_20230315124851_2vhgj.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk42",
+      "name": "포항세명기독병원",
+      "address": "경상북도 포항시 남구 포스코대로 351 (대도동)",
+      "latitude": "36.017825",
+      "longitude": "129.362026",
+      "parking": ["건물", "주차불가"],
+      "since": "2021-06",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/06/[4084]_20210617064056_lim1q.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/06/[4084]_20210617065038_atrxn.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/06/[4084]_20210617065047_jm56e.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/06/[4084]_20210617065054_nc8pf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/06/[4084]_20210617065103_mgu29.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/06/[4084]_20210617065111_zplfu.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/06/[4084]_20210617065117_qu1vf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/06/[4084]_20210617065130_v1xvh.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk43",
+      "name": "포항포스코DT",
+      "address": "경상북도 포항시 남구 동해안로6213번길 15-15 (동촌동)",
+      "latitude": "35.9965777972114",
+      "longitude": "129.387640994648",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "14대 이상",
+        "유료",
+        "동촌플라자 주차장 2시간 무료, 2시간 초과시 추후 이용 불가"
+      ],
+      "since": "2021-09",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[4008]_20210902020145_c8bcj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[4008]_20210902021258_pmedt.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[4008]_20210902021319_aj9a0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[4008]_20210902021335_vjtgs.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[4008]_20210902021416_f7oz6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[4008]_20210902021436_ohp53.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[4008]_20210902021451_vrqxl.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[4008]_20210902021518_ygatd.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk44",
+      "name": "김천구미역",
+      "address": "경상북도 김천시 혁신3로 26 (율곡동)",
+      "latitude": "36.116366",
+      "longitude": "128.181653",
+      "parking": [
+        "건물",
+        "주차가능",
+        "10대",
+        "유료",
+        "1만원 이상 구매시 1시간 무료"
+      ],
+      "since": "2022-05",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3340]_20220528124504_xxxhx.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3340]_20220528124515_f6nne.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3340]_20220528124519_8y893.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3340]_20220528124522_joiao.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3340]_20220528124536_luwtg.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3340]_20220528124539_a1wv2.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3340]_20220528124543_v8uwr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3340]_20220528124546_n7jug.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk45",
+      "name": "김천시청DT",
+      "address": "경상북도 김천시 시청로 47 (대신동)",
+      "latitude": "36.132607850006174",
+      "longitude": "128.1176702232294",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "10대",
+        "유료",
+        "1만원 이상 구매 시 1시간 무료"
+      ],
+      "since": "2022-06",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/06/[3215]_20220614081058_mn1b9.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/06/[3215]_20220614081142_rpjn3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/06/[3215]_20220614081149_3h85t.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/06/[3215]_20220614081156_c4qfd.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/06/[3215]_20220614081203_atj36.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/06/[3215]_20220614081208_nhrao.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/06/[3215]_20220614081216_3cff1.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/06/[3215]_20220614081222_bzb1j.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk46",
+      "name": "김천부곡DT",
+      "address": "경상북도 김천시 시민로 47 (부곡동)",
+      "latitude": "36.12816",
+      "longitude": "128.1013",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "33대",
+        "유료",
+        "영수증 1만원 이상 1시간 무료, 초과 10분당 300원, 최대 4시간 무료(최소 60분 무료)"
+      ],
+      "since": "2023-09",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/09/[4353]_20230920053317_nbf9v.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/09/[4353]_20230920053438_t438h.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/09/[4353]_20230920053457_e77x8.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/09/[4353]_20230920053513_3l3pf.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/09/[4353]_20230920053530_hoggx.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/09/[4353]_20230920053551_8nrl2.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/09/[4353]_20230920053610_lwlqt.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/09/[4353]_20230920053935_rhg7o.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk47",
+      "name": "안동이마트",
+      "address": "경상북도 안동시 옥동1길 2 (옥동)",
+      "latitude": "36.558505",
+      "longitude": "128.699308",
+      "parking": ["건물", "주차가능", "100대 이상", "무료"],
+      "since": "2020-02",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3884]_20200203051012_pkebj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3884]_20200207105038_q6t9r.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3884]_20200207105112_eroq7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3884]_20200207105127_jemgk.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3884]_20200207105132_do0we.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3884]_20200207105611_e60vo.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/02/[3884]_20200207105626_8h3jm.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk48",
+      "name": "안동병원",
+      "address": "경상북도 안동시 앙실로 11 (수상동)",
+      "latitude": "36.547024",
+      "longitude": "128.70064",
+      "parking": ["건물", "주차가능", "50대 이상", "유료", "2시간 무료"],
+      "since": "2019-12",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3855]_20191219033708_b79kg.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3855]_20191219033919_donjm.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3855]_20191219033926_deubx.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3855]_20191219033936_vau6r.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2019/12/[3855]_20191219034542_858rj.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk49",
+      "name": "안동시청",
+      "address": "경상북도 안동시 서동문로 173 (삼산동)",
+      "latitude": "36.5663574",
+      "longitude": "128.7311385",
+      "parking": ["건물", "주차불가"],
+      "since": "2015-09",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2017/08/[3107]_20170802052816_s7c52.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2015/09/[3107]_20150916093838746.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2015/09/[3107]_20150916093909680.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2015/09/[3107]_20150916094646007.JPG",
+        "https://image.istarbucks.co.kr/upload/store/2015/09/[3107]_20150916094819331.JPG"
+      ]
+    },
+    {
+      "id": "gyeongbuk50",
+      "name": "안동강변DT",
+      "address": "경상북도 안동시 육사로 327 (법흥동)",
+      "latitude": "36.5622204986042",
+      "longitude": "128.739846812428",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "5대",
+        "유료",
+        "스타벅스 이용고객 2시간 무료"
+      ],
+      "since": "2022-05",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[3913]_20220522101710_7mqgs.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/04/[3913]_20220414085921_66og4.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/04/[3913]_20220414085950_vpdvi.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/04/[3913]_20220414100824_j12va.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/04/[3913]_20220414085939_fwbz3.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk51",
+      "name": "안동옥동",
+      "address": "경상북도 안동시 광명로 166 (옥동)",
+      "latitude": "36.5622894296505",
+      "longitude": "128.701536314643",
+      "parking": ["건물", "주차불가"],
+      "since": "2022-05",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[4290]_20220526085337_lmzw8.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[4290]_20220526085404_7j2vg.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[4290]_20220525053741_duh3c.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[4290]_20220525053835_n18qm.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/05/[4290]_20220526090133_hxi5m.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk52",
+      "name": "영천완산DT",
+      "address": "경상북도 영천시 영화로 272 (완산동)",
+      "latitude": "35.9670208",
+      "longitude": "128.9488634",
+      "parking": ["DT점", "주차가능", "63대", "무료"],
+      "since": "2023-04",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/05/[4219]_20230511074254_371ae.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[4219]_20230422055000_h2td7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[4219]_20230422055016_ytyut.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[4219]_20230422055030_f2vwg.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/05/[4219]_20230511073704_qv5ro.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/05/[4219]_20230511074144_ikj5c.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/05/[4219]_20230511073732_aktqe.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/05/[4219]_20230511073817_2jukk.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/04/[4219]_20230423055814_z0eoa.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk53",
+      "name": "포항죽도DT",
+      "address": "경상북도 포항시 북구 새천년대로 486 699-1 에스오일",
+      "latitude": "36.018521",
+      "longitude": "129.347918",
+      "parking": ["DT점", "주차가능", "7대", "무료"],
+      "since": "2021-01",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[3723]_20210902022712_txn8q.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[3723]_20210902022726_mrt7q.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[3723]_20210902022738_fax8p.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[3723]_20210902022751_v73dw.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[3723]_20210902022807_wghqp.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[3723]_20210902022851_hfxzj.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[3723]_20210902022913_3y1q6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[3723]_20210902022924_334ft.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk54",
+      "name": "포항장성DT",
+      "address": "경상북도 포항시 북구 새천년대로 1255 (장성동)",
+      "latitude": "36.074535",
+      "longitude": "129.384214",
+      "parking": ["DT점", "주차가능", "3대", "무료"],
+      "since": "2020-04",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[3349]_20200415050100_i099i.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[3349]_20200419030755_2eoel.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[3349]_20200415050112_y27sz.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[3349]_20200415050139_bw7lh.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[3349]_20200415050153_pgfwv.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2017/04/[3349]_20170402085755_mr5uk.JPG"
+      ]
+    },
+    {
+      "id": "gyeongbuk55",
+      "name": "포항양덕",
+      "address": "경상북도 포항시 북구 장량로 162 (양덕동)",
+      "latitude": "36.0815505",
+      "longitude": "129.3981614",
+      "parking": ["건물", "주차가능", "7대", "무료"],
+      "since": "2016-11",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[3099]_20200415044036_93mji.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[3099]_20200415044042_yteeo.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2020/04/[3099]_20200415044046_zrz22.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2016/11/[3099]_20161128124827_392g2.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2016/11/[3099]_20161128124834_753k5.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2016/11/[3099]_20161128124837_xug1p.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk56",
+      "name": "포항중앙",
+      "address": "경상북도 포항시 북구 불종로 41 (신흥동)",
+      "latitude": "36.038713",
+      "longitude": "129.364099",
+      "parking": ["건물", "주차불가"],
+      "since": "2021-09",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[9944]_20210907074717_o376s.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[9944]_20210903095526_0754o.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[9944]_20210903095602_2nytr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[9944]_20210903095624_awmv8.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[9944]_20210903095638_wz3iy.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[9944]_20210903095655_aggcy.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[9944]_20210903095709_17knr.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/09/[9944]_20210903095720_elaly.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk57",
+      "name": "포항영일대비치",
+      "address": "경상북도 포항시 북구 삼호로 186 (항구동)",
+      "latitude": "36.0549919",
+      "longitude": "129.37698060000002",
+      "parking": ["건물", "주차가능", "6대", "무료"],
+      "since": "2021-04",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2021/04/[9566]_20210420093408_3nlpu.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/04/[9566]_20210420093521_khqqi.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/04/[9566]_20210420093102_glx1f.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/04/[9566]_20210420093530_r4he8.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/04/[9566]_20210420093544_1yrd0.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/04/[9566]_20210420093548_ab1iu.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/04/[9566]_20210420094012_rrjiz.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2021/04/[9566]_20210420094022_4uunz.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk58",
+      "name": "포항법원DT",
+      "address": "경상북도 포항시 북구 신덕로 287 (장성동)",
+      "latitude": "36.088505",
+      "longitude": "129.385016",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "16대",
+        "유료",
+        "영수증 1만원 이상 1시간 무료, 이후 10분당 300원"
+      ],
+      "since": "2023-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/08/[4372]_20230823045842_8r486.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/08/[4372]_20230824084422_ken76.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/08/[4372]_20230824084440_pm1sc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/08/[4372]_20230824084455_ytr51.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/08/[4372]_20230824084509_1klcc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/08/[4372]_20230824084522_0hkfu.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk59",
+      "name": "포항화진해수욕장",
+      "address": "경상북도 포항시 북구 송라면 동해대로3218번길 40 (송라면)",
+      "latitude": "36.2515524885638",
+      "longitude": "129.373347731806",
+      "parking": [
+        "건물",
+        "주차가능",
+        "3대",
+        "무료",
+        "화진해수욕장 노지주차장 106대 가능"
+      ],
+      "since": "2024-04",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/04/[4270]_20240426114639_esbu6.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/04/[4270]_20240426114523_qg2kp.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4270]_20240221053246_zq3q8.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4270]_20240220070118_2x3tu.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4270]_20240221053600_u2nbd.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4270]_20240221053536_8r5b3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4270]_20240221053804_4qigh.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4270]_20240220070316_4aea2.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/02/[4270]_20240220070834_d6daz.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/04/[4270]_20240426114724_j1vnp.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk60",
+      "name": "포항중앙로DT",
+      "address": "경상북도 포항시 북구 중앙로 197 (죽도동)",
+      "latitude": "36.030707",
+      "longitude": "129.366266",
+      "parking": [
+        "DT점",
+        "주차가능",
+        "14대",
+        "유료",
+        "최초 15분 무료, 영수증 1만원 이상 1시간, 2만원 이상 2시간 무료(최대 2시간 가능)"
+      ],
+      "since": "2022-11",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[4209]_20221114072752_jo5fe.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[4209]_20221116044458_y143p.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[4209]_20221116044503_o0d1g.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[4209]_20221116044509_t3vty.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2022/11/[4209]_20221116044514_94kll.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk61",
+      "name": "포항초곡DT",
+      "address": "경상북도 포항시 북구 흥해읍 동해대로 1354",
+      "latitude": "36.0940736477798",
+      "longitude": "129.343182672234",
+      "parking": ["DT점", "주차가능", "36대", "무료"],
+      "since": "2024-08",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[4458]_20240805082018_mqn90.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[4458]_20240807063009_os0as.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[4458]_20240807061103_0rrd9.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[4458]_20240807061722_42g65.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[4458]_20240807061929_xt44i.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[4458]_20240807062233_rkstq.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[4458]_20240807062333_vacsc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[4458]_20240807062601_ijdj4.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[4458]_20240807062659_2w4h7.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2024/08/[4458]_20240807062908_ihr8m.jpg"
+      ]
+    },
+    {
+      "id": "gyeongbuk62",
+      "name": "포항두호DT",
+      "address": "경상북도 포항시 북구 새천년대로 1031 (창포동)",
+      "latitude": "36.0610094",
+      "longitude": "129.370226",
+      "parking": ["DT점", "주차가능", "9대", "무료"],
+      "since": "2023-11",
+      "images": [
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4400]_20231106051859_a5num.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4400]_20231108124816_bvqnc.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4400]_20231108124829_porkt.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4400]_20231108124905_lbdnn.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4400]_20231108124922_6nkns.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4400]_20231108124957_w9dv3.jpg",
+        "https://image.istarbucks.co.kr/upload/store/2023/11/[4400]_20231108125004_6iphd.jpg"
+      ]
+    }
+  ]
 }
